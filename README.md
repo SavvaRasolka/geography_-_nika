@@ -1,31 +1,11 @@
-<h1 align="center">Welcome to NIKA 👋</h1>
-<p>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
-    <img alt="GPLv3" src="https://img.shields.io/badge/License-GPLv3-yellow.svg" />
-  </a>
-</p>
-
-> **N**IKA is an **I**ntelligent **K**nowledge-driven **A**ssistant
-
-## About
-NIKA is an ostis-system designed with [OSTIS Technology principles](https://github.com/ostis-ai) in mind. 
-
-You can learn more about it by asking the assistant: "What's NIKA?"
-
-## Run documentation
+## Добавление БЗ
+Добавьте файлы в папку kb, затем перезагрузите Нику. Если все работает, то заливайте изменения следующим образом:
 
 ```sh
-#Terminal
-cd nika
-pip3 install mkdocs markdown-include mkdocs-material mkdocs-i18n
-mkdocs serve
+git add kb/extra/
+git commit -m “feat(kb): <название вашей предметной области>”
+git push
 ```
-
-Then open http://127.0.0.1:8002/ in your browser
-
-## ✨ Demo
-![demo.png](docs/images/demo.png)
-
 
 ## Requirements
 You will need [Docker](https://docs.docker.com/) (with Compose plugin) installed and running on your machine. 
