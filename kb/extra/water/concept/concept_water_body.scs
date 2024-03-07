@@ -1,0 +1,8 @@
+concept_water_body
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Водные объекты] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Water body] (* <- lang_en;; *);
+=> nrel_note:
+	[Класс содержащий все водные объекты] (* <- lang_ru;; *);;

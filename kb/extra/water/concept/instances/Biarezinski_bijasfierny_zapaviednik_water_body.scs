@@ -1,0 +1,122 @@
+Domzaryckaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Домжерицкое озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Домжарыцкае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B6%D0%B5%D1%80%D0%B8%D1%86%D0%BA%D0%BE%D0%B5_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">Домжерицкое озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Domzaryckaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Лепельском районе Витебской области в бассейне реки Сергуч (приток Березины). Находится на территории Березинского биосферного заповедника, в северной части Домжерицких болот] (* <- lang_ru;; *);;
+
+
+voziera_Plauna
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Плавно]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Плаўна]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE">озеро Плавно</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Plauna.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Докшицком районе Витебской области Беларуси. Относится к бассейну реки Березина.] (* <- lang_ru;; *);;
+
+
+voziera_Volsyca
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Ольшица]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Вольшыца]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D1%8C%D1%88%D0%B8%D1%86%D0%B0">озеро Ольшица</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Volsyca.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Докшицком районе Витебской области Беларуси. Относится к бассейну реки Березина.] (* <- lang_ru;; *);;
+
+
+voziera_Palik
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Палик]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Палік]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B8%D0%BA">озеро Палик</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Palik.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Борисовском районе Минской области Беларуси, расположено в 30 км севернее города Борисов, является расширением Березины. На берегу озера стоит одноимённая деревня. В Палик впадают реки Лютка, Смольница, Бурчак. Озеро находится на территории «Березинского биосферного заповедника».] (* <- lang_ru;; *);;

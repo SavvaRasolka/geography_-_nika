@@ -1,0 +1,217 @@
+voziera_Dryviaty
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Дривяты]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Дрывяты]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B8%D0%B2%D1%8F%D1%82%D1%8B?uselang=ru">озеро Дривяты</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Dryviaty.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Браславском районе Витебской области. Наиболее крупное среди Браславских озёр и шестое по величине в Беларуси. На северном берегу озера расположен город Браслав.] (* <- lang_ru;; *);;
+
+
+
+voziera_Biareza
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Береже]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Бярэжа]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B5%D0%B6%D0%B0_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE,_%D0%91%D1%80%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)">озеро Береже</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Biareza.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Браславском районе Витебской области Беларуси. Озеро Бережа входит в число Браславских озёр, расположено на северо-западной окраине города Браслав.] (* <- lang_ru;; *);;
+
+
+
+voziera_Snudy
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Снуды]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Снуды]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D1%83%D0%B4%D1%8B?uselang=ru">озеро Снуды</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Snudy.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Браславском районе Витебской области в 10 км севернее Браслава, в 5 км от границы с Латвией. Площадь озера — 22 км².] (* <- lang_ru;; *);;
+
+
+voziera_Vojsa
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Войсо]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Войса]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D1%81%D0%BE_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">озеро Войсо</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Vojsa.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Беларуси, в Браславском районе Витебской области в бассейне реки Друйка, в 4 км на северо-восток от города Браслав. Относится к группе Браславских озёр и находится на территории Национального парка «Браславские озёра»] (* <- lang_ru;; *);;
+
+
+voziera_Niespis
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Несьпиш]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Несьпіш]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%81%D0%BF%D0%B8%D1%88">озеро Несьпиш</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Niespis.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Браславском районе Витебской области. Расположено в бассейне реки Друйка, в 4 километрах на восток от города Браслав, рядом с деревней Рубеж. Принадлежит группе Браславских озер и находится на территории Национального парка «Браславские озера».] (* <- lang_ru;; *);;
+
+
+voziera_Niedrava
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Недрово]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Недрава]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B4%D1%80%D0%BE%D0%B2%D0%BE">озеро Недрово</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Niedrava.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Беларуси, в Браславском районе Витебской области в бассейне реки Друйка, в 7 км на северо-восток от города Браслав. Относится к группе Браславских озёр и находится на территории Национального парка «Браславские озёра».] (* <- lang_ru;; *);;
+
+
+voziera_Naviata
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Новята]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Навята]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%9D%D0%B0%D0%B2%D1%8F%D1%82%D0%B0?uselang=ru">озеро Новята</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Naviata.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Беларуси, в Браславском районе Витебской области. Относится к группе Браславских озёр и находится на территории Национального парка «Браславские озёра».] (* <- lang_ru;; *);;

@@ -1,0 +1,11 @@
+concept_water_body_type
+<- sc_node_class;
+=> nrel_inclusion:
+	concept_lake;
+  concept_reservoir;
+=> nrel_main_idtf:
+	[Типы водных объектов] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Water body type] (* <- lang_en;; *);
+=> nrel_note:
+	[Класс содержащий типы водных объектов] (* <- lang_ru;; *);;

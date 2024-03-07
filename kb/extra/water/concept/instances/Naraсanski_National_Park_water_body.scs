@@ -1,0 +1,702 @@
+voziera_Vialikija_Svaksty
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Большие Швакшты]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Вялікія Швакшты]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5_%D0%A8%D0%B2%D0%B0%D0%BA%D1%88%D1%82%D1%8B">озеро Большие Швакшты</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Vialikija_Svaksty.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Поставском районе Витебской области Беларуси. Относится к бассейну реки Страча. Входит в состав гидрологического заказника «Швакшты», относящегося к национальному парку «Нарочанский». Большие Швакшты — самое крупное озеро Поставского района, однако не обладает существенной глубиной. Тем не менее, озеро отличается чистотой воды и относительно благоприятным экологическим режимом. ] (* <- lang_ru;; *);;
+
+
+voziera_Malyja_Svaksty
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Малые Швакшты]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Малыя Швакшты]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B5_%D0%A8%D0%B2%D0%B0%D0%BA%D1%88%D1%82%D1%8B">озеро Малые Швакшты</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Malyja_Svaksty.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Поставском районе Витебской области Беларуси. Относится к бассейну реки Страча, которая вытекает из озера. Входит в состав гидрологического заказника «Швакшты», относящегося к национальному парку «Нарочанский». ] (* <- lang_ru;; *);;
+
+
+voziera_Svir
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Свирь]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Свір]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D1%80%D1%8C%20(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)?uselang=ru">озеро Свирь</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Svir.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро на северо-западе Беларуси, в бассейне реки Страча (приток Вилии), наибольшее в Свирской группе озёр.] (* <- lang_ru;; *);;
+
+
+voziera_Narac
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Нарочь]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Нарач]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D1%87%D1%8C_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">озеро Нарочь</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Narac.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области Беларуси. Расположено в бассейне реки Нарочь. Находится на территории Нарочанского национального парка. Входит в Нарочанскую группу озёр] (* <- lang_ru;; *);;
+
+
+voziera_Miastra
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Мястро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Мястра]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%8F%D1%81%D1%82%D1%80%D0%BE">озеро Мястро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Miastra.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Минской области Беларуси. Относится к бассейну реки Нарочь. Второе по площади в Нарочанской группе озёр. Входит в состав курортной зоны «Нарочь» и национального парка «Нарочанский»] (* <- lang_ru;; *);;
+
+
+Belaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Белое озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Белае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%91%D0%B5%D0%BB%D0%B0%D0%B5%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0,%20%D0%9C%D1%8F%D0%B4%D0%B7%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D1%96%20%D1%80%D0%B0%D1%91%D0%BD)?uselang=ru">Белое озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Belaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области, входит в Нарочанскую группу. Озеро с площадью зеркала 1,95 км² лежит к югу от деревни Гатовичи. Площадь водосбора — 4,72 км², максимальная глубина — 8,1 м, длина береговой линии — 6 км. В отличие от других Нарочанских озёр, Бледное бессточно] (* <- lang_ru;; *);;
+
+
+voziera_Miadziel
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Мядель]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Мядзел]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%8F%D0%B4%D0%B5%D0%BB%D1%8C%20(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)?uselang=ru">озеро Мядель</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Miadziel.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области Беларуси. Относится к бассейну реки Мяделка, вытекающей из озера. Находится на территории Нарочанского национального парка. Крупнейший водоём Мядельской группы озёр и одно из крупнейших озёр Беларуси] (* <- lang_ru;; *);;
+
+
+voziera_Batoryna
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Баторино]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Баторына]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%BE">озеро Баторино</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Batoryna.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области Беларуси. Относится к бассейну реки Нарочь. Входит в группу Нарочанских озёр и в состав национального парка «Нарочанский». Несмотря на низкую степень чистоты воды, озеро играет важную роль в поддержании стабильной экосистемы Нарочанских озёр, принимая на себя нежелательные стоки из близлежащих болот и других источников загрязнения. ] (* <- lang_ru;; *);;
+
+
+voziera_Hlubla
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Глубля]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Глубля]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D0%B1%D0%BB%D1%8F">озеро Глубля</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Hlubla.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[озеро в Мядельском районе Минской области, второе по величине среди Блакитных озёр.] (* <- lang_ru;; *);;
+
+
+voziera_Hlubelka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Глубелька]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Глубелька]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D0%B1%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">озеро Глубелька</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Hlubelka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области Беларуси, расположено в Нарочанском национальном парке вблизи деревни Ольшево, входит в группу озёр, именуемых Голубыми.] (* <- lang_ru;; *);;
+
+
+voziera_Balduk
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Болдук]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Балдук]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B4%D1%83%D0%BA_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">возера Балдук</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Balduk.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области, крупнейшее среди Голубых озёр.] (* <- lang_ru;; *);;
+
+
+
+Bielahalovaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Белоголовое озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Белагаловае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5">Белоголовое озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Bielahalovaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области Беларуси. Относится к бассейну реки Страча.] (* <- lang_ru;; *);;
+
+
+voziera_Jacmianiec
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Ячменёк]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Ячмянец]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%AF%D1%87%D0%BC%D1%8F%D0%BD%D0%B5%D1%86?uselang=ru">озеро Ячменёк</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Jacmianiec.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе Минской области Беларуси. Относится к бассейну реки Страча.] (* <- lang_ru;; *);;
+
+
+
+Miortvaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Мёртвое озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Мёртвае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%BE%D0%B5_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">Мёртвое озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Miortvaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси, входящее в группу Голубые озёра.] (* <- lang_ru;; *);;
+
+
+voziera_Svino
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Свино]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Свіно]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%A1%D0%B2%D1%96%D0%BD%D0%BE%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0)?uselang=ru">озеро Свино</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Svino.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси, входящее в группу Голубые озёра.] (* <- lang_ru;; *);;
+
+
+voziera_Imsarac
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Омшарник]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Імшарац]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="">озеро Омшарник</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси, входящее в группу Голубые озёра.] (* <- lang_ru;; *);;
+
+
+voziera_Vilcynija
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Ильгиния]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Вільчынія]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%92%D1%96%D0%BB%D1%8C%D1%87%D1%8B%D0%BD%D1%96%D1%8F?uselang=ru">озеро Ильгиния</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Vilcynija.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси, входящее в группу Голубые озёра. Принадлежит бассейну реки Страча.] (* <- lang_ru;; *);;
+
+
+voziera_Karasik
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Карасик]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Карасік]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%9A%D0%B0%D1%80%D0%B0%D1%81%D1%96%D0%BA?uselang=ru">озеро Карасик</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Karasik.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси, входящее в группу Голубые озёра. Принадлежит бассейну реки Страча.] (* <- lang_ru;; *);;
+
+
+voziera_Akuniok
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Окунёк]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Акунёк]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%90%D0%BA%D1%83%D0%BD%D1%91%D0%BA?uselang=ru">озеро Окунёк</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Akuniok.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси, входящее в группу Голубые озёра. Принадлежит бассейну реки Страча.] (* <- lang_ru;; *);;
+
+
+Hluchoje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Глухое озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Глухое возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%93%D0%BB%D1%83%D1%85%D0%BE%D0%B5%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0,%20%D0%B1%D0%B0%D1%81%D0%B5%D0%B9%D0%BD%20%D0%A1%D0%B2%D1%96%D1%80%D1%8B%D1%86%D1%8B)?uselang=ru">Глухое озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Hluchoje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси. Относится к бассейну реки Свирица] (* <- lang_ru;; *);;
+
+
+voziera_Dziahili
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Дягили]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Дзягілі]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%94%D0%B7%D1%8F%D0%B3%D1%96%D0%BB%D1%96%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0)?uselang=ru">озеро Дягили</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Dziahili.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Мядельском районе в Минской области в Беларуси. Относится к бассейну реки Узлянка] (* <- lang_ru;; *);;
+
+
+Kniahininskaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Княгининское озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Княгініскае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D1%8F%D0%B3%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5">Княгининское озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Kniahininskaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[озеро в Мядельском районе Минской области Беларуси. Относится к бассейну реки Мяделка. Входит в группу Мядельских озёр.] (* <- lang_ru;; *);;
+
+
+Visnieuskaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Вишневское озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Вішнеўскае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%88%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">Вишневское озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Visnieuskaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро на северо-западе Беларуси, в бассейне реки Страча (приток Вилии), в группе Свирских озёр. Расположено на территории Вилейского района Минской области в 32 километрах северо-западнее города Вилейка, на границе Мядельского района Минской области и Сморгонского района Гродненской области.] (* <- lang_ru;; *);;

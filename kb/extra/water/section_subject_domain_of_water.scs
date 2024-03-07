@@ -1,0 +1,20 @@
+section_subject_domain_of_water
+    => nrel_main_idtf:
+        [Раздел. Предметная область водоёмов] (* <- lang_ru;; *);
+<- sc_node_class;
+<- atomic_section;;
+
+section_subject_domain_of_water = [*
+    subject_domain_of_water
+        => nrel_main_idtf: 
+            [Предметная область по водоёмов] (* <- lang_ru;; *);
+        <- subject_domain;
+        -> rrel_maximum_studied_object_class:
+            concept_water_body;
+        -> rrel_explored_relation:
+            nrel_type;
+        -> rrel_not_maximum_studied_object_class:
+            concept_lake;
+            concept_reservoir;
+            concept_water_body_type;;
+*];;

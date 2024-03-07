@@ -1,0 +1,793 @@
+Vyhanascanskaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Выгонощанское озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Выганашчанскае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B3%D0%BE%D0%BD%D0%BE%D1%89%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)?uselang=ru">Выгонощанское озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Vyhanascanskaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Ивацевичском районе Брестской области Беларуси.] (* <- lang_ru;; *);;
+
+
+Babrovickaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Бобровичское озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Бабровіцкае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%87%D1%81%D0%BA%D0%BE%D0%B5_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">Бобровичское озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Babrovickaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Ивацевичском районе Брестской области Беларуси. Близ озера находится деревня Бобровичи, город Ивацевичи расположен в 30 км.] (* <- lang_ru;; *);;
+
+
+Vialikaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Великое озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Вялікае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0,%20%D0%A1%D0%BC%D0%B0%D0%BB%D1%8F%D0%B2%D1%96%D1%86%D0%BA%D1%96%20%D1%80%D0%B0%D1%91%D0%BD)?uselang=ru">Великое озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Vialikaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Смолевичской районе Беларуси. Относится к бассейну реки Гайна.] (* <- lang_ru;; *);;
+
+
+voziera_Studzianka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Студенка]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Студзянка]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%9C%D0%B0%D0%BB%D0%BE%D0%B5%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0,%20%D0%A1%D0%BC%D0%B0%D0%BB%D1%8F%D0%B2%D1%96%D1%86%D0%BA%D1%96%20%D1%80%D0%B0%D1%91%D0%BD)?uselang=ru">озеро Студенка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+=> nrel_note:
+	[Озеро в Смолевичской районе Беларуси. Относится к бассейну реки Гайна.] (* <- lang_ru;; *);;
+
+
+Douhaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Долгое озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Доўгае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%BE%D0%B5_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE,_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F)">Долгое озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Douhaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Глубокском районе Витебской области Беларуси, в бассейне реки Шоши (бассейн Западной Двины). Самое глубокое озеро Белоруссии: его глубина превышает 53 м. Благодаря высокой степени чистоты воды и рекордной глубине водоём именуют «белорусским Байкалом»] (* <- lang_ru;; *);;
+
+
+voziera_Bolnyro
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Болныро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Болныра]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BD%D1%8B%D1%80%D1%8F">озеро Болныро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Bolnyro.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Полоцком районе Витебской области Беларуси. Небольшой по глубине, но достаточно крупный по площади водоём, относящийся одновременно к бассейнам рек Сосница (притока Западной Двины) и Свина́(также в бассейне Западной Двины).] (* <- lang_ru;; *);;
+
+
+voziera_Jelnia
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Ельня]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Ельня]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D1%8C%D0%BD%D0%BE_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)">озеро Ельня</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Jelnia.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Миорском районе Витебской области в границах Полоцкой низменности. Относится к бассейну реки Ельнянка.] (* <- lang_ru;; *);;
+
+
+voziera_Mosnia
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Мошня]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Мошня]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%9C%D0%BE%D1%88%D0%BD%D1%8F%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0,%20%D0%A8%D1%83%D0%BC%D1%96%D0%BB%D1%96%D0%BD%D1%81%D0%BA%D1%96%20%D1%80%D0%B0%D1%91%D0%BD)?uselang=ru">озеро Мошня</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Mosnia.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Шумилинском районе Витебской области в бассейне реки Обаль. Принадлежит территории заказника Козьянский.] (* <- lang_ru;; *);;
+
+
+voziera_Kanaplanka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Коноплянка]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Канаплянка]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%9A%D0%B0%D0%BD%D0%B0%D0%BF%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0)?uselang=ru">озеро Коноплянка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Kanaplanka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Шумилинском районе Витебской области в бассейне реки Обаль. Принадлежит территории заказника Козьянский.] (* <- lang_ru;; *);;
+
+
+voziera_Cienica
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Тенница]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Ценіца]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%A6%D0%B5%D0%BD%D1%96%D1%86%D0%B0%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0)?uselang=ru">озеро Тенница</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Cienica.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Шумилинском районе Витебской области в бассейне реки Обаль. Принадлежит территории заказника Козьянский.] (* <- lang_ru;; *);;
+
+
+voziera_Rasalaj
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Рассолай]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Расалай]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%A0%D0%B0%D1%81%D0%B0%D0%BB%D0%B0%D0%B9?uselang=ru">озеро Рассолай</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Rasalaj.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Шумилинском районе Витебской области в бассейне реки Обаль. Принадлежит территории заказника Козьянский.] (* <- lang_ru;; *);;
+
+
+voziera_Cyscik
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Чистик]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Чысцік]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%A7%D1%8B%D1%81%D1%86%D1%96%D0%BA%20(%D0%B2%D0%BE%D0%B7%D0%B5%D1%80%D0%B0)?uselang=ru">озеро Чистик</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Cyscik.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Городокском районе Витебской области. Принадлежит бассейну реки Овсянка.] (* <- lang_ru;; *);;
+
+
+voziera_Kroman
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Кромань]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Кромань]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%8C">озеро Кромань</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Kroman.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Эвтрофное карстовое озеро в Беларуси на северо-западе Столбцовского района Минской области у границы с Новогрудским районом Гродненской области] (* <- lang_ru;; *);;
+
+
+voziera_Zackava
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Зацково]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Зацкава]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%86%D0%BA%D0%BE%D0%B2%D0%BE">озеро Зацково</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Zackava.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Гродненском районе Гродненской области Беларуси. Относится к бассейну реки Пыранка.] (* <- lang_ru;; *);;
+
+
+Bierstauskaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Берштовское озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Берштаўскае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/be:%D0%91%D0%B5%D1%80%D1%88%D1%82%D0%B0%D1%9E%D1%81%D0%BA%D0%B0%D0%B5?uselang=ru">Берштовское озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Bierstauskaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Щучинском районе Гродненской области Беларуси. Относится к бассейну реки Котра.] (* <- lang_ru;; *);;
+
+
+Asviejskaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Освейское озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Асвейскае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B2%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5">Освейское озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Asviejskaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Верхнедвинском районе Витебской области Республики Беларусь. Расположено в пределах территории Освейского сельсовета, почти на границе с Псковской областью и Латвией. Относится к бассейну реки Западная Двина. Второе по площади озеро в Республике Беларусь, седьмое по объёму воды и десятое длине береговой линии. Входит в состав Освейского ландшафтного заказника республиканского значения.] (* <- lang_ru;; *);;
+
+
+voziera_Lisna
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Лисно]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Лісна]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%BD%D0%BE_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">озеро Лисно</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Lisna.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Верхнедвинском районе Витебской области на границе с Россонским районом; северный берег озера граничит с Себежским районом Псковской области. Расположено в 42 км к северо-востоку от Верхнедвинска, входит в Себежскую группу озёр. ] (* <- lang_ru;; *);;
+
+
+voziera_Svitiaz
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Свитязь]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Свіцязь]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D1%82%D1%8F%D0%B7%D1%8C_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE,_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F)">озеро Свитязь</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Svitiaz.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Новогрудском районе Гродненской области Беларуси. Расположено на территории Валевского сельсовета] (* <- lang_ru;; *);;
+
+
+voziera_Sialava
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Селява]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Сялява]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8F%D0%B2%D0%B0?uselang=ru">озеро Селява</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Sialava.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро на северо-востоке Беларуси, образованный на месте озёр Селява и Рабца при строительстве плотины Селявской ГЭС на реке Югна в 1965 году. Расположено на территории Крупского района Минской области, принадлежит системе реки Лукомки и находится в бассейне Западной Двины.] (* <- lang_ru;; *);;
+
+
+voziera_Chudaviec
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Худовец]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Худавец]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="">озеро Худовец</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Chudaviec.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Крупском районе Минской области Беларуси. Относится к бассейну реки Югна. Располагается в 22 км к северу от города Крупки, в 1,3 км к западу от деревни Худово и в 2 км к северо-востоку от деревни Докучино. Входит в состав гидрологического заказника «Селява»] (* <- lang_ru;; *);;
+
+
+voziera_Sinsa
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Синьша]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Сiньша]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%8C%D1%88%D0%B0_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">озеро Синьша</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Sinsa.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Россонском районе Витебской области Беларуси и Невельском районе Псковской области России. Относится к бассейну реки Дрисса, протекающей через озеро] (* <- lang_ru;; *);;
+
+
+voziera_Hlyba
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Глыба]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Глыба]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D1%8B%D0%B1%D0%B0_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">озеро Глыба</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Hlyba.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Россонском районе Витебской области Беларуси. Относится к бассейну реки Уща.] (* <- lang_ru;; *);;
+
+
+voziera_Astraucy
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Островцы]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Астраўцы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%86%D1%8B_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)">озеро Островцы</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Astraucy.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Россонском районе Витебской области Беларуси и Невельском районе Псковской области России. Относится к бассейну реки Дрисса, протекающей через озеро] (* <- lang_ru;; *);;
+
+
+voziera_Opcina
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [озеро Оптино]
+      (* <- lang_ru;; <- name_ru;; *);
+    [возера Опціна]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D0%BE">озеро Оптино</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/voziera_Opcina.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро в Россонском районе Витебской области Беларуси. Относится к бассейну реки Дрисса] (* <- lang_ru;; *);;
+
+
+Sporauskaje_voziera
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_lake;
+=> nrel_main_idtf:
+    [Споровское озеро]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Спораўскае возера]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5">Споровское озеро</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/Sporauskaje_voziera.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Озеро на границе Березовского района и Дрогичинского района Брестской области Беларуси. Относится к бассейну реки Ясельда, протекающей через озеро] (* <- lang_ru;; *);;
+
+
+vadaschovisca_Gac
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_reservoir;
+=> nrel_main_idtf:
+    [водохранилище Гать]
+      (* <- lang_ru;; <- name_ru;; *);
+    [вадасховішча Гаць]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%82%D1%8C_(%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5)">водохранилище Гать</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/vadaschovisca_Gac.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Водохранилище на территории биологического заказника Барановичский в Барановичском районе Брестской области Беларуси, 22 км от г. Барановичи, 5 км от д. Лесная, 1 от д. Тартаки возле д. Яжона] (* <- lang_ru;; *);;
