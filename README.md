@@ -14,8 +14,8 @@ We recommend using Docker Desktop on [macOS](https://docs.docker.com/desktop/ins
 ## Installation
 
 ```sh
-git clone -c core.longpaths=true -c core.autocrlf=true https://github.com/ostis-apps/nika
-cd nika
+git clone -c core.longpaths=true -c core.autocrlf=true https://github.com/SavvaRasolka/geography_-_nika.git
+cd geogrephy_-_nika
 git submodule update --init --recursive
 docker compose pull
 ```
