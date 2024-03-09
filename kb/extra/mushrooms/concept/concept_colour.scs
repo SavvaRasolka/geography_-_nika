@@ -1,0 +1,8 @@
+concept_colour
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Цвет] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Colour] (* <- lang_en;; *);
+=> nrel_note:
+	[Эффект, который свет оказывает на наши глаза после того, как он попадает на объект] (* <- lang_ru;; *);;

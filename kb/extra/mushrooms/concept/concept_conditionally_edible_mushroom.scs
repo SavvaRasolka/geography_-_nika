@@ -1,0 +1,8 @@
+concept_conditionally_edible_mushroom
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Условно-съедобный гриб] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Conditionally-edible mushroom] (* <- lang_en;; *);
+=> nrel_note:
+	[Гриб, который может быть безопасным для употребления в пищу при определенных условиях] (* <- lang_ru;; *);;

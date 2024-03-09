@@ -1,0 +1,8 @@
+concept_hallucinogenic_mushroom
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Галлюциногенный гриб] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Hallucinogenic mushroom] (* <- lang_en;; *);
+=> nrel_note:
+	[Гриб, содержащий психоделические вещества, которые могут вызывать измененные состояния сознания, включая галлюцинации, изменения в восприятии, настроении и мышлении] (* <- lang_ru;; *);;

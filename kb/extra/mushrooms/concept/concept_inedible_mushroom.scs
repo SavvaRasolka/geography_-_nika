@@ -1,0 +1,8 @@
+concept_inedible_mushroom
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Неcъедобный гриб] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Inedible mushroom] (* <- lang_en;; *);
+=> nrel_note:
+	[Гриб, который является непригодным для употребления в пищу из-за его токсичности или несъедобности] (* <- lang_ru;; *);;

@@ -1,0 +1,8 @@
+concept_poisonous_mushroom
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Ядовитый гриб] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Poisonous mushroom] (* <- lang_en;; *);
+=> nrel_note:
+	[Гриб, содержащий токсичные вещества, которые могут быть опасными для человека при употреблении в пищу] (* <- lang_ru;; *);;

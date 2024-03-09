@@ -1,0 +1,8 @@
+concept_edible_mushroom
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Съедобный гриб] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Edible mushroom] (* <- lang_en;; *);
+=> nrel_note:
+	[Гриб, который безопасен для человеческого потребления и пригоден для приготовления пищи] (* <- lang_ru;; *);;

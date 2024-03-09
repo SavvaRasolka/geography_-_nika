@@ -1,0 +1,22 @@
+section_subject_domain_of_mushrooms
+    => nrel_main_idtf:
+        [Раздел. Предметная область грибов] (* <- lang_ru;; *);
+<- sc_node_class;
+<- atomic_section;;
+
+section_subject_domain_of_mushrooms = [*
+    subject_domain_of_mushrooms
+        => nrel_main_idtf: 
+            [Предметная область грибов] (* <- lang_ru;; *);
+        <- subject_domain;
+        -> rrel_maximum_studied_object_class:
+            concept_mushroom;
+        -> rrel_explored_relation:
+            nrel_cap_colour;
+        -> rrel_not_maximum_studied_object_class:
+            concept_edible_mushroom;
+            concept_conditionally_edible_mushroom;
+            concept_inedible_mushroom;
+            concept_hallucinogenic_mushroom;
+            concept_poisonous_mushroom;;
+*];;
