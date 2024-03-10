@@ -1,0 +1,43 @@
+nrel_belongs_to_area
+<- sc_node_norole_relation;
+<- relation;
+<- binary_relation;
+<- oriented_relation;
+<- antireflexive_relation;
+<- asymmetric_relation;
+<- antitransitive_relation;
+=> nrel_main_idtf:
+	[Принадлежит к области*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Belongs to area*] (* <- lang_en;; *);
+=> nrel_first_domain: concept_region;
+=> nrel_second_domain: concept_park_name;
+     
+=> nrel_definitional_domain:
+   ...
+   (*
+        <= nrel_combination:
+        	{
+            		concept_park_name;
+			concept_region
+        	};;
+   *);
+<- rrel_key_sc_element:
+   ...
+   (*
+      => nrel_main_idtf:
+          [Опр. (Принадлежит к области* )]
+          (* <- lang_ru;; *);;
+      <- definition;;
+      <= nrel_sc_text_translation:
+           ...
+           (*
+              -> rrel_example:
+               [Принадлежит к области* - бинарное неролевое отношение между природно-заповедной территорией и областью, который описывает к какой области относится эта природно-заповедная территория.]
+               (* <- lang_ru;; *);;
+           *);;
+      <= nrel_using_constants:
+		{
+            relation
+        };;
+  *);;

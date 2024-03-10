@@ -1,0 +1,2160 @@
+wildlife_sanctuary_antonovo
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Антоново]
+  (*
+  <- lang_ru;;
+  *);
+  [Antonovo]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1983;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Находится в сквозной долине рек Гайна и Илия, на осушенных землях, поросших древесно-кустарниковой растительностью. На болотах заказника 23 бобровые плотины; обитают ондатра, выдра, норка, лось, водоплавающие и болотные птицы. Именно с целью сохранения уникальной колонии бобровых поселений был создан данный объект.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_babinets
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Бабинец]
+  (*
+  <- lang_ru;;
+  *);
+  [Babinets]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник республиканского значения, созданный в 1979 году для сохранения мест массового произрастания клюквы в естественных условиях. Заказник находится на территории Октябрьского района Гомельской области Белоруссии. В 2007 году заказнику был присвоен статус «республиканского».] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_belaya_rus
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Белая Русь]
+  (*
+  <- lang_ru;;
+  *);
+  [White Rus']
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Для Логойского района характерен холмистый рельеф, образовавшийся под действием проходящих по территории Беларуси ледников. Близость к Минску обусловило большую популярность местных живописных ландшафтов у отдыхающих.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_boloto_moh
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Болото Мох]
+  (*
+  <- lang_ru;;
+  *);
+  [Swamp Moss]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1981;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [гидрологический заказник республиканского значения, созданный в 1981 году для того, чтобы сохранить в естественном состоянии торфяной массив Болото Мох, который регулирует водный режим прилегающей территории и озёр Обстерно, Важа, Нобисто, Укля. Заказник находится на территории Перебродского сельсовета Миорского района Витебской области. Ближайший населённый пункт — деревня Перебродье.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_borisovski
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Борисовский]
+  (*
+  <- lang_ru;;
+  *);
+  [Borisovsky]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+	mogilev_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Ландшафтный заказник «Борисовский» был создан в 2015 году. Его площадь составляет 2731,4 га. В основном это территория, расположенная в пойме реки Гайны (Борисовский и Смолевичский районы). Там до сих пор сохранились участки старовозрастных лиственных лесов.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_borski
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Борский]
+  (*
+  <- lang_ru;;
+  *);
+  [Borsky]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2007;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник республиканского значения, созданный в 1979 году для сохранения представителей растительного и животного мира, включённых в Красную книгу Белоруссии, а также мест произрастания клюквы болотной в естественных условиях. Заказник находится на территории Ганцевичского и Лунинецкого районов Брестской области Белоруссии. В 2007 году заказнику был присвоен статус «республиканского».] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_buda_koshelevsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Буда-Кошелёвский биологический заказник]
+  (*
+  <- lang_ru;;
+  *);
+  [Buda-Koshelevsky Biological Reserve]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1988;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник в центре Буда-Кошелёвского района Гомельской области (Белоруссия). Площадь 13 575 га. Его территория охватывает редкие сохранившиеся лесные массивы в моренно-зандровом ландшафте, благоприятном для сельскохозяйственного освоения и поэтому почти полностью распаханного.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_volmyanski
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Волмянский]
+  (*
+  <- lang_ru;;
+  *);
+  [Volmyansky]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2001;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник в Смолевичском районе Минской области (Белоруссия). Площадь 614,5 га. Западная граница заказника проходит по реке Волма. Создан в 2001 году для сохранения в естественном состоянии ценных лесных формаций с комплексом редких и исчезающих видов растений и животных, занесённых в Красную книгу Республики Беларусь.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_voronichsky_island
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Вороничский остров]
+  (*
+  <- lang_ru;;
+  *);
+  [Voronichsky Island]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Расположен в Пуховичском районе Минской области, занимает 828,44 га. В его состав входят земли лесного фонда Пуховичского лесхоза, а также земли сельскохозяйственного производственного кооператива «Ветеревичи».] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_vygonoshchanskoe
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Выгонощанское]
+  (*
+  <- lang_ru;;
+  *);
+  [Vygonoshchanskoe]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1968;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Ландшафтный заказник республиканского значения в Брестской области Белоруссии, входит в сеть водно-болотных угодий, охраняемых согласно Рамсарской конвенции.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_vydritsa
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Выдрица]
+  (*
+  <- lang_ru;;
+  *);
+  [Vydritsa]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1999;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Ландшафтный заказник в Белоруссии. Расположен к северу от города Светлогорска в пределах Светлогорского и Жлобинского районов. Общая площадь — 17 560 гектаров. Создан 14 октября 1999 года в целях сохранения в естественном состоянии уникального природного комплекса с популяциями редких и исчезающих видов растений и животных, занесенных в Красную книгу Белоруссии.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_gayno_brodnya
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Гайно-Бродня]
+  (*
+  <- lang_ru;;
+  *);
+  [Gaino-Brodnya]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник «Гайно-Бродня» образован в 2015 году в Смолевичском районе. Площадь заказника составляет 1 196 га. Свое название природоохранная территория получила в честь протекающих тут двух рек.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_grodnenskaya_pushcha
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Гродненская пуща]
+  (*
+  <- lang_ru;;
+  *);
+  [Grodno Pushcha]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2007;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Природоохранная территория, которая находится в Гродненском районе Гродненской области Белоруссии, за 15—20 км на север и северо-восток от города Гродно, в междуречье Немана и Котры.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_dnepro_sozhskiy
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Днепро-Сожский]
+  (*
+  <- lang_ru;;
+  *);
+  [Dnepro-Sozhsky]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1999;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Национальный заказник общей площадью 14 556 гектар, находящийся на юго-востоке Белоруссии в Лоевском районе Гомельской области между реками Днепр и Сож.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_dolgoye
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Долгое]
+  (*
+  <- lang_ru;;
+  *);
+  [Dolgoye]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Гидрологический заказник республиканского значения в Глубокском районе Витебской области Белоруссии. Создан в 1979 году с целью охраны озера Долгое — самого глубокого озера Белоруссии.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_drozhbitka_svina
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Дрожбитка-Свина]
+  (*
+  <- lang_ru;;
+  *);
+  [Yeast-Pig]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Дрожбитка-Свина» расположен на территории Полоцкого района Витебской области. Заказник образован в 2015 г. на площади 6727 га. На юге граничит с другой охраняемой территорией — заказником «Козьянский».] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_dubatovskoye
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Дубатовское]
+  (*
+  <- lang_ru;;
+  *);
+  [Dubatovskoye]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник республиканского значения в Белоруссии, на территории Сморгонского района Гродненской области. Расположен в 12 километрах севернее города Сморгонь, в 0,5 километрах на юго-восток от деревни Дубатовка, на землях лесного фонда Жодишковского лесничества, входит в состав ландшафтно-геоморфологического заказника местного значения «Мартишки (Берёзы)».] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_elnya
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Ельня]
+  (*
+  <- lang_ru;;
+  *);
+  [Yelnya]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1968;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Ландшафтный заказник республиканского значения в Белоруссии. Располагается на территории преимущественно Миорского и части Шарковщинского районов Витебской области. Организован в 1968 году. Входит в список Рамсарских угодий Белоруссии.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_zvanets
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Званец]
+  (*
+  <- lang_ru;;
+  *);
+  [Zvanets]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1996;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Крупнейшее в Европе низинное болото мезотрофного типа с многочисленными открытыми минеральными «островами», которое расположено в практически бессточном плоском понижении на водоразделе бассейнов рек Буга и Припяти. Болота данного типа были широко распространены на Белорусском Полесье, но большая их часть была осушена в 60-х годах.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_kozyanskiy
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Козьянский]
+  (*
+  <- lang_ru;;
+  *);
+  [Koziansky]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1999;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Расположен на территории Шумилинского и Полоцкого районов Витебской области. Был образован в 1960 г. и стал одним из первых заказников на территории Беларуси, в 1999 получил статус республиканского ландшафтного. Площадь – 26 060 га. Заказник имеет международный статус Рамсарской территории и территории регионального значения, важной для птиц. Численность обитающих здесь редких охраняемых видов птиц – осоеда, полевого и лугового луня, черного коршуна, беркута, скопы, змееяда – превышает 1% национальной популяции. Кроме того, Козьянский природный комплекс играет важную роль для сохранения птиц верховых и переходных болот: здесь гнездится кобчик, белая куропатка, золотистая ржанка, средний кроншнеп, большой улит.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_korytinskiy_moh
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Корытинский мох]
+  (*
+  <- lang_ru;;
+  *);
+  [Korytinsky moss]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1981;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Гидрологический заказник республиканского значения «Корытенский Мох» в Городокском районе Витебской области создан с целью сохранения в естественном состоянии ценных лесоболотных экологических систем верхового типа, дикорастущих растений и диких животных, относящихся к видам, включенным в Красную Книгу Республики Беларусь, среди которых реликтовый вид морошка приземистая и клюква мелкоплодная.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_kotra
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Котра]
+  (*
+  <- lang_ru;;
+  *);
+  [Kotra]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2003;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский ландшафтный заказник «Котра» расположен на территории Щучинского района Гродненской области на границе с Литвой в целях сохранения ценных ландшафтов и растительных сообществ, образующих единый природный комплекс с заповедником «Чапкяляй» Литовской Республики. Площадь заказника составляет 10463,5 га.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_krasnyy_bor
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Красный Бор]
+  (*
+  <- lang_ru;;
+  *);
+  [Krasny Bor]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1997;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Ландшафтный заказник республиканского значения в Россонском и Верхнедвинском районах Витебской области Белоруссии. Основан в 1997 году для охраны уникальных природных ландшафтов и экосистем. Площадь заказника составляет 34 231 гектаров.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_kupalovskiy
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Купаловский]
+  (*
+  <- lang_ru;;
+  *);
+  [Kupalovsky]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2000;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Купаловский» расположен на территории Минского и Логойского районов Минской области. Образован в 2000 г. на площади 3834 га. Заказник расположен в пределах Минской возвышенности, средняя высота которой 250—300 м. На его территории расположена гора Лысая (342 м) — вторая по высоте вершина Беларуси.] 
+(* <- lang_ru;; *);;
+
+
+luninsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Лунинский]
+	(*
+	<- lang_ru;;
+	*);
+	[Luninsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1997;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Лунинский — биологический заказник республиканского значения, образованный на территории Лунинецкого района Брестской области Беларуси для сохранения ценных лесных формаций и озёр с комплексом редких и исчезающих видов растений и животных, занесённых в Красную книгу Белоруссии. Ранее на этой территории располагался государственный ландшафтный заказник республиканского значения «Белое».] 
+(* <- lang_ru;; *);;
+
+
+mozyr_ravines
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Мозырские овраги]
+	(*
+	<- lang_ru;;
+	*);
+	[Mozyr Ravines]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1999;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник «Мозырские овраги» был создан постановлением Совета Министров БССР № 60 от 21 февраля 1986 году на площади в 1040 га в Мозырском районе Гомельской области. В 2007 он был преобразован в республиканский ландшафтный заказник, при этом его площадь уменьшили на 21,73 га, исключив овраги, вошедшие в городскую черту центральной и западной части Мозыря.] 
+(* <- lang_ru;; *);;
+
+
+moszno
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Мошно]
+	(*
+	<- lang_ru;;
+	*);
+	[Moszno]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Мошно — биологический заказник-клюквенник республиканского значения, расположенный в Витебском районе в 20 км к юго-западу от Витебска, около деревни Воеводки на болоте (430 га) к западу от озера Мошно (Скрыдлевское лесничество). Заказник создан в 1979 году для охраны мест произрастания клюквы.] 
+(* <- lang_ru;; *);;
+
+
+pribuzhskoe_polesie
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Прибужское Полесье]
+	(*
+	<- lang_ru;;
+	*);
+	[Pribuzhskoe Polesie]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2003;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Прибужское Полесье — республиканский ландшафтный заказник, созданный в 2003 году в южной части Брестского района. В настоящее время площадь заказника превышает 17 тыс. га. В 2004 году на базе заказника решением Брестского облисполкома объявлен биосферный резерват «Прибужское Полесье», площадь которого значительно превышает размер заказника и составляет свыше 48 024 га.] 
+(* <- lang_ru;; *);;
+
+
+prilepsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Прилепский]
+	(*
+	<- lang_ru;;
+	*);
+	[Prilepsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2000;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Прилепский заказник представляет собой ценный лесной массив, преимущественно естественного происхождения, который расположен в непосредственной близости к городу Минску. Площадь заказника составляет 3242 га, находится в пределах Минской возвышенности, где абсолютные высоты составляют 200-250 метров.] 
+(* <- lang_ru;; *);;
+
+
+svityazansky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Свитязанский]
+	(*
+	<- lang_ru;;
+	*);
+	[Svityazansky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1970;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Свитязянский» расположен на территории Новогрудского района Гродненской области. Образован в 1970 г., после преобразования территории в 2007 г. его площадь составляет 1194 га.] 
+(* <- lang_ru;; *);;
+
+
+selyava
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Селява]
+	(*
+	<- lang_ru;;
+	*);
+	[Selyava]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1993;
+=> nrel_belongs_to_area:
+	minsk_region;
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Государственный ландшафтный заказник «Селява» организован постановлением Совета Министров Республики Беларусь 25.02.1993 г. № 99 в целях сохранения в естественном состоянии природного ландшафтно-озерного комплекса с популяциями редких и исчезающих видов растений и животных, занесенных в Красную книгу Беларуси.] 
+(* <- lang_ru;; *);;
+
+
+sinsha
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Синьша]
+	(*
+	<- lang_ru;;
+	*);
+	[Sinsha]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1996;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Синьша — республиканский ландшафтный заказник. Утверждён Постановлением Кабинета Министров Республики Беларусь 21.03.1996 года за № 202 «Об образовании республиканского ландшафтного заказника "Синьша"» «в целях сохранения в естественном состоянии уникального природного ландшафтно-озерного комплекса с популяциями редких и исчезающих видов растений и животных, занесённых в Красную книгу Республики Беларусь». Заказник «Синьша» расположен в Россонском районе Витебской области вдоль границы с Россией на протяжении 50 км и занимает площадь в 13 398 гектаров.] 
+(* <- lang_ru;; *);;
+
+
+smychok
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Смычок]
+	(*
+	<- lang_ru;;
+	*);
+	[Smychok]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2000;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Смычок — ландшафтный заказник Белоруссии площадью в 2635га. Расположен в районе впадения реки Березина в Днепр. Основная часть располагается в Жлобинском районе, небольшая территория на юго-западе находится в пределах Речицкого района.] 
+(* <- lang_ru;; *);;
+
+
+stiklevo
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Стиклево]
+	(*
+	<- lang_ru;;
+	*);
+	[Stiklevo]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2001;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский биологический заказник Стиклево — заказник республиканского значения, расположенный на восточной окраине Минска. 29 декабря 2001 года Совет Министров Республики Беларусь принял постановление № 1886, которым был образован заказник площадью 412 га в Минском районе Минской области на землях лесного фонда Городского лесничества. Целью создания заказника было сохранение в естественном состоянии участков ценных лесных формаций с популяциями редких и исчезающих видов животных и растений.] 
+(* <- lang_ru;; *);;
+
+
+strelsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Стрельский]
+	(*
+	<- lang_ru;;
+	*);
+	[Strelsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1999;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [«Стрельский» — республиканский ландшафтный заказник в Беларуси, расположенный на территории Калинковичского и Мозырского районов Гомельской области.] 
+(* <- lang_ru;; *);;
+
+
+stronga
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Стронга]
+	(*
+	<- lang_ru;;
+	*);
+	[Stronga]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1998;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [«Стронга» - заказник, созданный в 1996 году в западной части Барановичского района, первый в Беларуси ихтиологический заказник площадью 6991 га. Основная цель его создания - сохранение местообитания исчезающего вида рыб - форели ручьевой (по белоруски - стронга) и охраны ценных природных комплексов.] 
+(* <- lang_ru;; *);;
+
+
+chernevsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Черневский]
+	(*
+	<- lang_ru;;
+	*);
+	[Chernevsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2005;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник «Черневский» основан в 2005 году для сохранения в естественном состоянии мест массового произрастания клюквы. Располагается он на трех болотных комплексах: болоте переходного типа Кривой Мох, болотах верхового типа Маленький Мошок и Новосельский Мох. Общая площадь заказника 1000 га.] 
+(* <- lang_ru;; *);;
+
+
+radostovsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Радостовский]
+	(*
+	<- lang_ru;;
+	*);
+	[Radostovsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1978;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Радостовский» объявлен на территории Дрогичинского района Брестской области на границе с Украиной в целях сохранения в естественном состоянии уникальных лесоболотных экологических систем, дикорастущих растений и диких животных, относящихся к видам, включенным в Красную книгу Республики Беларусь и (или) охраняемым в соответствии с международными договорами, действующими для Республики Беларусь, а также их мест произрастания и обитания  в 1978 году (как ботанический заказник дикорастущих лекарственных растений), в 2007 году преобразован в ландшафтный заказник. Площадь заказника составляет 6685,17 га.] 
+(* <- lang_ru;; *);;
+
+
+lukovo
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Луково]
+	(*
+	<- lang_ru;;
+	*);
+	[Lukovo]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1994;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник "Луково" был создан в сентябре 1994 года с целью сохранения одной из крупнейших в Беларуси популяций венерина башмачка настоящего (желтого) – вида орхидей, имеющего международное значение. Расположен на территории Малоритского района в 1,5 км севернее водохранилища «Луково» и в 2-х км юго-восточнее шоссе «Малорита-Кобрин».] 
+(* <- lang_ru;; *);;
+
+
+tyrvovichi
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Тырвовичи]
+	(*
+	<- lang_ru;;
+	*);
+	[Tyrvovichi]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1994;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник Тырвовичи создали в 1994 г., с целью сохранения ценных массивов грабовых лесов, а также широколиственно-сосновых и черноольховых лесных формаций. Рельеф равнинный (располагается на стыке Столинской водно-ледниковой равнины и долины притока р. Припяти - р. Стырь).] 
+(* <- lang_ru;; *);;
+
+
+great_moss
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Подвеликий Мох]
+	(*
+	<- lang_ru;;
+	*);
+	[Great Moss]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2005;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [«Подвеликий Мох» (белор. Падвялікі Мох) — белорусский республиканский гидрологический заказник, расположенный на площади в 10647 га в Ганцевичском районе Брестской области Белоруссии. С 2015 года включён в сеть водно-болотных угодий, охраняемых согласно Рамсарской конвенции.] 
+(* <- lang_ru;; *);;
+
+
+zapolsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Запольский]
+	(*
+	<- lang_ru;;
+	*);
+	[Zapolsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник «Запольский» был организован в целях сохранения и рационального использования ценных лесо-элотных экологических систем, мест произрастания клюквы болотной, а также диких животных и дикорастущих растений, относящихся к видам, включённым в Красную книгу Республики Беларусь.] 
+(* <- lang_ru;; *);;
+
+
+lonno
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Лонно]
+	(*
+	<- lang_ru;;
+	*);
+	[Lonno]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник «Лонно» расположен в Полоцком районе Витебской области. Природоохранная территория была образована в 1979 году, а в 2007 году получила статус республиканского значения. Заказник занимает площадь 443 га. Центральную часть заказника занимает озеро Лонно.] 
+(* <- lang_ru;; *);;
+
+
+chistik
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Чистик]
+	(*
+	<- lang_ru;;
+	*);
+	[Chistik]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник «Чистик» был создан в 1979 году на болоте Жуковское для охраны мест массового произрастания клюквы. Заказник, как территориальная единица входит в структуру Витебского района Витебской области в 20 км к югу от г. Витебска, в 1 км на запад от д. Гороватка.] 
+(* <- lang_ru;; *);;
+
+
+servech
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Сервечь]
+	(*
+	<- lang_ru;;
+	*);
+	[Servech]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1997;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Гидрологический заказник республиканского значения «Сервечь» расположен рядом с междуречьем Западной Двины, Днепра и Немана. Заказник находится под республиканской и международной охраной. Заказнику присвоен статус Рамсарской территории. Рельеф представлен моренными и камовыми холмами, западинами, ложбинами.] 
+(* <- lang_ru;; *);;
+
+
+sosno
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Сосно]
+	(*
+	<- lang_ru;;
+	*);
+	[Sosno]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Гидрологический заказник республиканского значения «Сосно» был создан в 1979 году для сохранения уникального озерного комплекса в естественном состоянии. Общая площадь заказника 451 га. На территории заказника находится озеро Сосно, максимальная глубина которого 23 м. Рельеф среднехолмистый, максимальная высота холмов состовляет 12 метров.] 
+(* <- lang_ru;; *);;
+
+
+chirkovichi
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Чирковичский]
+	(*
+	<- lang_ru;;
+	*);
+	[Chirkovichi]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник республиканского значения «Чирковичский» был создан в 1979 году с целью сохранения мест массового произрастания клюквы и уникальных лесных формаций и болотных комплексов в первозданном виде.] 
+(* <- lang_ru;; *);;
+
+
+dokudovsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Докудовский]
+	(*
+	<- lang_ru;;
+	*);
+	[Dokudovsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1990;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник «Докудовский» функционирует в целях сохранения в естественном состоянии и рационального использования лесо-болотных экологических систем, дикорастущих растений и диких животных, относящихся к видам, включенным в Красную книгу Республики Беларусь, а также мест их произрастания и обитания.] 
+(* <- lang_ru;; *);;
+
+
+castle_forest
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Замковый Лес]
+	(*
+	<- lang_ru;;
+	*);
+	[Castle Forest]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1998;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник «Замковый лес» был создан постановлением Совета Министров Республики Беларусь в мае 1998 года. Его границы прошли по краю лесного массива, который одной стороной приближается к Волковыску, а другой чертит границу между Волковысским и Зельвенским районами. Общая площадь заказника относительно небольшая – 3850 гектаров.] 
+(* <- lang_ru;; *);;
+
+
+medukhovo
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Медухово]
+	(*
+	<- lang_ru;;
+	*);
+	[Medukhovo]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1996;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник республиканского значения «Медухово» был создан в 1996 году для сохранения суходольных естественных лесов на водораздельных пологих равнинах и плато. Площадь 1375,34 га. Преобладает дерново-подзолистая почва. Основные лесообразующие породы: береза, дуб, сосна и ель.] 
+(* <- lang_ru;; *);;
+
+
+slonimsky
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Слонимский]
+	(*
+	<- lang_ru;;
+	*);
+	[Slonimsky]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1978;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник «Слонимский», образованный в 1978 году и имеющий площадь 4812,7 га, относится к числу старейших особо охраняемых территорий в Беларуси. Его ядром служит пойма реки Иссы. Она представляет собой холмистую местность, сформировавшуюся под влиянием ледника.] 
+(* <- lang_ru;; *);;
+
+
+miranka
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Миранка]
+	(*
+	<- lang_ru;;
+	*);
+	[Miranka]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1996;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Гидрологический заказник республиканского значения «Миранка» был создан в 1996 году для стабилизации гидрологического режима рек Немана и Уши. Большую часть территории занимает Волчье болото (торфяное месторождение). Площадь 3548,74 га. Рельеф преимущественно слабоволнистый, местами мелкохолмистый.] 
+(* <- lang_ru;; *);;
+
+
+treskovshchina
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Тресковщина]
+	(*
+	<- lang_ru;;
+	*);
+	[Treskovshchina]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2001;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский ландшафтный заказник «Тресковщина» был создан в 2001 году с целью сохранения уникальных природно-ландшафтных комплексов в естественном состоянии. Общая площадь заказника 745,39 га. Находится заказник в пределах Минской возвышенности и представляет собой лесной массив вдоль реки Ислочь. Рельеф преимущественно крупнохолмисто-грядовый.] 
+(* <- lang_ru;; *);;
+
+
+glebkovka
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+	[Глебковка]
+	(*
+	<- lang_ru;;
+	*);
+	[Glebkovka]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	2001;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник республиканского значения «Глебковка» был создан в 2001 году с целью сохранения уникальных природных комплексов в естественном состоянии. Общая площадь заказника 964 га. На охраняемой территории находятся истоки реки Глебковка.] 
+(* <- lang_ru;; *);;
+
+
+wildlife_sanctuary_beloe
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Белое]
+  (*
+  <- lang_ru;;
+  *);
+  [Beloe]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Бе́лое (белор. Бе́лае) — гидрологический заказник республиканского значения в Белоруссии. Располагается на территории Глубокского и Ушачского районов Витебской области.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_bukchanski
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Букчанский]
+  (*
+  <- lang_ru;;
+  *);
+  [Bukchanski]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	homel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Биологический заказник «Букчанский» площадью 4990 га был образован в 1979 году для сохранения крупных естественных плантаций клюквы. Его ядром являются Топиловские болота, по периметру которых растут смешанные леса, состоящие из дуба, сосны и березы.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_buslovka
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Бусловка]
+  (*
+  <- lang_ru;;
+  *);
+  [Buslovka]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1997;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник образован с целью недопущения исчезновения редких растительных и животных видов, которые можно встретить в местных районах. Южной границей заказника Бусловка выступает водохранилище Селец, а с севера земли природоохранной территории ограничивает Михайлинско-Берёзовский ботанический заказник дикорастущих лекарственных растений.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_kryvoe
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Кривое]
+  (*
+  <- lang_ru;;
+  *);
+  [Kryvoe]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Криво́е (белор. Крыво́е) — гидрологический заказник республиканского значения в Белоруссии, созданный в 1979 году с целью охраны озера Кривое и прилегающих территорий.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_lebyazhy
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Лебяжий]
+  (*
+  <- lang_ru;;
+  *);
+  [Lebyazhy]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1984;
+=> nrel_belongs_to_area:
+	minsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Лебяжий (белор. Лебядзіны) — республиканский биологический заказник «Лебяжий», расположенный в границах города Минска к юго-западу от транспортной развязки Минской кольцевой автомобильной дороги с проспектом Победителей. Общая площадь заказника составляет 43,49 гектара.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_lipichanskaya_pusha
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Липичанская пуща]
+  (*
+  <- lang_ru;;
+  *);
+  [Lipichanskaya pusha]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2002;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Липичанская пуща (белор. Ліпічанская пушча) — ландшафтный заказник республиканского значения в Мостовском, Дятловском и Щучинском районах Гродненской области Белоруси.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_verhnevileiskii
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Верхневилейский]
+  (*
+  <- lang_ru;;
+  *);
+  [Verhnevileiskii]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1996;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Гидрологический заказник республиканского значения Верхневилейский расположен в Докшицком районе Витебской области. Этот природоохранный объект создан для сбережения и стабилизации гидрологического режима реки Вилия, а также некоторых её притоков. В бассейне этой речки образовались весьма уникальные природно-растительные болотные комплексы. Образованный в 1996 году, заказник Верхневиленский объединил в своих границах 753 га Докшицкого района. Территория заказника находится на плосковолнистой равнине, богатой озёрами, останцами морены и камами. В наибольшей степени здесь заболочены истоки реки Вилия.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_yelovskii
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Еловский]
+  (*
+  <- lang_ru;;
+  *);
+  [Yelovskii]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [«Еловский» — биологический заказник республиканского значения в Ганцевичском районе Белоруссии на территории болот Еловское и Коча. В заказнике расположены Малое и Большое Покамерские озёра, а также проходит Корытинский канал, однако большую его часть занимают болота и лесо-болотные комплексы.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_zada
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Жада]
+  (*
+  <- lang_ru;;
+  *);
+  [Zada]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник «Жада» расположен на территории Миорского и Шарковщинского районов. Образован заказник в 2015 году. Площадь охраняемой территории составляет 7188 га. На территории заказника расположены ценные лесоболотные экологические системы, а также редкие виды животных и растений, занесенных в Красную книгу.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_zaozerie
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Заозерье]
+  (*
+  <- lang_ru;;
+  *);
+  [Zaozerie]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1968;
+=> nrel_belongs_to_area:
+	mogilev_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Заозерье» расположен на территории Белыничского района Могилевской области. Заказник образован в 1968 г., в последующем преобразовывался и в настоящее время занимает площадь 4172 га. Имеет международный статус водно-болотного угодья международного значения.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_morochno
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Морочно]
+  (*
+  <- lang_ru;;
+  *);
+  [Morochno]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Морочно» расположен на территории Столинского района Брестской области. Образован в 2015 г. на площади 6444 га. Имеет статус территории международного значения, важной для птиц, а также водно-болотного угодья международного значения (Рамсарской территории).] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_naliboki
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Налибокский]
+  (*
+  <- lang_ru;;
+  *);
+  [Naliboki]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1951;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский ландшафтный заказник "Налибокский"- это государственное природоохранное учреждение, расположенное на территории Налибокской пущи- одного из самых больших лесных массивов с Республике Беларусь и во всей Восточной Европе.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_novogrudskii
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Новогрудский]
+  (*
+  <- lang_ru;;
+  *);
+  [Novogrudskii]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1994;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский ландшафтный заказник «Новогрудский» создан в целях сохранения в естественном состоянии уникального ландшафтного комплекса, отличающегося распространением спелых еловых, широколиственных лесов и редких для флоры Беларуси видов растений.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_ozery
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Озеры]
+  (*
+  <- lang_ru;;
+  *);
+  [Ozery]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1990;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Озёры (белор. Азёры) — ландшафтный заказник республиканского значения. Располагается на территории Гродненского и Щучинского районов Гродненской области Белоруссии.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_akciabrski
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Октябрьский]
+  (*
+  <- lang_ru;;
+  *);
+  [Akciabrski]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2003;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Территория заказника располагается на западном склоне междуречья рр. Чичка-Юл и Улу-Юл (правые притоки р. Чулым) и представляет малонарушенные природные комплексы южной тайги. Зональные растительные сообщества представлены кедровыми, березово-пихтовыми или пихтовыми лесами. Нижний ярус покрыт мхом, черникой, голубикой, другими травянистыми растениями.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_olmany
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Ольманские болота]
+  (*
+  <- lang_ru;;
+  *);
+  [Olmany]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1998;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Ольманские болота — крупнейший в Европе комплекс верховых, переходных и низинных болот, сохранившийся до наших дней в естественном состоянии. На территории болот в белорусской части создан заказник площадью в 94219 га.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_osveiskii
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Освейский]
+  (*
+  <- lang_ru;;
+  *);
+  [Osveiskii]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2000;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский ландшафтный заказник «Освейский» располагается на территории Верхнедвинского района Витебской области и включает Освейское озеро, часть Освейского болота и прилежащие с севера лесные массивы вплоть до границы с Латвией и Псковской областью России.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_ostova_duleby
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Острова Дулебы]
+  (*
+  <- lang_ru;;
+  *);
+  [Ostova Duleby]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1998;
+=> nrel_belongs_to_area:
+	mogilev_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Острова Дулебы — белорусский республиканский гидрологический заказник, располагающийся в Белыничском (4964 га) и Кличевском (21636 га) районах Могилёвской области. Территория заказник относится к землям лесного фонда Кировского лесничества и Колбчанского лесничества. Включён в Рамсарский Список водно-болотных угодий международного значения.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_prostyr
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Простырь]
+  (*
+  <- lang_ru;;
+  *);
+  [Prostyr]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2006;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Простырь — государственный ландшафтный заказник Белоруссии на границе с Украиной и национальным парком Украины «Припять-Стоход», входит в единую с ним трансграничную рамсарскую территорию «Стоход — Припять — Простырь». Часть единой европейской экологической сети.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_richi
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Ричи]
+  (*
+  <- lang_ru;;
+  *);
+  [Richi]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Ричи» расположен в Браславском районе Витебской области, в 30 км к северо-западу от г. Браслав (на границе с Латвией). Образован в 1979 г., после преобразования в 2007 г. его площадь составляет 1390 га.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_ruzhanskaya_pusha
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Ружанская пуща]
+  (*
+  <- lang_ru;;
+  *);
+  [Ruzhanskaya Pusha]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1978;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Ружа́нская пу́шча — лясны масіў і заказнік дзяржаўнага значэння ў Пружанскім раёне Брэсцкай вобласці, на паўднёвым захадзе ад гарадскога пасёлка Ружаны. Плошча 15 тысяч гектараў.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_sorochanskie_ozera
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Сорочанские озера]
+  (*
+  <- lang_ru;;
+  *);
+  [Sorochanskie Ozera]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1998;
+=> nrel_belongs_to_area:
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский ландшафтный заказник «Сорочанские озера» объявлен на территории Островецкого района Гродненской области в целях сохранения уникального природного комплекса с популяциями редких и исчезающих видов растений и животных, занесенных в Красную книгу Республики Беларусь, где сосредоточено все многообразие ландшафтов ледниковых комплексов Белорусского Поозерья.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_svislochko_berezenskii
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Свислочско-Березенский]
+  (*
+  <- lang_ru;;
+  *);
+  [Svislochko-Berezenskii]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	mogilev_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Свислочско-Березинский» расположен на территории Осиповичского, Кличевского и Кировского районов Могилевской области в междуречье Березины и Свислочи. Площадь составляет 17 480 га. Заказник образован в 2015 г. Имеет статус территории международного значения, важной для птиц («Брицаловичская пуща»), а также ключевой ботанической территории.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_sporovskii
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Споровский]
+  (*
+  <- lang_ru;;
+  *);
+  [Svislochko-Berezenskii]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1979;
+=> nrel_belongs_to_area:
+	mogilev_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Заказник «Споровский» – первая территория в Республике Беларусь, получившая международный статус охраны Рамсарского угодья.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_sredntyia_pripyat
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Средняя Припять]
+  (*
+  <- lang_ru;;
+  *);
+  [Sredntyia Pripyat]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1999;
+=> nrel_belongs_to_area:
+	brest_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Сре́дняя При́пять (белор. Сярэдняя Прыпяць) — республиканский ландшафтный заказник в Белоруссии, созданный в 1999 году на территориях Столинского, Пинского, Лунинецкого районов Брестской области.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_staryi_zaden
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Старый Жаден]
+  (*
+  <- lang_ru;;
+  *);
+  [Staryi Zaden]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	homel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Республиканский заказник «Старый Жаден» размещается на территории Житковичского и Лельчицкого районов Гомельской области. Образован в 2015 г. на площади 17 048 га. Заказник имеет статус территории международного значения, важной для птиц, а также водно-болотного угодья международного значения (Рамсарской территории).] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_shvakshty
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Швакшты]
+  (*
+  <- lang_ru;;
+  *);
+  [Shvakshty]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	1996;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Шва́кшты — гидрологический заказник республиканского значения в Поставском районе Витебской области Белоруссии. Основан в 1996 году с целью стабилизации гидрологического режима в бассейне реки Страча и сохранения в естественном состоянии уникального природного комплекса с популяциями редких и исчезающих видов растений и животных.] 
+(* <- lang_ru;; *);;
+
+
+
+wildlife_sanctuary_yanka
+<- concept_park_name;
+<- concept_wildlife_sanctuary;
+=> nrel_main_idtf:
+  [Янка]
+  (*
+  <- lang_ru;;
+  *);
+  [Yanka]
+  (*
+  <- lang_en;;
+  *);
+=> nrel_year_of_formation:
+	2015;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Водно-болотный заказник «Янка» расположен в Шарковщинском районе на площади 5848 га. Его центральную часть занимает верховое водораздельное болото Долбенишки, которое является одним из самых больших в Беларуси. Почти половина территории заказника покрыта смешанными лесами.] 
+(* <- lang_ru;; *);;
+

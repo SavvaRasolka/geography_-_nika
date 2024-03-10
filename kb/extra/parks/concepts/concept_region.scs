@@ -1,0 +1,8 @@
+concept_region
+<- sc_node_class;
+
+=> nrel_main_idtf: [Область] (* <- lang_ru;; *);
+	  	   [Region] (* <- lang_en;; *);
+
+=> nrel_note: [Область, к которой относится тот или иной заповедник, национальный парк, заказник.] 
+(* <- lang_ru;; *);;

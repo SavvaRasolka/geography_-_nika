@@ -1,0 +1,72 @@
+minsk_region
+<- concept_region;
+=> nrel_main_idtf:
+	[Минская область]
+	(*
+	<- lang_ru;;
+	*);
+	[Minsk region]
+	(*
+	<- lang_en;;
+	*);;
+
+brest_region
+<- concept_region;
+=> nrel_main_idtf:
+	[Брестская область]
+	(*
+	<- lang_ru;;
+	*);
+	[Brest region]
+	(*
+	<- lang_en;;
+	*);;
+
+vitebsk_region
+<- concept_region;
+=> nrel_main_idtf:
+	[Витебская область]
+	(*
+	<- lang_ru;;
+	*);
+	[Vitebsk region]
+	(*
+	<- lang_en;;
+	*);;
+
+gomel_region
+<- concept_region;
+=> nrel_main_idtf:
+	[Гомельская область]
+	(*
+	<- lang_ru;;
+	*);
+	[Gomel region]
+	(*
+	<- lang_en;;
+	*);;
+
+grodno_region
+<- concept_region;
+=> nrel_main_idtf:
+	[Гродненская область]
+	(*
+	<- lang_ru;;
+	*);
+	[Grodno region]
+	(*
+	<- lang_en;;
+	*);;
+
+mogilev_region
+<- concept_region;
+=> nrel_main_idtf:
+	[Могилевская область]
+	(*
+	<- lang_ru;;
+	*);
+	[Mogilev region]
+	(*
+	<- lang_en;;
+	*);;
+

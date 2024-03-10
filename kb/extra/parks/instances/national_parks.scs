@@ -1,0 +1,107 @@
+belovezhskaya_pushcha_national_park
+<- concept_park_name;
+<- concept_national_park;
+=> nrel_main_idtf:
+	[Национальный парк «Беловежская пуща»]
+	(*
+	<- lang_ru;;
+	*);
+	[National Park "Belovezhskaya Pushcha"]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1409;
+=> nrel_belongs_to_area:
+	brest_region;
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Белорусское государственное природоохранное учреждение, в ведении которого находятся территории реликтового лесного массива Беловежская пуща. Общая площадь охраняемых земель парка составляет 150 083 га.] 
+(* <- lang_ru;; *);;
+
+
+narochansky_national_park
+<- concept_park_name;
+<- concept_national_park;
+=> nrel_main_idtf:
+	[Нарочанский национальный парк]
+	(*
+	<- lang_ru;;
+	*);
+	[Narochansky National Park]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1999;
+=> nrel_belongs_to_area:
+	micsk_region;
+	vitebsk_region;
+	grodno_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Национальный парк в Беларуси, охватывающий северо-западную часть Минской области, западную часть Витебской и северную часть Гродненской области и занимающий площадь в 87,3 тысячи га.] 
+(* <- lang_ru;; *);;
+
+
+braslav_lakes_national_park
+<- concept_park_name;
+<- concept_national_park;
+=> nrel_main_idtf:
+	[Национальный парк «Браславские озёра»]
+	(*
+	<- lang_ru;;
+	*);
+	[Braslav Lakes National Park]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1995;
+=> nrel_belongs_to_area:
+	vitebsk_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Группа озёр на севере Белоруссии в районе города Браслав. Они включают в себя десятки озёр общей площадью около 130 км² и объёмом, превышающим 540 млн м³. В основном озёра расположены в районе бассейна Друйки. Они соединены между собой маленькими речушками, ручьями и протоками. Национальный парк был основан в 1995 году.] 
+(* <- lang_ru;; *);;
+
+
+pripyat_national_park
+<- concept_park_name;
+<- concept_national_park;
+=> nrel_main_idtf:
+	[Припятский национальный парк]
+	(*
+	<- lang_ru;;
+	*);
+	[Pripyat National Park]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_year_of_formation:
+	1969;
+=> nrel_belongs_to_area:
+	gomel_region;
+=> nrel_contains_water:
+	water;
+=> nrel_contains_animal:
+	animal;
+=> nrel_contains_plant:
+	plant;
+=> nrel_note: [Припятский национальный парк расположен на западе Гомельской области в 350 км восточнее Бреста и в 250 км южнее Минска, к югу от трассы Брест — Брянск. В 1969 году сперва был создан Припятский государственный ландшафтно-гидрологический заповедник, в 1996 году преобразованный в национальный парк. Площадь заповедника, а позже национального парка, увеличивалась, сегодня она составляет 188 485 га. Южная часть его представлена особо охраняемой природной территорией площадью 85 841 га. Администрация национального парка находится в агрогородке Лясковичи.] 
+(* <- lang_ru;; *);;
+
+
