@@ -1,0 +1,27 @@
+Martynauka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Мартыновка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://zelwa.by/kratkaya-harakteristika-territorii-i-sostoyaniya-okruzhayushhej-prirodnoj-sredy-zelvenskogo-rajona/">Мартыновка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/martynauka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Зельвенском районе. Приток реки Зельвянка.] (* <- lang_ru;; *);;

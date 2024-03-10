@@ -1,0 +1,88 @@
+Kamienka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Каменка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%BD%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD">Каменка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/kamienka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Слонимском районе. Приток реки Исса.] (* <- lang_ru;; *);;
+	
+	
+
+Isa
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Исса]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%81%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A9%D0%B0%D1%80%D1%8B)">Исса</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/isa.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Исса — река в Барановичском и Слонимском районах, правый приток Щары.] (* <- lang_ru;; *);;
+	
+	
+	
+	
+Iska
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Иска]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%81%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%A9%D0%B0%D1%80%D1%8B)">Иска</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/iska.jpeg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Иска — река в Слонимском районе, приток реки Исса.] (* <- lang_ru;; *);;

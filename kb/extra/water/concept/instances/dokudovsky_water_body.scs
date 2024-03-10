@@ -1,0 +1,27 @@
+Viasauka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Вязовка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="http://www.sazan.by/reka-vyazovka-pritok-reki-neman/">Вязовка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/viasauka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река на в Дятловском районе, левый приток Нёмана.] (* <- lang_ru;; *);;

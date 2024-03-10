@@ -1,0 +1,58 @@
+Biarezina
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Березина]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%B0">Березина</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/biarezina.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Беларуси, правый приток Днепра. Самая длинная река, которая на всём своём течении расположена в Беларуси. ] (* <- lang_ru;; *);;
+	
+	
+	
+	
+Zardzianka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Жердянка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/%D0%96%D0%B0%D1%80%D0%B4%D0%B7%D1%8F%D0%BD%D0%BA%D0%B0">Жердянка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/zardzianka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Светлогорсом районе Гомельской области, правый приток реки Березина. ] (* <- lang_ru;; *);;

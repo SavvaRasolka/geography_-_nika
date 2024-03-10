@@ -1,0 +1,87 @@
+nrel_contains_water_body
+<- sc_node_norole_relation;
+<- relation;
+=> nrel_main_idtf:
+	[включает водоем*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[contains water body*] (* <- lang_en;; *);;
+	
+	
+	
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Gvozna;;
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Nareu;;
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Salomenka;;
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Liasnaya;;
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Narauka;;
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Perarounitsa;;
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Tisauka;;
+belovezhskaya_pushcha_national_park => nrel_contains_water_body: Kalonka;;
+
+
+
+berezinsky_biosphere_reserve => nrel_contains_water_body: Biarezina;;
+berezinsky_biosphere_reserve => nrel_contains_water_body: Serguch;;
+berezinsky_biosphere_reserve => nrel_contains_water_body: Smalianka;;
+berezinsky_biosphere_reserve => nrel_contains_water_body: Vialikaja;;
+
+
+
+
+castle_forest => nrel_contains_water_body: Martynauka;;
+
+
+
+
+chirkovichi => nrel_contains_water_body: Biarezina;;
+chirkovichi => nrel_contains_water_body: Zardzianka;;
+
+
+
+
+
+dokudovsky => nrel_contains_water_body: Viasauka;;
+
+
+
+
+glebkovka => nrel_contains_water_body: Hlebkauka;;
+
+
+
+
+miranka => nrel_contains_water_body: Vauchaja;;
+miranka => nrel_contains_water_body: Nioman;;
+
+
+
+
+
+
+
+polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Pripyat;;
+polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Zelon;;
+polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Braginka;;
+polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Vit;;
+polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Slovechno;;
+
+
+
+
+
+
+pripyat_national_park => nrel_contains_water_body: Pripyat;;
+pripyat_national_park => nrel_contains_water_body: Svinavod;;
+pripyat_national_park => nrel_contains_water_body: Stviga;;
+
+
+
+
+slonimsky => nrel_contains_water_body: Kamienka;;
+slonimsky => nrel_contains_water_body: Isa;;
+slonimsky => nrel_contains_water_body: Iska;;
+
+
+
+
+
+sosno  => nrel_contains_water_body: Daugava;;

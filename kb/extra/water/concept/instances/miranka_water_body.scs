@@ -1,0 +1,57 @@
+Vauchaja
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Волчая]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD">Волчая река</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/vauchaja.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Кореличском районе на территории заказника Миранка] (* <- lang_ru;; *);;
+	
+	
+	
+Nioman
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Нёман]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BC%D0%B0%D0%BD">Нёман</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/nioman.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Беларуси, Литве и Калининградской области России. ] (* <- lang_ru;; *);;

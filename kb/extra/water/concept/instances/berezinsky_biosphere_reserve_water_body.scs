@@ -1,0 +1,91 @@
+////// БЕРЕЗИНА плюс ///////
+
+Serguch
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Сергуч]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://www.berezinsky.by/priroda/prirodnye-usloviya/gidrografiya-i-gidrologiya/">Сергуч</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/serguch.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Крупнейший левый приток Березины. Протекает на территории Березинского биосферного заповедника] (* <- lang_ru;; *);;
+	
+	
+	
+
+
+Smalianka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Смолянка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://berezinsky.by/news-detail/?ELEMENT_ID=1301">Смолянка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/smalianka.jpeg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Река на территории Березинского биосферного заповедника] (* <- lang_ru;; *);;
+	
+	
+	
+Vialikaja
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Великая]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="http://kir2003.ru/?p=1373">Великая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/vialikaja.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Река на территории Березинского биосферного заповедника] (* <- lang_ru;; *);;

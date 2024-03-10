@@ -1,0 +1,27 @@
+Hlebkauka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Глебковка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://probelarus.by/belarus/sight/natsionalnye-parki/1491565824.html">Глебковка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/hlebauka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Минском районе на территории заказника Глебковка.] (* <- lang_ru;; *);;

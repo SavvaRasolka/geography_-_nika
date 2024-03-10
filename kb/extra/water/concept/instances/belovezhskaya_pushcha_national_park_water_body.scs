@@ -1,0 +1,289 @@
+Gvozna
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Гвозна]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0">Гвозна</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/gvozna.png" (* => nrel_format: format_png;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Пружанском районе и в Польше, правый приток реки Наровка. Протекает на территории Беловежской пущи] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+Nareu
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Нарев]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B5%D0%B2">Нарев</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/nareu.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в западной Беларуси и северо-восточной Польше, правый приток Западного Буга. Протекает на территории Беловежской пущи] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+	
+Salomenka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Соломенка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://www.wildlife.by/ecology/articles/solomenka-reka-kotoraya-vozvrashchaetsya-v-svoe-ruslo-/">Соломенка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/salomenka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Соломенка — река бассейна Западного Буга, протеает на территории Беловежской пущи.] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+	
+Liasnaya
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Лесная]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%28%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%91%D1%83%D0%B3%D0%B0%29">Лесная</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/liasnaya.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Брестской области, правый приток Западного Буга. Протекает на территории Беловежской пущи] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+	
+Narauka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Наревка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_%28%D1%80%D0%B5%D0%BA%D0%B0%29">Наревка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/narauka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река в Польше и Беларуси, левый приток Нарева (бассейн Западного Буга). Протекает на территории Беловежской пущи] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+	
+Perarounitsa
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Переровница]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="http://bp21.org.by/ru/about/klimat.html">Переровница</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/perarounitsa.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Приток реки Нарев на территории Беловежской пущи] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+	
+Tisauka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Тисовка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://lh3.googleusercontent.com/proxy/rMVeVOA6Nyx1zlIlcH6THGxzK6s0V6d2VjlM-rRevwZkEy66NErpTkqRBN7w---wAUWkOAKIPWdWQR-OpQ">Тисовка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/tisauka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Приток реки Лесная на территории Беловежской пущи] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+Kalonka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Колонка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://probelarus.by/blog/top-9-rek-belarusi-dlya-splavov-na-bajdarke.html">Колонка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/kalonka.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река на территории Беловежской пущи] (* <- lang_ru;; *);;
+	
+	
+	
+	
+	
+	
+Sipurka
+<- concept_water_body;
+<- concept_map_object;
+=> nrel_type: concept_river;
+=> nrel_main_idtf:
+    [Сипурка]
+      (* <- lang_ru;; <- name_ru;; *);
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://npbp.by/about/about-us-in-details/hydrology/">Сипурка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://image/sipurka.jpeg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[река на территории Беловежской пущи] (* <- lang_ru;; *);;
