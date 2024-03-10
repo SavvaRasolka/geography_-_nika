@@ -1,0 +1,5 @@
+concept_delicatula_integrella
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Деликатула маленькая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/delikatula-malenkaya/">Деликатула маленькая</a></body>];
+=> nrel_note: [Актуальное название – Delicatula integrella (Pers. : Fr.) Fayod 1889Этимология видового эпитета от delicatula, ae f, любимица. От delicatus, a, любимчик, ица + ulus (уменьшительное значение) и integrellus, a, um, цельный, безукоризненный, здоровый, непорочный, юный. От integer, gra, grum, с теми же значениями + ellus, a, um (уменьшительное значение).] (* <-lang_ru;; *);;

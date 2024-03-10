@@ -1,0 +1,6 @@
+concept_amanita_citrina
+<- concept_poisonous_mushroom;
+=> nrel_main_idtf: [Мухомор поганковидный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/muxomor-pogankovidnyj/">Мухомор поганковидный</a></body>];
+=> nrel_note: [Мухомор поганковидный (лат. Amanita citrina) — гриб рода Мухомор (лат. Amanita) семейства Аманитовые (лат. Amanitaceae).
+Мухомор поганковидный растёт в лиственных и хвойных лесах, преимущественно в сосняках, на легкой песчаной почве. Встречается часто, одиночно или небольшими группами в августе — октябре.] (* <-lang_ru;; *);;

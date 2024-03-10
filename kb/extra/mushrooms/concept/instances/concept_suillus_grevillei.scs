@@ -1,0 +1,6 @@
+concept_suillus_grevillei
+=> nrel_cap_colour: concept_orange_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Маслёнок лиственничный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/maslyonok-listvennichnyj/">Маслёнок лиственничный</a></body>];
+=> nrel_note: [Маслёнок лиственничный растет под лиственницей, в сосновых лесах с примесью лиственницы, в лиственных лесах, особенно молодых посадках. Встречается редко и необильно, одиночно и группами.] (* <-lang_ru;; *);;

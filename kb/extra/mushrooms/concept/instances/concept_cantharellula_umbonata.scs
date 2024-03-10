@@ -1,0 +1,6 @@
+concept_cantharellula_umbonata
+=> nrel_cap_colour: concept_grey_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Лисичка горбатая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/lisichka-gorbataya/">Лисичка горбатая</a></body>];
+=> nrel_note: [Цвет — серовато-сизый, с синевой, пигментация размытая, неравномерная, в целом окраска в центре темнее, чем по краям. Мякоть тонкая, сероватая, на изломе слабо краснеет.] (* <-lang_ru;; *);;

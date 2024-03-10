@@ -1,0 +1,7 @@
+concept_agaricus_sylvaticus
+=> nrel_cap_colour: concept_gray;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Шампиньон лесной] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/shampinon-lesnoj/">Шампиньон лесной</a></body>];
+=> nrel_note: [Известный немецкий миколог Jacob Christian Schaeffer (Якоб Кристиан Шеффер) описал этот гриб в 1762 году и дал ему общепринятое в настоящее время научное название Agaricus sylvaticus.
+Альтернативное написание «Agaricus sylvaticus» — «Agaricus silvaticus» одинаково распространено; эту «орфографическую форму» предпочитают некоторые авторитеты, включая Geoffrey Kibby (Джеффри Кибби, главный редактор британского научного журнала Полевая микология), и это написание используется на Index Fungorum. Большинство интернет-ресурсов, в том числе Британское микологическое общество, используют форму «silvaticus».] (* <-lang_ru;; *);;

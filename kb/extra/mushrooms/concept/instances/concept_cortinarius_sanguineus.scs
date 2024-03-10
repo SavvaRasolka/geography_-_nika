@@ -1,0 +1,7 @@
+concept_cortinarius_sanguineus
+=> nrel_cap_colour: concept_dark_blood_red;
+<- concept_poisonous_mushroom;
+=> nrel_main_idtf: [Паутинник кроваво-красный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/pautinnik-krovavo-krasnyj/">Паутинник кроваво-красный</a></body>];
+=> nrel_note: [Шляпка 1-5 см в диаметре, вначале выпуклая, затем почти плоская, сухая, шолковисто-волокнистая или вросше-чешуйчатая, темно-кроваво-красная; кортина кроваво-красная.
+Пластинки приросшие зубцом, частые, узкие, темно-кроваво-красные.] (* <-lang_ru;; *);;

@@ -1,0 +1,6 @@
+concept_suillus_variegatus
+=> nrel_cap_colour: concept_brown_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Маслёнок лиственничный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/maslenok-jelto-buryj/">Маслёнок лиственничный</a></body>];
+=> nrel_note: [У масленка желто-бурого шляпка вначале полукруглая с подвернутым краем, позже подушковидная, диаметром 50—140 мм. Поверхность вначале оливковая или серо-оранжевая, опушенная, которая постепенно растрескивается на мелкие чешуйки, исчезающие в зрелости.] (* <-lang_ru;; *);;

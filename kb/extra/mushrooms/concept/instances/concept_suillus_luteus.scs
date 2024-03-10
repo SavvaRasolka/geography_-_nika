@@ -1,0 +1,6 @@
+concept_suillus_luteus
+=> nrel_cap_colour: concept_brown_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Маслёнок обыкновенный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/%D0%9C%D0%B0%D1%81%D0%BB%D1%91%D0%BD%D0%BE%D0%BA+%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9.html">Маслёнок обыкновенный</a></body>];
+=> nrel_note: [Кожица радиально-волокнистая, очень слизистая и легко отделяющаяся от мякоти. Трубочки вначале бледно-желтые, позже темно-желтые, приросшие к ножке, 6—14 мм длиной. Поры мелкие, у молодых грибов бледно-желтые, позже ярко-желтые, буро-желтые.] (* <-lang_ru;; *);;

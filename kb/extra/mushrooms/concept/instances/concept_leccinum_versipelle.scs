@@ -1,0 +1,6 @@
+concept_leccinum_versipelle
+=> nrel_cap_colour: concept_dark_yellow_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Подосиновик желто-бурый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/podosinovik-zhelto-buryj/">Подосиновик желто-бурый</a></body>];
+=> nrel_note: [Подосиновик желто-бурый растет с июня по октябрь в лиственных и смешанных лесах, образуя микоризу преимущественно с березой. В молодых лесах может встречаться в баснословных количествах, особенно в начале сентября.] (* <-lang_ru;; *);;

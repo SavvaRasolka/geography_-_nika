@@ -1,0 +1,5 @@
+concept_gliophorus_irrigatus
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Глиофор маслянистый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/gliofor-maslyanistyj/">Глиофор маслянистый</a></body>];
+=> nrel_note: [Глиофор маслянистый встречается в Евразии, некоторых регионах Северной Америки. В РФ грибники находили его на Дальнем Востоке, в Карелии, на Урале, а также в областях Северо-Запада (Псковской, Ленинградской, Мурманской).] (* <-lang_ru;; *);;

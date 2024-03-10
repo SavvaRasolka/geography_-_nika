@@ -1,0 +1,5 @@
+concept_auriscalpium_vulgare
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Аурискальпиум обыкновенный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/auriskalpium-obyknovennyj/">Аурискальпиум обыкновенный</a></body>];
+=> nrel_note: [Диаметр 1-3 см, почковидной формы, ножка крепится с краю. Поверхность шерстистая, сухая, нередко с явно выраженной зональностью . Цвет варьирует от коричневого до серого и почти черного. Мякоть жесткая, серо-коричневого цвета.] (* <-lang_ru;; *);;

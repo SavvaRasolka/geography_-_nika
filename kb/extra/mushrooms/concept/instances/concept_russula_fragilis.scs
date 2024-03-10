@@ -1,0 +1,6 @@
+concept_russula_fragilis
+=> nrel_cap_colour: concept_light_red_colour;
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Сыроежка ломкая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/syroejka-lomkaya/">Сыроежка ломкая</a></body>];
+=> nrel_note: [Встречается часто на кислых почвах в лиственных, смешанных и хвойных лесах под березами, соснами, дубами, грабами и др. Встречается сыроежка ломкая в хвойных и лиственных лесах с августа по октябрь, реже с июня.] (* <-lang_ru;; *);;

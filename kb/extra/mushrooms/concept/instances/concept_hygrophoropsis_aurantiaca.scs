@@ -1,0 +1,6 @@
+concept_hygrophoropsis_aurantiaca
+=> nrel_cap_colour: concept_orange_colour;
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Лисичка ложная] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/lisichka-lozhnaya/">Лисичка ложная</a></body>];
+=> nrel_note: [Поверхность тонкобархатистая, сухая, с возрастом бархатистость исчезает. Кожица шляпки оранжевая, жёлто-оранжевая, оранжево-коричневая, самая тёмная в центре, иногда просматриваются в слабые концентрические зоны, исчезающие в возрастом.] (* <-lang_ru;; *);;

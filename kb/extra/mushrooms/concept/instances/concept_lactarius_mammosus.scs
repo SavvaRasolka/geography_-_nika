@@ -1,0 +1,6 @@
+concept_lactarius_mammosus
+=> nrel_cap_colour: concept_gray;
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Груздь сосочковый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/gruzd-sosochkovyj/">Груздь сосочковый</a></body>];
+=> nrel_note: [Груздь сосочковый (Lactarius mammosus) принадлежит к роду Млечников, и в научной литературе носит название сосочковый млечник. Принадлежит к семейству Сыроежковые.] (* <-lang_ru;; *);;

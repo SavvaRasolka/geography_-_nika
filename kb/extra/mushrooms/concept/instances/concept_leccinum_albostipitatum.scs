@@ -1,0 +1,6 @@
+concept_leccinum_albostipitatum
+=> nrel_cap_colour: concept_light_brown_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Подосиновик белоножновый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/podosinovik-belonojkovyj/">Подосиновик белоножковый</a></body>];
+=> nrel_note: [Вид ассоциирован с деревьями рода Populus (тополь). Часто можно встретить на опушках осиновых или смешанных с осиной лесов. Обычно растёт одиночно или небольшими группами. Плодоносит с июня по октябрь.] (* <-lang_ru;; *);;

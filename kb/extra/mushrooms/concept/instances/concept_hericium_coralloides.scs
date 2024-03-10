@@ -1,0 +1,6 @@
+concept_hericium_coralloides
+=> nrel_cap_colour: concept_white_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Ежовик коралловидный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/ezhovik-korallovidnyj/">Ежовик коралловидный</a></body>];
+=> nrel_note: [Растет ежовик коралловидный с начала июля до середины сентября на пнях и валеже лиственных пород (осины, дуба, чаще березы), единично, очень редко.] (* <-lang_ru;; *);;

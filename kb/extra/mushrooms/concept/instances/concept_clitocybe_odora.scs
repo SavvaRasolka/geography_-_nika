@@ -1,0 +1,5 @@
+concept_clitocybe_odora
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Говорушка анисовая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/govorushka-anisovaya/">Говорушка анисовая</a></body>];
+=> nrel_note: [Диаметр 3-10 см, в молодости синевато-зеленая, выпуклая, с завернутым краем, затем выцветающая до желто серого, распростертая, иногда вогнутая. Мякоть тонкая, бледно-серая или бледно-зеленая, с сильным анисово-укропным запахом и слабым вкусом.] (* <-lang_ru;; *);;

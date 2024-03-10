@@ -1,0 +1,6 @@
+concept_suillus_granulatus
+=> nrel_cap_colour: concept_light_brown_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Маслёнок зернистый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/maslyonok-zernistyj/">Маслёнок зернистый</a></body>];
+=> nrel_note: [Поверхность шляпки у масленка зернистого не такая липкая, и гриб кажется совсем сухим. Шляпка округло-выпуклая диаметром до 10 см, сначала красноватая, коричневато-бурая, позднее желтоватая или желто-охряная.] (* <-lang_ru;; *);;

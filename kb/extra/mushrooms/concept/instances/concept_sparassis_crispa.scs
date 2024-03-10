@@ -1,0 +1,5 @@
+concept_sparassis_crispa
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Спарассис курчавый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/sparassis-kurchavyj/">Спарассис курчавый</a></body>];
+=> nrel_note: [Экземпляры весом в несколько килограммов далеко не редкость. Окраска беловатая, к старости желтоватая или буроватая. Ножка глубоко уходит в почву, связана с корнями сосны, над землей разветвляется.] (* <-lang_ru;; *);;

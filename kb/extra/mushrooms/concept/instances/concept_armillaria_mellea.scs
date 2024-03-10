@@ -1,0 +1,5 @@
+concept_armillaria_mellea
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Опёнок осенний] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/openok-osennij/">Опёнок осенний</a></body>];
+=> nrel_note: [Мякоть беловатая, тонкая, волокнистая. Запах приятный, грибной. Вкус по различным данным либо не выраженный обычный, грибной, либо немного вяжущий, либо напоминающий вкус сыра «камамбер».] (* <-lang_ru;; *);;

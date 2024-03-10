@@ -1,0 +1,5 @@
+concept_hebeloma_radicosum
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Гебелома корневая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/gebeloma-kornevaya/">Гебелома корневая</a></body>];
+=> nrel_note: [Гебелома корневая или корневидная (лат. Hebeloma radicosum) — гриб рода Гебелома (Hebeloma) семейства Строфариевые (Strophariaceae). Ранее род относили к семействам Паутинниковые (Cortinariaceae) и Больбитиевые (Bolbitiaceae). Несъедобен из-за невысоких вкусовых качеств, иногда считается малоценным условно-съедобным грибом, годным к употреблению в ограниченном количестве в сочетании с другими грибами.] (* <-lang_ru;; *);;

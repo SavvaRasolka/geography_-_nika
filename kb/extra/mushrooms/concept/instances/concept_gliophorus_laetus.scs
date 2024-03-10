@@ -1,0 +1,5 @@
+concept_gliophorus_laetus
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Гигроцибе Красивая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/gigrocibe-krasivaya/">Гигроцибе Красивая</a></body>];
+=> nrel_note: [Широко распространена в Европе, Северной и Южной Америке и Японии. Привычно растет группами. Предпочитает почву гумуса, земли на гумусе. Чаще всего встречается в смешанных и хвойных лесах.] (* <-lang_ru;; *);;

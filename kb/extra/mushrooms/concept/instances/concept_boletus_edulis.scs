@@ -1,0 +1,6 @@
+concept_boletus_edulis
+=> nrel_cap_colour: concept_brown_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Белый гриб] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/belyj-grib/">Белый гриб</a></body>];
+=> nrel_note: [Кожица приросшая, не отделяется от мякоти. Под кожицей мякоть шляпки иногда розоватого, бурого или красно-коричневого оттенка. При повреждениях цвет не меняет.] (* <-lang_ru;; *);;

@@ -1,0 +1,6 @@
+concept_craterellus_cornucopioides
+=> nrel_cap_colour: concept_black;
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Вороночник рожковидный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/Вороночник+рожковидный.html">Вороночник рожковидный</a></body>];
+=> nrel_note: [Этот гриб тоже является родственником лисички настоящей. Хотя по внешнему виду так сразу и не скажешь. Гриб цвета сажи, на внешней стороне отсутствуют складочки, характерные для лисичек.] (* <-lang_ru;; *);;

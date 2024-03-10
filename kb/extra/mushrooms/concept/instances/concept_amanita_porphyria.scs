@@ -1,0 +1,6 @@
+concept_amanita_porphyria
+=> nrel_cap_colour: concept_grey_colour;
+<- concept_poisonous_mushroom;
+=> nrel_main_idtf: [Мухомор порфировый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/muxomor-porfirovyj/">Мухомор порфировый</a></body>];
+=> nrel_note: [Мухомор порфировый растёт в хвойных, особенно сосновых лесах. Встречается единичными экземплярами с июля по октябрь.] (* <-lang_ru;; *);;

@@ -1,0 +1,6 @@
+concept_hygrophorus_olivaceoalbus
+=> nrel_cap_colour: concept_dark_brown_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Гигрофор оливково-белый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/gigrofor-olivkovo-belyj/">Гигрофор оливково-белый</a></body>];
+=> nrel_note: [Вначале шляпка колокольчатая, конусообразная, потом стает распростертой и вдавленной. В центре имеется бугорок, бороздчатые края. Слизистая блестящая и липкая кожа. Достаточно плотная, цилиндрическая, тонкая ножка.] (* <-lang_ru;; *);;

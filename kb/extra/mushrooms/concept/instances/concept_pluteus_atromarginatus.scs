@@ -1,0 +1,7 @@
+concept_pluteus_atromarginatus
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Плютей Тёмнокрайний] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/plyutej-tyomnokrajnij/">Плютей Тёмнокрайний</a></body>];
+=> nrel_note: [Актуальное название — Pluteus atromarginatus (Konrad) Kühner (1935)
+Этимология эпитета от atromarginatus, a, um, с темным краем. От ater, atra, atrum, темный, черный, цвета сажи + margino, avi, atum, are, окаймлять, обрамлять.
+Шляпка 4-10 (12) см в диаметре, у молодых экземпляров полушаровидно-колокольчатая, при созревании выпуклая или приплюснутая, часто с пологим слабо выступающим бугорком, край волнистый, гладкий, без бороздок, часто радиально растрескивается, образуя своеобразные лопасти.] (* <-lang_ru;; *);;

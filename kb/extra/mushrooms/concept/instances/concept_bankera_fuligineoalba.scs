@@ -1,0 +1,6 @@
+concept_bankera_fuligineoalba
+=> nrel_cap_colour: concept_brown_colour;
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Банкера черно-белая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://mushrooms.org.il/item/75?setlang=ru">Банкера черно-белая</a></body>];
+=> nrel_note: [Шляпка мясистая, сперва выпуклая или подушковидная, с подвернутым краем.] (* <-lang_ru;; *);;

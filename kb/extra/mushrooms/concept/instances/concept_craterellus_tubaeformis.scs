@@ -1,0 +1,6 @@
+concept_craterellus_tubaeformis
+=> nrel_cap_colour: concept_brown_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Лисичка трубковидная] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/lisichka-trubkovidnaya/">Лисичка трубковидная</a></body>];
+=> nrel_note: [Гименофор лисички трубковидной представляет собой «ложные пластинки», выглядящие как разветвленная сеть жилковидных складок, нисходящих с внутренней стороны шляпки на ножку.] (* <-lang_ru;; *);;

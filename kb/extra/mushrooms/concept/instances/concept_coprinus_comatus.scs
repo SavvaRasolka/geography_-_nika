@@ -1,0 +1,6 @@
+concept_coprinus_comatus
+=> nrel_cap_colour: concept_white_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Навозник белый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/navoznik-belyj/">Навозник белый</a></body>];
+=> nrel_note: [Навозник белый встречается с мая до осени, иногда в феерических количествах, в полях, огородах, садах, газонах, на помойках, свалках, навозных кучах, а также вдоль дорог. Изредка попадается в лесу.] (* <-lang_ru;; *);;

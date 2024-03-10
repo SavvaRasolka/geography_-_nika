@@ -1,0 +1,5 @@
+concept_cantharellus_cinereus
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Лисичка серая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/lisichka-seraya/">Лисичка серая</a></body>];
+=> nrel_note: [Шляпка воронковидная, с неровными волнистыми краями. Внутренняя поверхность гладкая, серо-бурая; внешняя покрыта более светлыми складками, напоминающими пластинки. Мякоть тонкая, резинисто-волокнистая, без определенного запаха и вкуса.] (* <-lang_ru;; *);;

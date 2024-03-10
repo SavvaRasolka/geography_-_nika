@@ -1,0 +1,6 @@
+concept_amanita_virosa
+=> nrel_cap_colour: concept_white_colour;
+<- concept_poisonous_mushroom;
+=> nrel_main_idtf: [Мухомор вонючий] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/muxomor-vonyuchij/">Мухомор вонючий</a></body>];
+=> nrel_note: [Растёт в хвойных и смешанных сыроватых лесах на песчаных почвах с июля по сентябрь.] (* <-lang_ru;; *);;

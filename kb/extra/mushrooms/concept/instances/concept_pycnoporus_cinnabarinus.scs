@@ -1,0 +1,5 @@
+concept_pycnoporus_cinnabarinus
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Трутовик киноварно-красный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/trutovik-kinovarno-krasnyj/">Трутовик киноварно-красный</a></body>];
+=> nrel_note: [В молодости плодовое тело трутовика имеет яркую киноварно-красную окраску. В зрелом возрасте гриб выцветает и приобретает практически охряный цвет.] (* <-lang_ru;; *);;

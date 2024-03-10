@@ -1,0 +1,7 @@
+concept_mycena_acicula
+=> nrel_cap_colour: concept_orange;
+=> nrel_cap_colour: concept_red_orange;
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Мицена игловидная] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/micena-iglovidnaya/">Мицена игловидная</a></body>];
+=> nrel_note: [Шляпка диаметром 0.5-1 см, полушаровидная, радиально-полосатая, гладкая, с неровным краем. Цвет оранжево-красный, оранжевый, центр более насыщен, чем края. Частного покрывала нет.] (* <-lang_ru;; *);;

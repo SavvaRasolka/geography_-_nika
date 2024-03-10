@@ -1,0 +1,6 @@
+concept_amanita_phalloides
+=> nrel_cap_colour: concept_white_colour;
+<- concept_poisonous_mushroom;
+=> nrel_main_idtf: [Бледная поганка] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/blednaya-poganka/">Бледная поганка</a></body>];
+=> nrel_note: [ С ростом становится выпуклой, затем широковыпуклой, плосковыпуклой, до плоской у совсем старых грибов. Кожица шляпки гладкая, лысая, липкая при влажной погоде и блестящая — при сухой.] (* <-lang_ru;; *);;

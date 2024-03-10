@@ -1,0 +1,5 @@
+concept_lactarius_deliciosus
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Рыжик настоящий] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/ryjik/">Рыжик настоящий</a></body>];
+=> nrel_note: [Рыжик настоящий (лат. Lactarius deliciosus) или просто Рыжик хорошо отличается от других грибов.] (* <-lang_ru;; *);;

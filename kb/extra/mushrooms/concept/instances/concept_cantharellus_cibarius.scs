@@ -1,0 +1,6 @@
+concept_cantharellus_cibarius
+=> nrel_cap_colour: concept_yellow_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Лисичка обыкновенная] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/lisichka-obyknovennaya/">Лисичка обыкновенная</a></body>];
+=> nrel_note: [У лисички шляпка цвета яично- или оранжево-желтого (иногда выцветающего до очень светлого, почти белого); очертаниями шляпка сначала слабо-выпуклая, почти плоская, затем воронковидная, зачастую неправильной формы.] (* <-lang_ru;; *);;

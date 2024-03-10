@@ -1,0 +1,6 @@
+concept_leccinum_aurantiacum
+=> nrel_cap_colour: concept_light_red_colour;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Подосиновик обыкновенный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/Подосиновик+обыкновенный.html">Подосиновик обыкновенный</a></body>];
+=> nrel_note: [Подосиновик обыкновенный растет с июня по октябрь, образуя микоризу главным образом с осинами. Там, где их не собирают, встречается в колоссальных масштабах.] (* <-lang_ru;; *);;

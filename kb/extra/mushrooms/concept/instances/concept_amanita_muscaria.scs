@@ -1,0 +1,7 @@
+concept_amanita_muscaria
+=> nrel_cap_colour: concept_red_colour;
+<- concept_poisonous_mushroom;
+<- concept_hallucinogenic_mushroom;
+=> nrel_main_idtf: [Мухомор красный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/muxomor-krasnyj/">Мухомор красный</a></body>];
+=> nrel_note: [Во многих европейских языках название «мухомор» пошло от старинного способа его применения — в качестве средства против мух, латинский видовой эпитет тоже происходит от слова «муха» (лат. musca).] (* <-lang_ru;; *);;

@@ -1,0 +1,5 @@
+concept_boletopsis_leucomelaena
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Болетопсис бело-чёрный] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/boletopsis-belo-chyornyj/">Болетопсис бело-чёрный</a></body>];
+=> nrel_note: [Латинское родовое название дословно означает «болетоподобный», однако, по результатам филогенетических исследований, ближайшие родственники Болетопсисов — представители семейства Банкеровых.] (* <-lang_ru;; *);;

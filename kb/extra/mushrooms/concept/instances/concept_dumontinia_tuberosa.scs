@@ -1,0 +1,7 @@
+concept_dumontinia_tuberosa
+=> nrel_cap_colour: concept_brown;
+<- concept_inedible_mushroom;
+=> nrel_main_idtf: [Склеротиния клубневая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/sklerotiniya-klubnevaya/">Склеротиния клубневая</a></body>];
+=> nrel_note: [Актуальное название — Dumontinia tuberosa (Bull.) L.M. Kohn (согласно Species Fungorum).
+Думонтиния клубневая, она же Думонтиния шишковидная или Думонтиния шишковатая (старое название — Склеротиния клубневая) — небольшой чашевидный весенний гриб, обильно растущий в скоплениях ветреницы (Anemone).] (* <-lang_ru;; *);;

@@ -1,0 +1,6 @@
+concept_amanita_rubescens
+=> nrel_cap_colour: concept_light_brown_colour;
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Мухомор серо-розовый] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/muxomor-sero-rozovyj/">Мухомор серо-розовый</a></body>];
+=> nrel_note: [Растёт на почвах любого типа, повсеместно в зоне умеренного климата Северного полушария. Мухомор серо-розовый плодоносит одиночно или небольшими группами, встречается часто. Сезон с весны до поздней осени, наиболее часто с июля по октябрь.] (* <-lang_ru;; *);;

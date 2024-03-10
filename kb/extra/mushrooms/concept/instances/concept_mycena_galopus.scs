@@ -1,0 +1,7 @@
+concept_mycena_galopus
+=> nrel_cap_colour: concept_gray;
+=> nrel_cap_colour: concept_gray_brown;
+<- concept_edible_mushroom;
+=> nrel_main_idtf: [Мицена молочная] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/micena-molochnaya/">Мицена молочная</a></body>];
+=> nrel_note: [Шляпка диаметром 1-2,5 см, конусообразная либо колоколообразная, с возрастом уплощенная с бугорком, края могут заворачиваться вверх. Радиально-бороздчатая, полупрозрачно-полосатая, гладкая, матовая, как бы заиндевевшая. Цвет серый, серо-коричневатый. Темнее в центре, светлее к краям. Может быть практически белым (M. galopus var. alba), и вплоть до почти черного (M. galopus var. nigra), может быть темно-коричневым, с оттенками сепии. Частного покрывала нет.] (* <-lang_ru;; *);;

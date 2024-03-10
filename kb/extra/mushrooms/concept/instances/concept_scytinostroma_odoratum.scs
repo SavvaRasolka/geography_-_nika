@@ -1,0 +1,5 @@
+concept_scytinostroma_odoratum
+=> nrel_cap_colour: concept_white_colour;
+=> nrel_main_idtf: [Сцитинострома душистая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://www.binran.ru/resources/archive/fun_map/scyodo.htm">Сцитинострома душистая</a></body>];
+=> nrel_note: [Базидиомы однолетние или многолетние, резупинатные, прикрепленные, пробково-кожистые, толстые.] (* <-lang_ru;; *);;

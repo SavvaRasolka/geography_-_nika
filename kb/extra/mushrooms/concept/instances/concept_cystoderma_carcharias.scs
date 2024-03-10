@@ -1,0 +1,6 @@
+concept_cystoderma_carcharias
+=> nrel_cap_colour: concept_white;
+<- concept_conditionally_edible_mushroom;
+=> nrel_main_idtf: [Цистодерма шелушистая] (* <- lang_ru;; <- name_ru;; *);
+=> nrel_wiki_link: [<body><a href="https://wikigrib.ru/cistoderma-shelushistaya/">Цистодерма шелушистая</a></body>];
+=> nrel_note: [Цистодерма шелушистая (Cystoderma carcharias) – гриб семейства Шампиньоновые, принадлежащий к роду Цистодерма.] (* <-lang_ru;; *);;
