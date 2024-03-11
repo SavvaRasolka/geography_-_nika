@@ -17,46 +17,27 @@ belovezhskaya_pushcha_national_park => nrel_contains_water_body: Perarounitsa;;
 belovezhskaya_pushcha_national_park => nrel_contains_water_body: Tisauka;;
 belovezhskaya_pushcha_national_park => nrel_contains_water_body: Kalonka;;
 
-
-
 berezinsky_biosphere_reserve => nrel_contains_water_body: Biarezina;;
 berezinsky_biosphere_reserve => nrel_contains_water_body: Serguch;;
 berezinsky_biosphere_reserve => nrel_contains_water_body: Smalianka;;
 berezinsky_biosphere_reserve => nrel_contains_water_body: Vialikaja;;
 
-
-
+berezinsky_biosphere_reserve => nrel_contains_water_body: Domzaryckaje_voziera;;
+berezinsky_biosphere_reserve => nrel_contains_water_body: voziera_Plauna;;
+berezinsky_biosphere_reserve => nrel_contains_water_body: voziera_Volsyca;;
+berezinsky_biosphere_reserve => nrel_contains_water_body: voziera_Palik;;
 
 castle_forest => nrel_contains_water_body: Martynauka;;
-
-
-
 
 chirkovichi => nrel_contains_water_body: Biarezina;;
 chirkovichi => nrel_contains_water_body: Zardzianka;;
 
-
-
-
-
 dokudovsky => nrel_contains_water_body: Viasauka;;
-
-
-
 
 glebkovka => nrel_contains_water_body: Hlebkauka;;
 
-
-
-
 miranka => nrel_contains_water_body: Vauchaja;;
 miranka => nrel_contains_water_body: Nioman;;
-
-
-
-
-
-
 
 polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Pripyat;;
 polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Zelon;;
@@ -64,24 +45,93 @@ polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Bragink
 polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Vit;;
 polesie_state_radiation_ecological_reserve  => nrel_contains_water_body: Slovechno;;
 
-
-
-
-
-
 pripyat_national_park => nrel_contains_water_body: Pripyat;;
 pripyat_national_park => nrel_contains_water_body: Svinavod;;
 pripyat_national_park => nrel_contains_water_body: Stviga;;
-
-
-
 
 slonimsky => nrel_contains_water_body: Kamienka;;
 slonimsky => nrel_contains_water_body: Isa;;
 slonimsky => nrel_contains_water_body: Iska;;
 
-
-
-
-
 sosno  => nrel_contains_water_body: Daugava;;
+
+wildlife_sanctuary_vygonoshchanskoe  => nrel_contains_water_body: Vyhanascanskaje_voziera;;
+wildlife_sanctuary_vygonoshchanskoe  => nrel_contains_water_body: Babrovickaje_voziera;;
+
+wildlife_sanctuary_gayno_brodnya  => nrel_contains_water_body: voziera_Studzianka;;
+wildlife_sanctuary_gayno_brodnya  => nrel_contains_water_body: Vialikaje_voziera;;
+
+wildlife_sanctuary_dolgoye  => nrel_contains_water_body: Douhaje_voziera;;
+
+wildlife_sanctuary_drozhbitka_svina => nrel_contains_water_body: voziera_Bolnyro;;
+
+wildlife_sanctuary_elnya => nrel_contains_water_body: voziera_Jelnia;;
+
+wildlife_sanctuary_kozyanskiy => nrel_contains_water_body: voziera_Mosnia;;
+wildlife_sanctuary_kozyanskiy => nrel_contains_water_body: voziera_Kanaplanka;;
+wildlife_sanctuary_kozyanskiy => nrel_contains_water_body: voziera_Cienica;;
+wildlife_sanctuary_kozyanskiy => nrel_contains_water_body: voziera_Rasalaj;;
+
+wildlife_sanctuary_korytinskiy_moh => nrel_contains_water_body: voziera_Cyscik;;
+
+wildlife_sanctuary_naliboki => nrel_contains_water_body: voziera_Kroman;;
+
+wildlife_sanctuary_ozery => nrel_contains_water_body: Bierstauskaje_voziera;;
+wildlife_sanctuary_ozery => nrel_contains_water_body: voziera_Zackava;;
+
+wildlife_sanctuary_osveiskii => nrel_contains_water_body: Asviejskaje_voziera;;
+wildlife_sanctuary_osveiskii => nrel_contains_water_body: voziera_Lisna;;
+
+svityazansky => nrel_contains_water_body: voziera_Svitiaz;;
+
+selyava => nrel_contains_water_body: voziera_Sialava;;
+selyava => nrel_contains_water_body: voziera_Chudaviec;;
+
+sinsha => nrel_contains_water_body: voziera_Hlyba;;
+sinsha => nrel_contains_water_body: voziera_Sinsa;;
+sinsha => nrel_contains_water_body: voziera_Astraucy;;
+sinsha => nrel_contains_water_body: voziera_Opcina;;
+
+wildlife_sanctuary_sporovskii => nrel_contains_water_body: Sporauskaje_voziera;;
+
+narochansky_national_park => nrel_contains_water_body: voziera_Vialikija_Svaksty;;
+narochansky_national_park => nrel_contains_water_body: voziera_Malyja_Svaksty;;
+narochansky_national_park => nrel_contains_water_body: voziera_Svir;;
+narochansky_national_park => nrel_contains_water_body: voziera_Narac;;
+narochansky_national_park => nrel_contains_water_body: voziera_Miastra;;
+narochansky_national_park => nrel_contains_water_body: Belaje_voziera;;
+narochansky_national_park => nrel_contains_water_body: voziera_Miadziel;;
+narochansky_national_park => nrel_contains_water_body: voziera_Batoryna;;
+narochansky_national_park => nrel_contains_water_body: voziera_Hlubla;;
+narochansky_national_park => nrel_contains_water_body: voziera_Hlubelka;;
+narochansky_national_park => nrel_contains_water_body: voziera_Balduk;;
+narochansky_national_park => nrel_contains_water_body: Bielahalovaje_voziera;;
+narochansky_national_park => nrel_contains_water_body: voziera_Jacmianiec;;
+narochansky_national_park => nrel_contains_water_body: Miortvaje_voziera;;
+narochansky_national_park => nrel_contains_water_body: voziera_Svino;;
+narochansky_national_park => nrel_contains_water_body: voziera_Imsarac;;
+narochansky_national_park => nrel_contains_water_body: voziera_Vilcynija;;
+narochansky_national_park => nrel_contains_water_body: voziera_Karasik;;
+narochansky_national_park => nrel_contains_water_body: voziera_Akuniok;;
+narochansky_national_park => nrel_contains_water_body: Hluchoje_voziera;;
+narochansky_national_park => nrel_contains_water_body: voziera_Dziahili;;
+narochansky_national_park => nrel_contains_water_body: Kniahininskaje_voziera;;
+narochansky_national_park => nrel_contains_water_body: Visnieuskaje_voziera;;
+
+wildlife_sanctuary_shvakshty => nrel_contains_water_body: voziera_Vialikija_Svaksty;;
+wildlife_sanctuary_shvakshty => nrel_contains_water_body: voziera_Malyja_Svaksty;;
+
+braslav_lakes_national_park => nrel_contains_water_body: voziera_Dryviaty;;
+braslav_lakes_national_park => nrel_contains_water_body: voziera_Biareza;;
+braslav_lakes_national_park => nrel_contains_water_body: voziera_Snudy;;
+braslav_lakes_national_park => nrel_contains_water_body: voziera_Vojsa;;
+braslav_lakes_national_park => nrel_contains_water_body: voziera_Niespis;;
+braslav_lakes_national_park => nrel_contains_water_body: voziera_Niedrava;;
+braslav_lakes_national_park => nrel_contains_water_body: voziera_Naviata;;
+
+
+
+
+
+
+
