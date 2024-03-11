@@ -1,0 +1,37 @@
+concept_farmstead
+<- sc_node_not_relation;
+<= concept_manor;
+
+//Идентификаторы
+=> nrel_main_idtf:
+	[Агроусадьба] (* <- lang_ru;;*);
+	[Farmstead] (* <-lang_en;;*);
+
+//Иллюстрация   
+<- rrel_key_sc_element: ...
+(*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://image/manor.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	*);;
+*);
+
+//Определение
+<- rrel_key_sc_element: ...
+(*
+	<- definition;;
+	=> nrel_main_idtf: [Опр.(Агроусадьба)] (* <- lang_ru;; *);;
+	<= nrel_sc_text_translation: ...(*
+        	-> [<a href="https://zapovednytur.by/zelenyj-turizm/agrousadby.html">Агроусадьба</a> - используемый преимущественно в Беларуси, России и Украине термин, используемый для обозначения объектов агротуризма, мест проживания и отдыха агротуристов.] 
+            (*<-lang_ru;; => nrel_format: format_html;;*);;
+		*);;
+*);
+
+//Описание
+=>nrel_note:
+         [В агроусадьбах туристы некоторое время ведут сельский образ жизни, знакомятся с местной природой, культурой и обычаями с помощью пеших и конных прогулок и общения с местными жителями.]
+         (*<-lang_ru;; => nrel_format: format_html;;*);;

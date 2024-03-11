@@ -1,0 +1,31 @@
+concept_manor
+<- sc_node_not_relation;
+
+//Идентификаторы
+=> nrel_main_idtf:
+	[Усадьба] (* <- lang_ru;;*);
+	[Manor] (* <-lang_en;;*);
+
+//Иллюстрация   
+<- rrel_key_sc_element: ...
+(*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://image/manor.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	*);;
+*);
+
+//Определение
+<- rrel_key_sc_element: ...
+(*
+	<- definition;;
+	=> nrel_main_idtf: [Опр.(Усадьба)] (* <- lang_ru;; *);;
+	<= nrel_sc_text_translation: ...(*
+        	-> [<a href="https://www.skarnik.by/tsbm/82192">Усадьба</a> —  это исторический термин, который обозначает большое имение или участок земли, обычно с большим домом и другими постройками, который принадлежит одному собственнику или семье.] 
+            (*<-lang_ru;; => nrel_format: format_html;;*);;
+		*);;
+*);;

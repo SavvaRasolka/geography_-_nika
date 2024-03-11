@@ -1,0 +1,16 @@
+section_subject_domain_of_manor
+    => nrel_main_idtf:
+        [Раздел. Предметная область усадьбам](* <- lang_ru;; *);
+<- sc_node_class;
+<- atomic_section;;
+
+section_subject_domain_of_manor = [*
+    subject_domain_of_water
+        => nrel_main_idtf: 
+            [Предметная область по усадьбам] (* <- lang_ru;; *);
+        <- subject_domain;
+        -> rrel_maximum_studied_object_class:
+            concept_manor;
+        -> rrel_not_maximum_studied_object_class:
+            concept_farmstead;;
+*];;
