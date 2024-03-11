@@ -15,14 +15,10 @@ berezinsky_biosphere_reserve
 => nrel_belongs_to_area:
 	minsk_region;
 	vitebsk_region;
-=> nrel_contains_water:
-	water;
-=> nrel_contains_animal:
-	animal;
-=> nrel_contains_plant:
-	plant;
 => nrel_note: [Заповедник, находящийся в северной части Беларуси на расстоянии 120 километров от Минска в направлении Санкт-Петербурга. Расположен на границе Витебской и Минской областей. Центром заповедника является деревня Домжерицы Лепельского района.] 
 (* <- lang_ru;; *);;
+
+
 
 polesie_state_radiation_ecological_reserve
 <- concept_park_name;
@@ -40,12 +36,6 @@ polesie_state_radiation_ecological_reserve
 	1988;
 => nrel_belongs_to_area:
 	gomel_region;
-=> nrel_contains_water:
-	water;
-=> nrel_contains_animal:
-	animal;
-=> nrel_contains_plant:
-	plant;
 => nrel_note: [крупнейший заповедник Белоруссии и единственный в мире радиационно-экологический заповедник. Заповедник занимает 215 тысяч га на территории трёх наиболее пострадавших от аварии на Чернобыльской АЭС районов Гомельской области — Брагинского, Наровлянского и Хойникского.] 
 (* <- lang_ru;; *);;
 

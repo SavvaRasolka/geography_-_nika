@@ -1,0 +1,9 @@
+nrel_kind_of_activity
+<- sc_node_norole_relation;
+<- relation;
+=> nrel_main_idtf:
+	[Вид деятельности*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Kind of activity*] (* <- lang_en;; *);;
+	
+belovezhskaya_pushcha_national_park => nrel_kind_of_activity: kind_of_activity;;

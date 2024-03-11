@@ -1,0 +1,9 @@
+nrel_contains_estate
+<- sc_node_norole_relation;
+<- relation;
+=> nrel_main_idtf:
+	[Содержит усадьбу*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Contains estate*] (* <- lang_en;; *);;
+	
+belovezhskaya_pushcha_national_park => nrel_contains_estate: estate;;
