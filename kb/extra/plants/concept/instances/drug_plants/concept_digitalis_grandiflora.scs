@@ -1,0 +1,28 @@
+concept_digitalis_grandiflora
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_scrophulariaceae_kind;
+=> nrel_main_idtf:
+    [Наперстянка крупноцветковая]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Наперстаўка буйнакветная]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BF%D0%B5%D1%80%D1%81%D1%82%D1%8F%D0%BD%D0%BA%D0%B0_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F">Наперстянка крупноцветковая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_digitalis_grandiflora.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Как и наперстянка шерстистая, наперстянка крупноцветковая содержит кардиотонические гликозиды (карденолиды), главные из них — дигиланиды (ланатозиды) А, В, С. Растёт в лиственных и смешанных лесах, на опушках и вырубках, часто на задернованных и каменистых склонах среди кустарников, реже на разнотравных лугах. ] (* <- lang_ru;; *);;

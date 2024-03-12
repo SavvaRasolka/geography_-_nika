@@ -1,0 +1,28 @@
+concept_crownvetch
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_fabaceae_kind;
+=> nrel_main_idtf:
+    [Вязель разноцветный]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Вязель рознакаляровы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8F%D0%B7%D0%B5%D0%BB%D1%8C_%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B9">Вязель разноцветный</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_crownvetch.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Выращивается в качестве декоративного садового растения, используется в медицине. Растение морозостойко до −33 °C, засухоустойчиво, переносит и застой воды, однако является безусловным гелиофитом. Инвазивный вид, очень быстро распространяющийся корневыми отпрысками и семенами. ] (* <- lang_ru;; *);;

@@ -1,0 +1,28 @@
+concept_lovage_officinalis
+<- concept_food_plant;
+=> nrel_plant_kind: concept_celery_kind;
+=> nrel_main_idtf:
+    [Любисток лекарственный]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Любіста лекавы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B8%D1%81%D1%82%D0%BE%D0%BA_%D0%B0%D0%BF%D1%82%D0%B5%D1%87%D0%BD%D1%8B%D0%B9#:~:text=%D0%9B%D1%8E%D0%B1%D0%B8%D1%81%D1%82%D0%BE%D0%BA%20%D0%B0%D0%BF%D1%82%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%2C%20%D0%B8%D0%BB%D0%B8%20%D0%9B%D1%8E%D0%B1%D0%B8%D1%81%D1%82%D0%BE%D0%BA%20%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9,%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BF%D1%80%D1%8F%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B.">Любисток лекарственный</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/food_plants_images/concept_lovage_officinalis.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Любисток аптечный, или Любисток лекарственный (лат. Levisticum officinale) — многолетнее травянистое растение; типовой и единственный подтвержденный вид рода Любисток (Levisticum) семейства Зонтичные (Apiaceae). Широко используется в качестве пряной и лекарственной культуры] (* <- lang_ru;; *);;

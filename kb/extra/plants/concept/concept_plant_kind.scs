@@ -1,0 +1,8 @@
+concept_plant_kind
+<- sc_node_class;
+=> nrel_main_idtf:
+	[семейство растения] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[plant kind] (* <- lang_en;; *);
+=> nrel_note:
+	[Таксономическая единица растительных организмов, выделяемая по определенным систематическим признакам] (* <- lang_ru;; *);;

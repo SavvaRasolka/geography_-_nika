@@ -1,0 +1,16 @@
+concept_plant
+<- sc_node_class;
+=> nrel_main_idtf:
+	[растение] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[plant] (* <- lang_en;; *);
+=> nrel_note:
+	[Биологическое царство, одна из основных групп многоклеточных организмов, отличительной чертой представителей которой является способность к фотосинтезу, и включающая в себя мхи, папоротники, хвощи, плауны, голосеменные и цветковые растения] (* <- lang_ru;; *);
+<= nrel_subdividing:
+    ...
+    (*
+        <- sc_node_tuple;;
+        -> concept_food_plant;;
+        -> concept_drug_plant;;
+        -> concept_decorative_plant;;
+    *);;

@@ -1,0 +1,8 @@
+concept_food_plant
+<- sc_node_class;
+=> nrel_main_idtf:
+	[пищевое растение] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[food plant] (* <- lang_en;; *);
+=> nrel_note:
+	[Растения, отдельные части которых (или растения целиком) могут быть использованы в пищу в сыром либо переработанном виде] (* <- lang_ru;; *);;

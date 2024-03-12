@@ -1,0 +1,28 @@
+concept_siberian_iris
+<- concept_decorative_plant;
+=> nrel_plant_kind: concept_irmaaceae_kind;
+=> nrel_main_idtf:
+    [Касатик сибирский]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Касацік сібірскі]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B8%D1%81_%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9">Касатик сибирский</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/decorative_plants_images/concept_siberian_iris.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[И́рис сиби́рский, или Каса́тик сибирский (лат. Íris sibírica) — многолетнее корневищное растение; вид рода Ирис (Iris), подрода Limniris, секции Limniris, серии Sibiricae, подсерии Sibiricae; произрастающий в Восточной и Центральной Европе и Северной Азии] (* <- lang_ru;; *);;

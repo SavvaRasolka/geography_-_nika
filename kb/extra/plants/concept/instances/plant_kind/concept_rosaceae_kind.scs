@@ -1,0 +1,27 @@
+concept_rosaceae_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Розоцветные]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Ружакветныя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5">Семейство Розоцветные</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_rosaceae_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Семейство Розоцветных объединяет около 3000 видов: среди них есть травянистые растения, кустарники и деревья. В семействе Розоцветных много культурных растений. К этому семейству относится большинство плодово-ягодных культур: яблоня, груша, слива, персик, айва, абрикос, клубника, малина и другие] (* <- lang_ru;; *);;

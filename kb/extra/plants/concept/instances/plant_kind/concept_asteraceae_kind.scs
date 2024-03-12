@@ -1,0 +1,28 @@
+concept_asteraceae_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Астровые]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Астравыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%8B%D0%B5">Семейство Астровые</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_asteracea_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Семейство двудольных растений, включает 32 913 видов, объединённых в 1911 родов, распространённых по всему земному шару и представленных во всех климатических зонах. Характеризуются наличием сложных соцветий, которые часто ошибочно принимаются за одиночные цветки. ] (* <- lang_ru;; *);;
+

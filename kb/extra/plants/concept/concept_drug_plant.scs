@@ -1,0 +1,8 @@
+concept_drug_plant
+<- sc_node_class;
+=> nrel_main_idtf:
+	[лекарственное растение] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[drug plant] (* <- lang_en;; *);
+=> nrel_note:
+	[Дикорастущие и культивируемые растения, применяемые для профилактики и лечения заболеваний человека и животных] (* <- lang_ru;; *);;

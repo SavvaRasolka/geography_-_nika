@@ -1,0 +1,28 @@
+concept_common_chicory
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_asteraceae_kind;
+=> nrel_main_idtf:
+    [Цикорий обыкновенный]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Цыкорыя звычайная]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D0%B9_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9">Цикорий обычный</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_common_chicory.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Цикорий обыкновенный очень широко распространён как сорное растение. Он легко узнаётся по соцветиям-корзинкам, которые состоят только из язычковых голубых цветков. Но эти корзинки бывают раскрыты только в ранние утренние часы, а также в пасмурную погоду.] (* <- lang_ru;; *);;

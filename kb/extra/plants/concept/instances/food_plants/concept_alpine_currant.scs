@@ -1,0 +1,28 @@
+concept_alpine_currant
+<- concept_food_plant;
+=> nrel_plant_kind: concept_gooseberry_kind;
+=> nrel_main_idtf:
+    [Смородина альпийская]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Парэчка альпійская]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0_%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F">Смородина альпийская</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/food_plants_images/concept_alpine_currant.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Листопадный кустарник средней высоты с раскидистой, куполообразной кроной. Листья трехлопастные с зазубренными краями.] (* <- lang_ru;; *);;

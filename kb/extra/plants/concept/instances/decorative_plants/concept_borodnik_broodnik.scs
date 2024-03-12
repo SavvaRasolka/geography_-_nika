@@ -1,0 +1,28 @@
+concept_borodnik_broodnik
+<- concept_decorative_plant;
+=> nrel_plant_kind: concept_crassulaceae_kind;
+=> nrel_main_idtf:
+    [Бородник отпрысковый]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Бароднік атожылкавы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA">Бородник отпрысковый</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/decorative_plants_images/concept_borodnik_broodnik.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Растение предпочитает солнечные места с песчаной или глинистой почвой.] (* <- lang_ru;; *);;

@@ -1,0 +1,28 @@
+concept_bistort
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_polygonaceae_kind;
+=> nrel_main_idtf:
+    [Змеевик большой]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Змеявік вялікі]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BC%D0%B5%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9">Змеевик большой</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_bistort.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Благодаря широкому распространению является одним из основных кормов на тундровых и горных летовках. Поедаются листья и соцветия. Наилучшая поедаемость до наступления фазы цветения.Образует заросли на заболоченных торфяных и сырых пойменных и водораздельных лугах, по берегам водоёмов, встречается на лесных полянах, в кустарниковых зарослях. ] (* <- lang_ru;; *);;

@@ -1,0 +1,27 @@
+concept_mallowweed_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Просвирниковые]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Прасвірнікавыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0">Семейство Просвирниковые</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_mallowweed_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Семейство двудольных цветковых р-ний. Травянистые р-ния, кустарники, редко небольшие деревья. Листья очередные, простые, лопастные или цельные, с прилистниками. Цветки обоеполые, часто крупные, чашечка и венчик 5-членные (тычинок 10, плодолистиков обычно 5), одиночные или в соцветиях] (* <- lang_ru;; *);;

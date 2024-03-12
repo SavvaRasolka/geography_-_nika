@@ -1,0 +1,28 @@
+concept_melilotus_albus
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_fabaceae_kind;
+=> nrel_main_idtf:
+    [Донник белый]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Баркун белы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8F%D0%B7%D0%B5%D0%BB%D1%8C_%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B9">Донник белый</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_melilotus_albus.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Выдающийся медонос. Мёдопродуктивность 150—200 кг/га, а на юге европейской части России и в центрально-чернозёмной зоне 300 кг/га и более. За период цветения на одном растении распускается более 5000 цветков, дающих 415 мг ярко-жёлтой пыльцы.Неприхотлив к почвам и может расти на каменистой и суглинистой почве, на полях, выгонах, сорных местах, по оврагам, холмам, в степях, вдоль дорог, железнодорожных насыпей] (* <- lang_ru;; *);;

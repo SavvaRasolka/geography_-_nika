@@ -1,0 +1,28 @@
+concept_scrophulariaceae_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Норичниковые]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Залознікавыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5">Семейство Норичниковые</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_scrophulariaceae_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[семейство двудольных растений порядка Ясноткоцветные. Травы (автотрофные, полупаразитные или паразитные), реже кустарнички, кустарники и деревья. Стебли прямые, восходящие или стелющиеся. Листья очередные, супротивные или мутовчатые, цельные, реже раздельные или рассечённые. ] (* <- lang_ru;; *);;
+	

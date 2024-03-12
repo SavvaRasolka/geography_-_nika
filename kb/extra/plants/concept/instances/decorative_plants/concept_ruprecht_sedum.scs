@@ -1,0 +1,28 @@
+concept_ruprecht_sedum
+<- concept_decorative_plant;
+=> nrel_plant_kind: concept_crassulaceae_kind;
+=> nrel_main_idtf:
+    [Очитник Рупрехта]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Ачытнік Рупрэхта]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%B8%D1%82%D0%BD%D0%B8%D0%BA_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9">Очитник Рупрехта</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/decorative_plants_images/concept_ruprecht_sedum.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Очиток Рупрехта является подвидом очитка большого обыкновенного. Цветёт зеленовато-белыми соцветиями.] (* <- lang_ru;; *);;
