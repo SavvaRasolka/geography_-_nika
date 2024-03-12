@@ -1,0 +1,30 @@
+concept_phengaris_nausithous
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Голубянка черноватая] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Phengaris nausithous] (* <- lang_en;; *);
+=> nrel_note:
+	[Голубянка черноватая - вид бабочек из семейства голубянки.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_phengaris_nausithous.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Голубянка черноватая)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://lepidoptera-g2n.weebly.com/phengaris.html">Голубянка черноватая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;
+

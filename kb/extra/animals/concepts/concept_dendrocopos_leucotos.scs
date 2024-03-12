@@ -1,0 +1,33 @@
+concept_dendrocopos_leucotos
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Белоспинный дятел] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Dendrocopos leucotos] (* <- lang_en;; *);
+=> nrel_note:
+	[лесная птица семейства дятловых, наиболее крупный вид из рода Dendrocopos. Имеет внешнее сходство с большим пёстрым дятлом, отличаясь от него белой нижней частью спины и белыми внутренними маховыми. Распространён в лесной зоне Евразии. Населяет зрелые лиственные и смешанные леса с большим количеством больных и погибших деревьев, особое предпочтение отдаёт старым березнякам. Скрытная и малозаметная птица, однако присутствия человека не избегает. Живёт оседло. Иногда осенью и зимой совершает недальние кочёвки, однако весной обычно возвращается в тот же район, что и в предыдущий год. Тем не менее ежегодно долбит новое дупло для гнезда. Размножается раньше других дятлов, к концу мая уже появляются птенцы. ] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: narochansky_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D0%B4%D1%8F%D1%82%D0%BB%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%B4%D1%8F%D1%82%D0%B5%D0%BB-%D0%B1%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9/">Белоспинный дятел</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_dendrocopos_leucotos.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Белоспинный дятел)]   (*<-lang_ru;;*);;
+	*);;
+*);;

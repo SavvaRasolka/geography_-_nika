@@ -1,0 +1,30 @@
+concept_glaucidium_passerinum
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Воробьиный сыч] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Glaucidium passerinum] (* <- lang_en;; *);
+=> nrel_note:
+	[Воробьиный сыч - самая мелкая из наших сов, мельче скворца. Облик типично «совиный»: телосложение плотное, голова кажется большой и округлой (но мельче, чем у мохноногого сыча относительно размеров тела), есть лицевой диск, хотя и не очень хорошо выраженный.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_glaucidium_passerinum.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Воробьиный сыч)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D1%81%D0%BE%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D1%81%D1%8B%D1%87%D0%B8%D0%BA-%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B8%D0%BD%D1%8B%D0%B9/">СЫЧИК  ВОРОБЬИНЫЙ  (Glaucidium passerinum)</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;

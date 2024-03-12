@@ -1,0 +1,32 @@
+concept_glomeris_connexa
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Броненосец Связанный] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Glomeris connexa] (* <- lang_en;; *);
+=> nrel_note:
+	[Неморальный вид. В Беларуси единственный представитель рода. Тело покрыто 12 щитками с 17-19 парами ног. Длина тела 5-17 мм, ширина 2,5-8 мм, расцветка от светло- до темно-коричневой. На тергитах, за исключением первого и последнего, по 4 светлых пятна.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://ikobrin.ru/kobgmir27.php">Броненосец Связанный</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_glomeris_connexa.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Броненосец Связанный)]   (*<-lang_ru;;*);;
+	*);;
+*);;

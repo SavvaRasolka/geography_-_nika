@@ -1,0 +1,19 @@
+concept_arctia_villica
+
+=> nrel_main_idtf: [Медведица сельская] (* <- lang_ru;; <- name_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_arctia_villica.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Медведица сельская)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+=> nrel_info_link: [<body><a href="http://www.danaida.ru/sem8/medsel.htm">Медведица сельская</a></body>];
+=> nrel_note: [Размер бабочки - 22-30 мм. Размах крыльев - 45-60 мм. Фон передних крыльев — черный с кремовыми или белыми пятнами. Рисунок изменчив, пятна могут сливаться. Бабочку отличают черная грудь с белыми боками и светлое пятно в основании переднего крыла.] (* <-lang_ru;; *);;

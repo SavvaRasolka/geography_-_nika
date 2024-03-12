@@ -1,0 +1,18 @@
+concept_circus_cyaneus
+
+=> nrel_main_idtf: [Полевой лунь] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_circus_cyaneus.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Полевой лунь)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+=> nrel_info_link: [<body><a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D1%85%D0%B8%D1%89%D0%BD%D1%8B%D0%B5-%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B5/%D0%BB%D1%83%D0%BD%D1%8C-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9/">ЛУНЬ ПОЛЕВОЙ (Circus cyaneus)</a></body>];
+=> nrel_note: [Немногочисленный, хотя и широко распространенный, гнездящийся, транзитно мигрирующий и в небольшом числе зимующий вид. Несколько чаще встречается в местностях, где преобладают сравнительно большие безлесные пространства. В Поозерье редкий вид. Также очень редок в Гродненской, на севере Минской и Могилевской обл.] (* <-lang_ru;; *);;

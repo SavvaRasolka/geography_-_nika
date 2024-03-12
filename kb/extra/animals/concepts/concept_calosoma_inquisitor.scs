@@ -1,0 +1,18 @@
+concept_calosoma_inquisitor
+
+=> nrel_main_idtf: [Красотел бронзовый] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_calosoma_inquisitor.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Красотел бронзовый)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+=> nrel_info_link: [<body><a href="https://coleop123.narod.ru/coleoptera/Carabidae/Calosoma_inquisitor.htm">Красотел бронзовый Calosoma (s. str.) inquisitor (Linnaeus, 1758)</a></body>];
+=> nrel_note: [Жук длиной 17-25 мм. Окраска тела темно-бронзовая или черно-зеленая, реже синяя, надкрылья бронзовые, часто с зеленым блеском, края медно-красные или зеленые, яркие. Обитает в лесах, большей частью широколиственных.] (* <-lang_ru;; *);;

@@ -1,0 +1,19 @@
+concept_eurytemora_lacustris
+
+=> nrel_main_idtf: [Озерная эвритемора] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_eurytemora_lacustris.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Озерная эвритемора)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="http://klyovotut.ru/zakonodatelstvo/ryby-zanesyonnye-v-krasnuyu-knigu-rb/drugie-obitateli-v-krasnoj-knige/ozyornaya-evritemora/">Озёрная эвритемора</a></body>];
+=> nrel_note: [Один из двух представителей семейства в фауне республики. Длина тела взрослых особей в водоемах Беларуси от 1,5 до 1,7 мм. Туловище состоит из 3 отделов: головного (цефалона), грудного (торакса), слитых в головогрудь (цефалоторакс), и брюшного (абдомен). На конце абдомена две каудальные ветви с 5 оперенными щетинками. Головогрудь состоит из 5 сегментов, на которых размещены: пара длинных 25 -тичленистых антеннул, 5 пар ротовых конечностей и 5 пар плавательных ног. По внешнему виду похожа на лимнокалянуса, но отличается строением пятой пары плавательных ног и прикрепленным к абдомену самки яйцевым мешком.] (* <-lang_ru;; *);;

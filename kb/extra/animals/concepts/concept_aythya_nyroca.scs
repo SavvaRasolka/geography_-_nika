@@ -1,0 +1,32 @@
+concept_aythya_nyroca
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Белоглазая чернеть] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Aythya nyroca] (* <- lang_en;; *);
+=> nrel_note:
+	[Некрупная утка длиной до 42 см, массой до 700 г, с размахом крыльев до 71 см. Селезень каштановый с белесым центром брюха, белым пятном на подхвостье, узким темным ошейником; клюв серо-голубой, радужина серебристо-белая. Самка отличается от самца не каштановым, а буроватым оттенком оперения, темной радужиной. Голос самца - негромкое хриплое "чукчукчук", самки - как у других нырков. Полет более легкий, чем у других нырков.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="http://www.sevin.ru/vertebrates/index.html?birds/104.html">Белоглазая чернеть</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_aythya_nyroca.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Белоглазая чернеть)]   (*<-lang_ru;;*);;
+	*);;
+*);;

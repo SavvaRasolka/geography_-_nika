@@ -1,0 +1,32 @@
+concept_botaurus_stellaris
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Большая выпь] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Botaurus stellaris] (* <- lang_en;; *);
+=> nrel_note:
+	[Выпь со спины имеет чёрные с желтоватыми каёмками перья, такого же цвета голова. Брюхо охристое с бурым поперечным рисунком. Хвост жёлто-бурый с черноватым рисунком. В целом такая окраска выпи является маскировочной и помогает птице оставаться незамеченной среди стеблей тростника и камыша, где она обитает. Самцы несколько крупнее самок. Масса тела самца около 1 кг, иногда до 1,9 кг, рост до 70 см и выше, самки несколько меньше. Длина крыла у самцов в среднем 34 см, у самок — 31 см.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: narochansky_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D0%B0%D0%B8%D1%81%D1%82%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%B2%D1%8B%D0%BF%D1%8C/">Большая выпь</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_botaurus_stellaris.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Большая выпь)]   (*<-lang_ru;;*);;
+	*);;
+*);;

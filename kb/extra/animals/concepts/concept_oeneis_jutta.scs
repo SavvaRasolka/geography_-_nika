@@ -1,0 +1,34 @@
+concept_oeneis_jutta
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бархатница ютта] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Oeneis jutta] (* <- lang_en;; *);
+=> nrel_note:
+	[Длина переднего крыла 23—32 мм. Размах крыльев 45—60 мм. Крылья сверху бурые, на внешнем поле сверху чёрные глазки-точки в желтоватых ободках, которые иногда расплываются и сливаются, на передних крыльях три — четыре глазка, на задних — 1—2 или их нет совсем. В ячейке M2—M3 глазок отсутствует, редко здесь находится небольшая точка. Снизу задние крылья сероватые, с коричневатой фигурной контрастной перевязью в средней части, с выступом в средней части. Перевязь заметна иззубрена с внешней стороны. Внешнее поле крыльев сильно запылено тёмными (коричневатыми) чешуйками.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: narochansky_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://cicon.ru/barxatnica-yutta-ch-obl.html">Бархатница ютта</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_oeneis_jutta.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бархатница ютта)]   (*<-lang_ru;;*);;
+	*);;
+*);;

@@ -1,0 +1,19 @@
+concept_ixobrychus_minutus
+
+=> nrel_main_idtf: [Малая выпь] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_ixobrychus_minutus.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Малая выпь)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D0%B0%D0%B8%D1%81%D1%82%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%B2%D1%8B%D0%BF%D1%8C-%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F/">ВЫПЬ МАЛАЯ или ВОЛЧОК (Ixobrychus minutus)</a></body>];
+=> nrel_note: [Малочисленный гнездящийся, перелетный и транзитно мигрирующий вид. Распространена широко, но в последние десятилетия почти везде встречается редко. Сведения о характере распространения вида в Беларуси фрагментарны.] (* <-lang_ru;; *);;

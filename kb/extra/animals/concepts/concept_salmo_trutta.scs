@@ -1,0 +1,19 @@
+concept_salmo_trutta
+
+=> nrel_main_idtf: [Кумжа] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_salmo_trutta.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Кумжа)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="https://gurkov2n.jimdofree.com/%D1%80%D1%8B%D0%B1%D1%8B/%D0%BD%D0%B5%D0%BA%D0%B0%D1%80%D0%BF%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%BA%D1%83%D0%BC%D0%B6%D0%B0/">КУМЖА (Salmo trutta)</a></body>];
+=> nrel_note: [В недалёком прошлом эта проходная рыба по Неману и Вилии, Западной Двине и Бугу кумжа заходила в пределы Беларуси, но в меньших количествах, чем лосось. С 1950-х годов численность кумжи повсеместно снизилась, в том числе и в Беларуси. Основная причина заключалась в зарегулировании рек плотинами гидроэлектростанций, перекрывших пути нерестовых миграций.] (* <-lang_ru;; *);;

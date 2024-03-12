@@ -1,0 +1,62 @@
+nrel_contains_animal
+<- sc_node_norole_relation;
+<- relation;
+=> nrel_main_idtf:
+	[включает животное*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[contains animal*] (* <- lang_en;; *);;
+
+brest_region => nrel_contains_animal: concept_acrocephalus_paludicola;;
+
+brest_region => nrel_contains_animal: concept_emys_orbicularis;;
+gomel_region => nrel_contains_animal: concept_emys_orbicularis;;
+
+polesie_state_radiation_ecological_reserve => nrel_contains_animal: concept_ursus_arctos;;
+
+pripyat_national_park => nrel_contains_animal: concept_gerris_sphagnetorum;;
+
+minsk_region => nrel_contains_animal: concept_osmoderma_coriarium;;
+brest_region => nrel_contains_animal: concept_osmoderma_coriarium;;
+vitebsk_region => nrel_contains_animal: concept_osmoderma_coriarium;;
+gomel_region => nrel_contains_animal: concept_osmoderma_coriarium;;
+grodno_region => nrel_contains_animal: concept_osmoderma_coriarium;;
+mogilev_region => nrel_contains_animal: concept_osmoderma_coriarium;;
+
+minsk_region => nrel_contains_animal: concept_glaucidium_passerinum;;
+brest_region => nrel_contains_animal: concept_glaucidium_passerinum;;
+vitebsk_region => nrel_contains_animal: concept_glaucidium_passerinum;;
+gomel_region => nrel_contains_animal: concept_glaucidium_passerinum;;
+grodno_region => nrel_contains_animal: concept_glaucidium_passerinum;;
+mogilev_region => nrel_contains_animal: concept_glaucidium_passerinum;;
+
+pripyat_national_park => nrel_contains_animal: concept_gnorimus_variabilis;;
+
+brest_region => nrel_contains_animal: concept_charadrius_hiaticula;;
+
+lukovo => nrel_contains_animal: concept_lymnocryptes_minimus;;
+
+narochansky_national_park => nrel_contains_animal: concept_glaucopsyche_alexis;;
+
+pripyat_national_park => nrel_contains_animal: concept_maculinea_alcon;;
+
+grodno_region => nrel_contains_animal: concept_polyommatus_dorylas;;
+
+pripyat_national_park => nrel_contains_animal: concept_phengaris_teleius;;
+
+pripyat_national_park => nrel_contains_animal: concept_phengaris_nausithous;;
+
+pripyat_national_park => nrel_contains_animal: concept_polyommatus_eroides;;
+
+minsk_region => nrel_contains_animal: concept_mustela_erminea;;
+brest_region => nrel_contains_animal: concept_mustela_erminea;;
+vitebsk_region => nrel_contains_animal: concept_mustela_erminea;;
+gomel_region => nrel_contains_animal: concept_mustela_erminea;;
+grodno_region => nrel_contains_animal: concept_mustela_erminea;;
+mogilev_region => nrel_contains_animal: concept_mustela_erminea;;
+
+minsk_region => nrel_contains_animal: concept_triturus_cristatus;;
+brest_region => nrel_contains_animal: concept_triturus_cristatus;;
+vitebsk_region => nrel_contains_animal: concept_triturus_cristatus;;
+gomel_region => nrel_contains_animal: concept_triturus_cristatus;;
+grodno_region => nrel_contains_animal: concept_triturus_cristatus;;
+mogilev_region => nrel_contains_animal: concept_triturus_cristatus;;

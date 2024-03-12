@@ -1,0 +1,30 @@
+concept_gerris_sphagnetorum
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Водомерка сфагновая] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Gerris sphagnetorum] (* <- lang_en;; *);
+=> nrel_note:
+	[Описание: бескрылые особи, очень редко полнокрылые. Надкрылья, если они есть, не разделены на клавус, перепоночку и кориум. Тело (длина 8-9,7 мм) вытянутое. Хоботок короткий. Переднеспинка оттянута назад и закрывает щиток. Задние и передние ноги сближены и приспособлены к передвижению по водной поверхности, передние - хватательные, с мощно развитыми бедрами. Характерным признаком вида является светлая полоса на боках переднегруди, развитая только в передней части.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_gerris_sphagnetorum.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Водомерка сфагновая)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://ikobrin.ru/kobgmir76.php">СФАГНОВАЯ ВОДОМЕРКА</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;
+

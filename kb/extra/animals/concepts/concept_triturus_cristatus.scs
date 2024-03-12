@@ -1,0 +1,29 @@
+concept_triturus_cristatus
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Гребенчатый тритон] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Triturus cristatus] (* <- lang_en;; *);
+=> nrel_note:
+	[Гребенчатый тритон - вид тритонов из рода Triturus отряда хвостатых земноводных.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_triturus_cristatus.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Гребенчатый тритон)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://gurkov2n.jimdofree.com/%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5/%D1%82%D1%80%D0%B8%D1%82%D0%BE%D0%BD-%D0%B3%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D1%87%D0%B0%D1%82%D1%8B%D0%B9/">ТРИТОН ГРЕБЕНЧАТЫЙ (Triturus cristatus)</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;

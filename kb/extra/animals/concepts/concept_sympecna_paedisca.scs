@@ -1,0 +1,19 @@
+concept_sympecna_paedisca
+
+=> nrel_main_idtf: [Лютка сибирская] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_sympecna_paedisca.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Лютка сибирская)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="https://odonata.weebly.com/sympecma-paedisca.html">ЛЮТКА СИБИРСКАЯ</a></body>];
+=> nrel_note: [Стрекоза среднего размера, в состоянии покоя крылья сомкнуты и обычно расположены с одной стороны брюшка или над ним. Глаза вначале имеют буроватый цвет, но весной, после зимовки, становятся голубыми.] (* <-lang_ru;; *);;

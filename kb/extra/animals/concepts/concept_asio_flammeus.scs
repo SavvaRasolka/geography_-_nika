@@ -1,0 +1,33 @@
+concept_asio_flammeus
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Болотная сова] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Asio flammeus] (* <- lang_en;; *);
+=> nrel_note:
+	[Размах крыльев до 110 см, рыжая и серая цветовые фазы выражены менее отчетливо, фон окраски бледнее - желтоватый, кремовый, на брюхе и груди только продольные пестрины. Хорошо отличается от ушастой совы лимонно-желтой радужиной глаз, окруженной темными основаниями перьев лицевого диска и короткими сближенными "ушками" (обычно прижаты и не видны вовсе). В полете отличается более контрастными крыльями - на светлом фоне испода крыла выделяются темные концы первостепенных рулевых и полулунные пятна на сгибах. Летает еще лучше ушастой совы. Практически не садится на деревья; на земле, кочке, столбе посадка горизонтальная, хорошо отличается от посадки других сов.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: narochansky_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="http://www.sevin.ru/vertebrates/index.html?birds/380.html">Болотная сова</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_asio_flammeus.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Болотная сова)]   (*<-lang_ru;;*);;
+	*);;
+*);;
+

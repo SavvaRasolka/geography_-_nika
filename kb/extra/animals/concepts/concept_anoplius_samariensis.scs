@@ -1,0 +1,34 @@
+concept_anoplius_samariensis
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Аноплиус сарматский] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Anoplius samariensis] (* <- lang_en;; *);
+=> nrel_note:
+	[Усики обычные, не укороченные, не утолщенные. Голова в 1.1–1.2 раза шире своей высоты. Промежуточный сегмент в коротких беловатых прижатых волосках, образующих беловатый войлочек. Брюшко черное, с красным или желтоватым рисунком. 2-й или также и 3-й тергиты брюшка с широкой темновато-красной перевязью, сзади с черной каймой, нередко угловидно вдающейся в перевязь. Крылья сильно дымчатые, с металлическим отблеском. ] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: narochansky_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://vespa-g2n.jimdofree.com/pompiloidea/pompilidae/anoplius-samariensis/">Аноплиус сарматский</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_anoplius_samariensis.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Аноплиус сарматский)]   (*<-lang_ru;;*);;
+	*);;
+*);;

@@ -1,0 +1,31 @@
+concept_glaucopsyche_alexis
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Голубянка Алексис] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Glaucopsyche alexis] (* <- lang_en;; *);
+=> nrel_note:
+	[Голубянка Алексис - вид бабочек из семейства голубянки.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_glaucopsyche_alexis.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Голубянка Алексис)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://lepidoptera-g2n.weebly.com/glaucopsyche.html">Голубянка Алексис</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;
+
+

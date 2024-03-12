@@ -1,0 +1,19 @@
+concept_larus_minutus
+
+=> nrel_main_idtf: [Малая чайка] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_larus_minutus.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Малая чайка)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D1%80%D0%B6%D0%B0%D0%BD%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D1%87%D0%B0%D0%B9%D0%BA%D0%B0-%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F/">ЧАЙКА МАЛАЯ (Larus minutus)</a></body>];
+=> nrel_note: [Редкий спорадически гнездящийся перелетный и транзитно мигрирующий вид. Распространена на всей территории страны, везде спорадично и неравномерно, однако чаще встречается на востоке страны. До середины 1970-х указывалась для территории Брестской, Гомельской и Витебской обл. Позже отмечена на гнездовании во всех областях.] (* <-lang_ru;; *);;

@@ -1,0 +1,32 @@
+concept_numenius_arquata
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Большой кроншнеп] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Numenius arquata] (* <- lang_en;; *);
+=> nrel_note:
+	[Самый крупный из куликов, размерами с ворона, однотонной буровато-серой окраски, с длинным или очень длинным, заметно изогнутым книзу клювом. Самцы и самки окрашены одинаково, самки несколько крупнее самцов и имеют заметно более длинный клюв. Сезонный диморфизм в окраске оперения отсутствует, молодые птицы в юношеском наряде отличаются от взрослых хорошо выраженной охристой окраской оперения и гораздо более коротким клювом. ] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D1%80%D0%B6%D0%B0%D0%BD%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%BA%D1%80%D0%BE%D0%BD%D1%88%D0%BD%D0%B5%D0%BF-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9/">Большой кроншнеп</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_numenius_arquata.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Большой кроншнеп)]   (*<-lang_ru;;*);;
+	*);;
+*);;

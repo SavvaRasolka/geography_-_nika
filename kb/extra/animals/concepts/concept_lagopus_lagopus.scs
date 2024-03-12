@@ -1,0 +1,34 @@
+concept_lagopus_lagopus
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Белая куропатка] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Lagopus lagopus] (* <- lang_en;; *);
+=> nrel_note:
+	[Птица средних размеров, с относительно коротким хвостом. Телосложение плотное, ноги короткие, голова небольшая. Резко выражен сезонный диморфизм в окраске оперения. Взрослые самцы и самки в зимнем наряде сплошь белые, за исключением черных рулевых перьев (только средняя пара рулевых белая). Удлиненные перья надхвостья покрывают и хвост, поэтому в сидячем положении птица кажется совершенно белой. Ноги, включая пальцы, густо оперены. Клюв и глаза черные. ] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: narochansky_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D0%BA%D1%83%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%BA%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F/">Белая куропатка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_lagopus_lagopus.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Белая куропатка)]   (*<-lang_ru;;*);;
+	*);;
+*);;

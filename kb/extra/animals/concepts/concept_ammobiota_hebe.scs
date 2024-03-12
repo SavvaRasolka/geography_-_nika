@@ -1,0 +1,19 @@
+concept_ammobiota_hebe
+
+=> nrel_main_idtf: [Медведица Геба] (* <- lang_ru;; <- name_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_ammobiota_hebe.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Медведица Геба)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+=> nrel_info_link: [<body><a href="https://lepidoptera-g2n.weebly.com/arctia.html">Arctia caja (Linnaeus, 1758) ​медведица кая или бурая</a></body>];
+=> nrel_note: [Встречается по всей Беларуси, обычен. Предпочитает лугово-лесные стации (лиственные и смешанные леса, луга), встречается также на полях, в садах, в плодовых питомниках, кустарниковых зарослях, на верховых болотах. Размах крыльев 45-78 мм. Рисунок крыльев имаго очень изменчив. Лёт: конец мая - конец августа.] (* <-lang_ru;; *);;

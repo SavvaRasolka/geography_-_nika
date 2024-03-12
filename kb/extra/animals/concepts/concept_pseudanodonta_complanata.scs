@@ -1,0 +1,33 @@
+concept_pseudanodonta_complanata
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Беззубка узкая] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Pseudanodonta complanata] (* <- lang_en;; *);
+=> nrel_note:
+	[Раковина узкой беззубки - удлиненно-овальная (высота составляет 0,5 длины), мало выпуклая, очень тонкостенная, грубо концентрически исчерченная, с густо размещенными, местами шероховатыми линиями приостановки роста. Эпидермис гладкий, блестящий, коричневато-зеленоватых тонов, с узкими радиальными лучами, расходящимися от верхушки к переднему и заднему концам раковины.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: narochansky_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://ecosystema.ru/08nature/w-invert/067.htm">Беззубка узкая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_pseudanodonta_complanata.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Беззубка узкая)]   (*<-lang_ru;;*);;
+	*);;
+*);;

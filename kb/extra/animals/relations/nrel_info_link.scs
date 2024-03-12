@@ -1,0 +1,7 @@
+nrel_info_link
+<- sc_node_norole_relation;
+<- relation;
+=> nrel_main_idtf:
+	[ссылка на информацию*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[info link*] (* <- lang_en;; *);;

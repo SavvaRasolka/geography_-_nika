@@ -1,0 +1,31 @@
+concept_lymnocryptes_minimus
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Гаршнеп] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Lymnocryptes minimus] (* <- lang_en;; *);
+=> nrel_note:
+	[Гаршнеп - Небольшой кулик, размером со скворца, коротконогий и короткоклювый. Пальцы длинные. Перья на спинной стороне имеют структурную окраску с сильным зеленым блеском. Возрастных и сезонных отличий в окраске оперения нет. Самцы и самки по окраске не отличаются. ] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_lymnocryptes_minimus.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Гаршнеп)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D1%80%D0%B6%D0%B0%D0%BD%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%B3%D0%B0%D1%80%D1%88%D0%BD%D0%B5%D0%BF/">ГАРШНЕП (Lymnocryptes minimus)</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;
+
+

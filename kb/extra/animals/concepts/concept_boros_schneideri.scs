@@ -1,0 +1,31 @@
+concept_boros_schneideri
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Борос Шнейдера] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Boros schneideri] (* <- lang_en;; *);
+=> nrel_note:
+	[Единственный вид семейства Boridae встречающийся в России. Основание усиков прикрыто краем щёк – это позволяет без труда определить жука. Тело удлинённое. Голова вытянута, позади глаз шеевидно сужена. Бока переднеспинки округлые, тонко окаймлённые Голова и переднеспинка покрыты крупными точками. Надкрылья в мелкой спутанной пунктировке, со слабыми продольными бороздками. Основной цвет тёмно-коричневый, блестящий, сверху голый. Длина тела взрослых жуков 11-14 мм.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://cicon.ru/boros-moskva.html">Борос Шнейдера</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_boros_schneideri.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Борос Шнейдера)]   (*<-lang_ru;;*);;
+	*);;
+*);;

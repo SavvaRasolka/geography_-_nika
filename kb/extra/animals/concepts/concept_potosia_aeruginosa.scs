@@ -1,0 +1,34 @@
+concept_potosia_aeruginosa
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бронзовка большая зеленая] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Potosia aeruginosa] (* <- lang_en;; *);
+=> nrel_note:
+	[Размеры 2329 мм. Верх металлически-блестящий, золотисто-зеленый, иногда с медным отливом. Боковой край переднеспинки полностью окаймлен. Отросток среднегруди голый. Надкрылья без продольных вдавлений.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: narochansky_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://cicon.ru/cetonischema-aeruginosa.html">Бронзовка большая зеленая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_potosia_aeruginosa.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бронзовка большая зеленая)]   (*<-lang_ru;;*);;
+	*);;
+*);;

@@ -1,0 +1,32 @@
+concept_cordulegaster_boltonii
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Булавобрюх кольчатый] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Cordulegaster boltonii] (* <- lang_en;; *);
+=> nrel_note:
+	[Очень крупная стрекоза (длина брюшка 55 -60 мм): черная с ярко желтыми полосами и кольцами на груди и брюшке. Крылья прозрачные. Личинка красновато- коричневая со светлой головой. Длина тела 41 44 мм. Брюшко с мелкими черными пятнышками.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://cicon.ru/bulavobryux-kolchatyj-lenobl.html">Булавобрюх кольчатый</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_cordulegaster_boltonii.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Булавобрюх кольчатый)]   (*<-lang_ru;;*);;
+	*);;
+*);;

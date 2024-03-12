@@ -1,0 +1,19 @@
+concept_mergellus_albellus
+
+=> nrel_main_idtf: [Луток] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_mergellus_albellus.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Луток)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D0%B3%D1%83%D1%81%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%BB%D1%83%D1%82%D0%BE%D0%BA/">КЛУТОК (Mergellus albellus)</a></body>];
+=> nrel_note: [Мелкий крохаль величиной чуть более чирка, по ряду признаков представляет переходную форму между настоящими крохалями и гоголями. Относится к отдельному, достаточно обособленному роду уток-крохалей, характеризующихся узким не уплощенным, сильно зазубренным клювом с крючковидно загнутой вершиной, а также развитой способностью к нырянию.] (* <-lang_ru;; *);;

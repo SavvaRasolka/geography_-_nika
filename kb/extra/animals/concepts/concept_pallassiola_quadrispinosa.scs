@@ -1,0 +1,31 @@
+concept_pallassiola_quadrispinosa
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бокоплав Палласа] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Pallassiola quadrispinosa] (* <- lang_en;; *);
+=> nrel_note:
+	[Средний по размерам бокоплав. выделяющийся длинными антеннулами, достигающими задних краев третьего после головы сегмента тела. Конечный хвостовой сегмент (тельсон) не расщеплен до конца, а лишь имеет неглубокую выемку.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://cicon.ru/bokoplav-pallasa-lenobl.html">Бокоплав Палласа</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_pallassiola_quadrispinosa.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бокоплав Палласа)]   (*<-lang_ru;;*);;
+	*);;
+*);;

@@ -1,0 +1,33 @@
+concept_parus_cyanus
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Белая лазоревка] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Parus cyanus] (* <- lang_en;; *);
+=> nrel_note:
+	[Молодые птицы окрашены более тускло, в окраске верха заметен сероватый оттенок, низ тела часто с желтоватым налетом, «галстук» почти не виден. Темная полоса через глаз не столь контрастна и не заходит на шею.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B8%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5/%D0%BB%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F/">Белая лазоревка</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_parus_cyanus.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Белая лазоревка)]   (*<-lang_ru;;*);;
+	*);;
+*);;

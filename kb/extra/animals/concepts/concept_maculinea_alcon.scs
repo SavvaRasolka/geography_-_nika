@@ -1,0 +1,31 @@
+concept_maculinea_alcon
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Голубянка Алькон] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Maculinea alcon] (* <- lang_en;; *);
+=> nrel_note:
+	[Голубянка Алькон - дневная бабочка семейства голубянок, один из мирмекофильных видов.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_maculinea_alcon.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Голубянка Алькон)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://lepidoptera-g2n.weebly.com/phengaris.html">Голубянка Алькон</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;
+
+

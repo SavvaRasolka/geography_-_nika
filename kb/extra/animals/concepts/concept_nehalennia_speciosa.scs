@@ -1,0 +1,19 @@
+concept_nehalennia_speciosa
+
+=> nrel_main_idtf: [Нехаления красивая] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_nehalennia_speciosa.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Нехаления красивая)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="https://zooclub.ru/tree/Nehalennia_speciosa">Nehalennia speciosa (Нехаления красивая)</a></body>];
+=> nrel_note: [Длина 24—26 мм, брюшко 19—25 мм, заднее крыло 11—16 мм. Самая маленькая стрекоза стран СНГ. Брюшко тонкое, крылья короткие и широкие, прозрачные. Окраска самца металлически-зелёная с голубым. У самок известны две цветовые формы: одна повторяет окраску самца, вторая — бронзово-зелёная, а голубой цвет замещен на желтовато-зелёным или красновато-коричневый. Голова широкая. Лоб имеет острый поперечный край спереди от антенн, в профиль он выглядит заостренным.] (* <-lang_ru;; *);;

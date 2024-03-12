@@ -1,0 +1,33 @@
+concept_liocola_marmorata
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бронзовка мраморная] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Liocola marmorata] (* <- lang_en;; *);
+=> nrel_note:
+	[Жук длиной 19—27 мм. Окраска блестящая, чёрно-бронзовая, нижняя сторона тела и ноги, в особенности заднегрудь, с сильным зеленоватым оттенком, иногда надкрылья или вся верхняя сторона также имеют зеленоватый отлив. Тело удлиненное, несколько суженное кзади, умеренно выпуклое, Наличник удлиненно-прямоугольный. Голова в крупных и глубоких точках. Переднеспинка слабо поперечная, широкая у основания, суживается вперед. Покрыта мелкими точками, по бокам в густых крупных дуговидных точках. Щиток большой, удлиненно-треугольный, с притуплённой вершиной, в мелких точках. Надкрылья удлиненные, несколько суженные кзади. Пигидий умеренно выпуклый. Брюшко самца с продольной бороздкой.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://coleop123.narod.ru/coleoptera/Scarabaeidae/Liocola_marmorata.htm">Бронзовка мраморная</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_liocola_marmorata.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бронзовка мраморная)]   (*<-lang_ru;;*);;
+	*);;
+*);;

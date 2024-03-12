@@ -1,0 +1,33 @@
+concept_protaecia_fieberi
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бронзовка Фибера] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Protaecia fieberi] (* <- lang_en;; *);
+=> nrel_note:
+	[Жук длиной 16-25 мм, верх тела медно-красный, светло-бронзовый или золотисто-зеленый, колени без белых пятен, надкрылья с немногочисленными белыми пятнышками (8). От бронзовки золотистой (Cetonia aurata) хорошо отличается гладким блестящим приподнятым околошовным участком надкрылий и широким отростком среднегруди между средней парой ног.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://cicon.ru/protaetia_fieberi.html">Бронзовка Фибера</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_protaecia_fieberi.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бронзовка Фибера)]   (*<-lang_ru;;*);;
+	*);;
+*);;

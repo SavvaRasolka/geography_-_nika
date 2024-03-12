@@ -1,0 +1,33 @@
+concept_lasiommata_petropolitana
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бархатница петербуржская] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Lasiommata petropolitana] (* <- lang_en;; *);
+=> nrel_note:
+	[Одно поколение в год. Лёт с конца V до первой половины VII. Бабочки кормятся нектаром травянистых медоносов. Самцы иногда устраивают поединки между собой в борьбе за территорию. Самки откладывают яйца по одному на вершины травинок. Гусеницы питаются овсяницей (Festuca), вейником (Calamagrostis), мятликом (Poa) и ежой (Dactylis). Зимуют гусеницы или куколки (Львовский, Моргун, 2007). В искусственных условиях развитие происходит без диапаузы и первых бабочек можно получить уже в конце июля.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: belovezhskaya_pushcha_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="http://www.babochki-kavkaza.ru/index.php/satyridae/141-lasiommata-petropolitana---/205--lasiommata-petropolitana.html">бархатница петербуржская</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_lasiommata_petropolitana.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бархатница петербуржская)]   (*<-lang_ru;;*);;
+	*);;
+*);;

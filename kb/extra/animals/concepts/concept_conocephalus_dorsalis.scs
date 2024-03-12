@@ -1,0 +1,19 @@
+concept_conocephalus_dorsalis
+
+=> nrel_main_idtf: [Мечник короткокрылый] (* <- lang_ru;; <- name_ru;; *);
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_conocephalus_dorsalis.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Мечник короткокрылый)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+
+=> nrel_info_link: [<body><a href="https://orthoptera-g2n.jimdofree.com/tettigoniidae/conocephalus-dorsalis/">Conocephalus dorsalis</a></body>];
+=> nrel_note: [Небольшой, стройный, с очень длинными усиками. Голова конусовидная, вершина темени широкая, лоб сильно скошен. Усики длиннее тела почти в 3 раза. Переднеспинка со слабой плечевой выемкой. Надкрылья и крылья короче брюшка (редко вполне развитые), чаще всего достигают лишь середины брюшка, очень редко более длинные.] (* <-lang_ru;; *);;

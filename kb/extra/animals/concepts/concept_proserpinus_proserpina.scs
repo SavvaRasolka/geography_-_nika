@@ -1,0 +1,32 @@
+concept_proserpinus_proserpina
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бражник прозерпина] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Proserpinus proserpina] (* <- lang_en;; *);
+=> nrel_note:
+	[Длина переднего крыла 19—20 мм. Размах крыльев — 37—42 мм. Передние крылья с волнистым краем. Фон передних крыльев зелёный, коричневый или серый, центральная перевязь обычно темнее остальной части крыла. Внешний край передних крыльев заметно изрезан. Передние крылья сероватые с зеленоватой перевязью посредине, и чёрным пятном на поперечной жилке, с размытым затемнением зеленоватого цвета вдоль внешнего края, которое прерывается посредине и на вершине. Задние крылья оранжево-жёлтого цвета с чёрной или тёмно-коричневой внешней каймой. Тело сероватое, патагии и тегулы груди — зеленоватого цвета. Усики веретеновидные.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://mypets.by/proserpinus-proserpina-brazhnik-prozerpina">Бражник прозерпина</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_proserpinus_proserpina.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бражник прозерпина)]   (*<-lang_ru;;*);;
+	*);;
+*);;
+

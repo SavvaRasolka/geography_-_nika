@@ -1,0 +1,31 @@
+concept_parnassius_mnemosine
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Аполлон черный] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Parnassius mnemosine] (* <- lang_en;; *);
+=> nrel_note:
+	[Размах крыльев до 70 мм. Длина переднего крыла 20—35 мм. Крылья округлые, покрыты редкими чешуйками. Краевая область переднего крыла полупрозрачная, стекловидная. Жилки темные, резко контрастируют с фоном по всей длине. Переднее крыло с 2 черными пятнами: в центральной ячейке с дискальным пятном, заднее — с  темным полем в анальной области и разными по величине и форме пятнами. В жарких, сухих местностях окраска светлее.] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="https://lepidopterolog.ru/papilionidae/parnassiinae/parnassius-mnemosyne">Аполлон черный</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_parnassius_mnemosine.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Аполлон черный)]   (*<-lang_ru;;*);;
+	*);;
+*);;

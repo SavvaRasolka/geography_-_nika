@@ -1,0 +1,19 @@
+concept_aquila_pomarina
+
+=> nrel_main_idtf: [Малый подорлик] (* <- lang_ru;; <- name_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+  <- illustration;;
+  <= nrel_sc_text_translation: ...
+  (*
+    -> rrel_example: "file://images/concept_aquila_pomarina.jpg"
+    (*
+      => nrel_format: format_jpg;;
+    *);;
+  =>nrel_main_idtf: 
+   [Иллюстрация (Малый подорлик)]   (*<-lang_ru;;*);;
+  *);;
+*);
+
+=> nrel_info_link: [<body><a href="https://gurkov2n.jimdofree.com/%D0%BF%D1%82%D0%B8%D1%86%D1%8B/%D1%85%D0%B8%D1%89%D0%BD%D1%8B%D0%B5-%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B5/%D0%BF%D0%BE%D0%B4%D0%BE%D1%80%D0%BB%D0%B8%D0%BA-%D0%BC%D0%B0%D0%BB%D1%8B%D0%B9/">ПОДОРЛИК МАЛЫЙ (Aquila pomarina)</a></body>];
+=> nrel_note: [Малочисленный гнездящийся перелетный и транзитно мигрирующий вид. Распространен по всей территории. В большинстве районов встречается редко, хотя и является наиболее обычным представителем рода.] (* <-lang_ru;; *);;

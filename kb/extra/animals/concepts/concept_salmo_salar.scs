@@ -1,0 +1,34 @@
+concept_salmo_salar
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Атлантический лосось] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Salmo salar] (* <- lang_en;; *);
+=> nrel_note:
+	[Все рыбы рода Salmo имеют большой конечный рот и длинную верхнечелюстную кость, которая заходит за вертикаль заднего края глаза. У половозрелых самцов на переднем конце нижней челюсти имеется крючок, который входит в выемку верхней челюсти, зубы у взрослых рыб сильные, а у молоди слабые. Хвостовой плавник с выемкой, как у всех лососевых рыб имеется жировой плавник. Чешуя средняя по размерам, в боковой линии 100-150 чешуй. Пятна на теле Х-образной формы. Ниже боковой линии пятен нет, или их очень мало. У взрослых рыб спина в море зеленоватая или голубая, бока серебристые, брюхо белое. У нерестующих особей окраска темная с бронзовым отливом, иногда с красными пятнами, плавники темные. У молоди окраска темная с 11-12 поперечными пятнами (parr-mark). ] (* <- lang_ru;; *);
+
+<= nrel_contains_animal: narochansky_national_park;
+<= nrel_contains_animal: braslav_lakes_national_park;
+<= nrel_contains_animal: pripyat_national_park;
+
+=> nrel_info_link: 
+  [
+    <body>
+      <a href="http://www.sevin.ru/vertebrates/index.html?Fishes/39.html">Атлантический лосось</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_salmo_salar.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Атлантический лосось)]   (*<-lang_ru;;*);;
+	*);;
+*);;
+

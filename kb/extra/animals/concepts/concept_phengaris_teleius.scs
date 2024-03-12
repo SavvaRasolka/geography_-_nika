@@ -1,0 +1,30 @@
+concept_phengaris_teleius
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Голубянка Телей] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Phengaris teleius] (* <- lang_en;; *);
+=> nrel_note:
+	[Голубянка Телей - вид бабочек из семейства голубянки.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_phengaris_teleius.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Голубянка Телей)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://lepidoptera-g2n.weebly.com/phengaris.html">Голубянка Телей</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;
+

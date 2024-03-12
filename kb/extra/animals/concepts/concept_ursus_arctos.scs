@@ -1,0 +1,29 @@
+concept_ursus_arctos
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Бурый медведь] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Ursus arctos] (* <- lang_en;; *);
+=> nrel_note:
+	[Бурый медведь - самый крупный хищник Беларуси, который может достигать скорости до 50 км/час. Чаще всего медведи нападают только защищая свою жизнь, жизнь медвежат и добычу, которая принадлежит ему по праву.] (* <- lang_ru;; *);
+
+<- rrel_key_sc_element: ... (*
+	<- illustration;;
+	<= nrel_sc_text_translation: ...
+	(*
+		-> rrel_example: "file://images/concept_ursus_arctos.jpg"
+		(*
+			=> nrel_format: format_jpg;;
+		*);;
+	=>nrel_main_idtf: 
+	 [Иллюстрация (Бурый медведь)]   (*<-lang_ru;;*);;
+	*);;
+*);
+
+=> nrel_info_link: 
+  [
+    <body>
+	<a href="https://gurkov2n.jimdofree.com/%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5/%D1%85%D0%B8%D1%89%D0%BD%D1%8B%D0%B5/%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C-%D0%B1%D1%83%D1%80%D1%8B%D0%B9/">МЕДВЕДЬ БУРЫЙ (Ursus arctos)</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);;
