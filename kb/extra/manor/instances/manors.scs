@@ -8,17 +8,17 @@ manor_nesvizh
     [Manor Nesvizh] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_nesvizh.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_nesvizh.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://nataturka.ru/muzey-usadba/nesvizh-zamok-nesvizh.html">Усадьба Несвиж</a>Заложен в 1584 году первым ординатом Несвижским князем Радзивиллом Сироткой. 
@@ -35,17 +35,17 @@ manor_mir
     [Manor Mir] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_mir.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_mir.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.mirzamok.by/">Усадьба Мир</a>Усадьба расположена в культурно-историческом месте с прекрасным видом на Мирский замок,
@@ -63,17 +63,17 @@ manor_gorodishe
     [Manor Gorodishe] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_gorodishe.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_gorodishe.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/dom/estates/franopol">Усадьба Городище</a>Усадьба "Франопольское городище" расположена в Брестской области вблизи реки Рита. 
@@ -87,24 +87,24 @@ manor_gorodishe
 manor_ruzhany
 <- concept_manor;
 <=brest_region;
-
+<= nreal_contains_estate: wildlife_sanctuary_ruzhanskaya_pusha;
 //Идентификаторы
 => nrel_main_idtf:
     [Усадьба Ружаны] (* <- lang_ru;;*);
     [Manor Ruzhany] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_ruzhany.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_ruzhany.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.belarus.by/ru/travel/belarus-life/ruzhany-palace">Усадьба Ружаны</a>Один из уникальных уголков Беларуси. На протяжении столетий красивейший архитектурный ансамбль, 
@@ -120,17 +120,17 @@ manor_loshitskij_park
     [Manor Loshitskij Park] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_loshitskij_park.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_loshitskij_park.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://dzen.ru/a/YxBxAKNYNzrHyavq">Усадьба Лошицкий парк</a>Усадебно-парковый комплекс XVI-XIX веков.
@@ -148,17 +148,17 @@ manor_adadurovyh
     [Manor Adadurovyh] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_adadurovyh.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_adadurovyh.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/skarb/116-usadba-adadurovyh-belaja-dacha-v-minske">Усадьба Ададуровых</a>Существует несколько версий, по которым возникла усадьба. По одной из них, усадьба была во владении у помещика Курасова, 
@@ -177,17 +177,17 @@ manor_kotlubaev
     [Manor Kotlubaev] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_kotlubaev.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_kotlubaev.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Котлубаев</a>Удивительный памятник архитектуры скрывается в небольшой деревеньке под Барановичами. Усадьба Котлубаев похожа 
@@ -207,17 +207,17 @@ manor_tyshkevichej
     [Manor Tyshkevichej] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_tyshkevichej.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_tyshkevichej.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Тышкевичей</a>История заброшенной усадьбы, которой некогда владели Тышкевичи, напрямую связана со… зверинцем!
@@ -240,17 +240,17 @@ manor_radzivillov
     [Manor Radzivillov] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_radzivillov.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_radzivillov.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Радзивиллов</a>Это даже не старая барская усадьба, а скорее дворец: настолько масштабной выглядит одна из резиденций Радзивиллов, 
@@ -268,17 +268,17 @@ manor_rejtanov
     [Manor Rejtanov] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_rejtanov.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_rejtanov.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Рейтанов</a>В отличие от большинства других усадебных комплексов Беларуси, династия Рейтанов владела Грушевкой
@@ -297,17 +297,17 @@ manor_chetvertinskih
     [Manor Chetvertinskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_chetvertinskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_chetvertinskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Четвертинских</a>Даже если вам не доводилось бывать в Вечном городе, при взгляде на усадьбу Четвертинских в Желудке ассоциации
@@ -325,17 +325,17 @@ manor_gerardov
     [Manor Gerardov] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_gerardov.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_gerardov.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Герардов</a>Всего в 49 км от Гомеля находится старинная усадьба Беларуси, которая, к сожалению, обладает одной из самых печальных 
@@ -357,17 +357,17 @@ manor_bohvicej
     [Manor Bohvicej] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_bohvicej.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_bohvicej.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Бохвицей</a>История этой старой заброшенной усадьбы связана с именем Яна Бохвица, одного из самых известных представителей рода,
@@ -387,17 +387,17 @@ manor_yastrzhembskih
     [Manor Yastrzhembskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_yastrzhembskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_yastrzhembskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://vetliva.ru/belarus/blog/starinnye-usadybi-belarusi/#1">Усадьба Ястржембских</a>Усадьба находится в деревне Борисовщина, всего в 6 км от Полесского радиационного заповедника.
@@ -415,17 +415,17 @@ manor_slotvinskih
     [Manor Slotvinskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_slotvinskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_slotvinskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://meridian28.com/report/rovanichy.html">Усадьба Слотвинских</a>Формирование усадебного комплекса в деревне Рованичи в Червенском районе Минской области началось
@@ -443,17 +443,17 @@ manor_oginskogo
     [Manor Oginskogo] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_oginskogo.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_oginskogo.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/tips/babe-leto-vybrali-6-belorusskih-usadeb-s-samymi-krasivymi-parkami-dlja-pravilnyh-osennih-progulok">Усадьба Огинского</a>Восстановленная усадьба-музей в Гродненской области с огромным и красивым парком. Была построена политиком
@@ -471,17 +471,17 @@ manor_pruzhanskij_palatik
     [Manor Pruzhanskij Palatik] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_pruzhanskij_palatik.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_pruzhanskij_palatik.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/tips/babe-leto-vybrali-6-belorusskih-usadeb-s-samymi-krasivymi-parkami-dlja-pravilnyh-osennih-progulok">Усадьба Пружанский палатик</a>Белорусская усадьба в итальянском стиле. Строилась как загородная вилла для семьи Швыковских. Архитектор:
@@ -499,17 +499,17 @@ manor_tizengauza
     [Manor Tizengauza] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_tizengauza.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_tizengauza.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/tips/babe-leto-vybrali-6-belorusskih-usadeb-s-samymi-krasivymi-parkami-dlja-pravilnyh-osennih-progulok">Усадьба Тизенгауза</a>Является памятником архитектуры XVI века. Во второй половине XVIII владельцем земель стал гродненский
@@ -527,17 +527,17 @@ manor_frantishka_bogushevicha
     [Manor Frantishka Bogushevicha] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_frantishka_bogushevicha.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_frantishka_bogushevicha.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/tips/babe-leto-vybrali-6-belorusskih-usadeb-s-samymi-krasivymi-parkami-dlja-pravilnyh-osennih-progulok">Усадьба Франтишка Богушевича</a>В деревне Кушляны Гродненской области есть усадьба с одноименным названием, где когда-то родился и жил 
@@ -553,17 +553,17 @@ manor_sula
     [Manor Sula] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_sula.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_sula.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/tips/babe-leto-vybrali-6-belorusskih-usadeb-s-samymi-krasivymi-parkami-dlja-pravilnyh-osennih-progulok">Усадьба Сула</a>Усадьба педставляет собой возрожденную усадьбу XVIII столетия. Расположился комплекс в живописном
@@ -579,17 +579,17 @@ manor_merzheevskih
     [Manor Merzheevskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_merzheevskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_merzheevskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/skarb/463-usadba-merzheevskih-v-derevne-grozov">Усадьба Мержеевских</a>Первое большое имение появилось во второй половине XVIII века и до 1863 года его хозяевами были Мержеевские, а потом
@@ -608,17 +608,17 @@ manor_chapskih
     [Manor Chapskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_chapskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_chapskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://strada.by/story/priluki-dvorcovo-parkovyi-kompleks-chapskih">Усадьба Чапских</a>Впервые Прилуки упоминаются в 1567 году в связи с тем, что здесь располагалась почтовая станция по дороге
@@ -639,17 +639,17 @@ manor_albertin
     [Manor Albertin] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_albertin.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_albertin.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/skarb/311-usadba-puslovskih-albertin-v-slonime">Усадьба Альбертин</a>Усадьба Пусловских «Альбертин» в Слониме является памятником усадебно-парковой архитектуры. 
@@ -667,17 +667,17 @@ manor_tolstyh
     [Manor Tolstyh] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_tolstyh.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_tolstyh.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/skarb/1123-usadba-tolstyh-v-derevne-grudinovka">Усадьба Толстых</a>Некогда эта земля в Беларуси принадлежала Хацкевичам и Сапегам, но после раздела Речи Посполитой Екатерина Великая подарила
@@ -694,17 +694,17 @@ manor_lyubanskih
     [Manor Lyubanskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_lyubanskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_lyubanskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://ru.wikipedia.org/">Усадьба Любанских</a>В конце XVI столетия на территории усадьбы размещались дворы Лошицкий и Старая Лошица, которыми владели князья Друцкие-Горские.
@@ -730,17 +730,17 @@ manor_kostrovickih
     [Manor Kostrovickih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_kostrovickih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_kostrovickih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://ru.belarus.travel/landmarks/usadba-kostrovitckikh">Усадьба Костровицких</a>В деревне Большие Новоселки сохранились постройки усадьбы, которая принадлежала роду Костровицких. 
@@ -757,17 +757,17 @@ manor_staraya_belica
     [Manor Staraya Belica] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_staraya_belica.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_staraya_belica.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://planetabelarus.by/sights/ruiny-usadby-svyatskikh-staraya-belitsa-v-derevne-plamya/">Усадьба Святских "Старая Белица"</a>Усадьба «Старая Белица» в стиле позднего классицизма была построена в начале XIX века и подверглась перестройке во второй половине XIX – начале XX вв. Помимо усадебного дома, комплекс включал пейзажный парк с озером и хозяйственные постройки (склад, амбар, спиртзавод, спиртохранилище, коровник и т.д.).
@@ -784,17 +784,17 @@ manor_tyshkevichej_urochishe_vyaloe
     [Manor Tyshkevichej Urochishe Vyaloe] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_tyshkevichej_urochishe_vyaloe.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_tyshkevichej_urochishe_vyaloe.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/skarb/665-usadba-tyshkevichej-v-urochishhe-vjaloe">Усадьба Тышкевичей урочище Вялое</a>Усадьба Тышкевичей в урочище Вялое была построена Бенедиктом Тышкевичем. Первое строение представляло собой одноэтажное деревянное здание – «охотничий домик», или «дворец охотников», как называл его гости Тышкевичей. Этот деревянный «дворец» был построен в 1840 году, хотя землями на Воложинщине (около 40 000 гектаров!) Тышкевичи владели с 1803 года.
@@ -810,17 +810,17 @@ manor_gutten_chapskih
     [Manor Gutten Chapskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_gutten_chapskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_gutten_chapskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://minoblturism.gov.by/objects/?SECTION_ID=&ELEMENT_ID=1176">Усадьба фон Гуттен-Чапских</a>Эмерик Захарьяш Николай Северин фон Гуттен-Чапский занимал не последние посты в Российской империи. Выйдя в отставку в 1879 году, он обосновался в местечке Станьково недалеко от нынешнего Дзержинска. В 1880 году здесь появилась прекрасная усадьба, построенная в романтическом стиле с элементами античной архитектуры.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -835,17 +835,17 @@ manor_vankovichej
     [Manor Vankovichej] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_vankovichej.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_vankovichej.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://ru.belarus.travel/landmarks/usadba-vankovichei">Усадьба Ваньковичей</a>Усадьба Ваньковичей – памятник дворцово-усадебной архитектуры эпохи классицизма и садово-паркового искусства XIX века. С 2001 года усадьба включена в Государственный список историко-культурных ценностей Республики Беларусь и объявлена культурно-историческим памятником](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -860,17 +860,17 @@ manor_umyastovskih
     [Manor Umyastovskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_umyastovskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_umyastovskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://travel.by/2023/04/usadba-umyastovskih-v-zhemyslavle-skazochnyy-dvorets-na-grani-ischeznoveniya/">Усадьба Умястовских</a>Одна из самых красивых дворянских усадеб в Беларуси находится в деревне Жемыславль Гродненской области. Построенная в XIX веке по образцу Лазенковского дворца в Варшаве, сейчас она находится в довольно плачевном состоянии.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -885,17 +885,17 @@ manor_bogudenki
     [Manor Bogudenki] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_bogudenki.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_bogudenki.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/skarb/939-usadba-bogudenki-v-poselke-porozovo">Усадьба Богуденки</a>Усадьба «Богуденки» в поселке Порозово – является памятником архитектуры и истории конца XIX – начала XX века. Издревле имение принадлежало роду Бутовт-Анджейковичей, которое было построено его главой – Тадеушем Бутовт-Анджейковичем. Усадьба представляет собой большой деревянный жилой дом с многочисленными карнизами, башенками и хозяйственными постройками.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -910,17 +910,17 @@ manor_nadneman
     [Manor Nadneman] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_nadneman.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_nadneman.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.holiday.by/by/skarb/1272-usadba-narkevichej-iodko-nadneman">Усадьба Наднеман</a>Руины бывшего поместья в деревне Наднеман являются памятником архитектуры неоготики. Интересна предыстория строительства: в 1823 году небогатый шляхтич Онуфрий Наркевич-Иодко выкупил имение Малысковщина, на территории которого находился бровар (двухэтажный пивоваренный завод). Спустя десятилетие здание приобрело завершенный вид и стало занятным примером трансформации промышленного сооружения в жилое поместье. Усадьба характеризовалась смешением, казалось бы, противоположных стилей: оборонительных сооружений и утонченной средневековой готики. Композиция строения включала в себя две башни шестигранной и четырехгранной формы, широкую террасу и эффектные лестничные каскады.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -935,17 +935,17 @@ manor_gyunterov
     [Manor Gyunterov] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_gyunterov.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_gyunterov.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://tomkad.livejournal.com/334255.html">Усадьба Гюнтеров</a>Усадьба и парк были заложены в Добровлянах в конце 18 века на западном краю деревни. В 1824 году А. Гюнтер возводит трёхэтажный дворец в стиле классицизм, который позднее перестраивался в духе романтизма, имел псевдоготические декорации. Перепланировкам подвергались и усадебные постройки. Дворец был разрушен во время Первой мировой войны (из-за непосредственной близости линии фронта в 1916 году) и больше не отстраивался.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -960,17 +960,17 @@ manor_monyushko
     [Manor Monyushko] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_monyushko.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_monyushko.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://posmotrim.by/article/dvorec_monyushko_vankovichey.html">Усадьба  Монюшко</a>В 30 километрах от Минска в посёлке Смиловичи расположена усадьба в Смиловичах - дворец Монюшко - Ваньковичей , построенный в два этапа в разное время имеет два крыла названными соответственно Новый и Старый дворец .
@@ -989,17 +989,17 @@ manor_druckih_lyubeckih
     [Manor Druckih Lyubeckih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_druckih_lyubeckih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_druckih_lyubeckih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://ru.belarus.travel/landmarks/usadba-drutckikh-liubetckikh">Усадьба Друцких-Любецких</a>Дворец представляет собой оригинальный памятник неклассической для данного времени архитектуры, который обладает высокой культурной ценностью за счет того, что внутри него расположен музей.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -1014,17 +1014,17 @@ manor_pshezdeckih
     [Manor Pshezdeckih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_pshezdeckih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_pshezdeckih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.tripadvisor.ru/Attraction_Review-g294448-d26772282-Reviews-Usadba_Pshezdetskikh-Minsk.html">Усадьба Пшездецких</a>Усадьба состоит из главного дома и флигеля. Построена в 18 веке в стиле классицизма. Усадьба сильно пострадала во время пожара в 1881 году и в дальнейшем была восстановлена. Сейчас здесь находится галерея М. Савицкого. Является памятником архитектуры.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -1039,17 +1039,17 @@ manor_rdultovskih
     [Manor Rdultovskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_rdultovskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_rdultovskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://traveling.by/news/item/2754">Усадьба Рдултовских</a>Дворец был построен в 1825-1827 годах Казимиром Рдултовским, предводителем дворянства Новогрудского повета. Архитектор здания, Б. Тычецкий, стремился к простоте и строгости форм, без нарочитой пышности и китча.](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -1064,17 +1064,17 @@ manor_obuhovichej
     [Manor Obuhovichej] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_obuhovichej.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_obuhovichej.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://dzen.ru/a/Yxh2Ec2252rbsSFB">Усадьба Обуховичей</a>Филипп Казимир Обухович был первым известным владельцем Лип, от него имение переходило по мужской линии вплоть до его праправнука Михаила (1760 - 1818). Он был минским каштеляном, а также участвовал в восстании Костюшки 1794 года. В начале 19 века усадьба претерпела изменения: был заложен пейзажный парк, построен усадебный дом в стиле классицизма, а также хозпостройки](*<-lang_ru;; => nrel_format: format_html;;*);;
@@ -1089,17 +1089,17 @@ manor_kozel_poklevskih
     [Manor Kozel Poklevskih] (* <-lang_en;;*);
 
 //Иллюстрация
-//  <- rrel_key_sc_element: ...
-//(*
-//    <- illustration;;
-//    <= nrel_sc_text_translation: ...
-//    (*
-//        -> rrel_example: "file://image/manor_kozel_poklevskih.jpg"
-//        (*
-//            => nrel_format: format_jpg;;
-//        *);;
-//    *);;
-//*);
+  <- rrel_key_sc_element: ...
+(*
+    <- illustration;;
+    <= nrel_sc_text_translation: ...
+    (*
+        -> rrel_example: "file://image/manor_kozel_poklevskih.jpg"
+        (*
+            => nrel_format: format_jpg;;
+        *);;
+    *);;
+*);
 //Описание
 =>nrel_note:
          [<a href="https://www.belarus.by/ru/travel/belarus-life/koziell-poklewski-estate-krasny-bereg">Усадьба Козел-Поклевских</a>Усадьба и окружающий ее парк внесены в список историко-культурного наследия Беларуси и находятся под охраной государства. Эта достопримечательность Красного Берега входит в туристический маршрут "Золотое кольцо Гомельщины".](*<-lang_ru;; => nrel_format: format_html;;*);;
