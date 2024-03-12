@@ -1,0 +1,1212 @@
+concept_aldrovanda_vesiculosa
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_andreaea_rupestris
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_arnica_montana
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_aster_amellus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_astrantia_major
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_bankera_fuligineoalba
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_huperzia_selago
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_batrachospermum_moniliforme
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_betula_nana
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_betula_humilis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_berula_erecta
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cirsium_pannonicum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cirsium_heterophyllum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cirsium_canum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_boletopsis_leucomelaena
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_nymphoides_peltata
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_aconitum_lycoctomum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_aconitum_lasiostomum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_bryum_klinggraeffii
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_bryum_warneum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_bryum_schleicheri
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_herminium_monorchis
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_adenophora_lilifolia
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_valeriana_dioica
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cypripedium_calceolus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_anemone_sylvestris
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_trapa_natans
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cucubalus_baccifer
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_aruncus_vulgarus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_daphne_cneorum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_lithospermum_officinale
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_ganoderma_lucidum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_haplocladium_microphyllum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_hericium_coralloides
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_hygrophorus_nemoreus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_hygrophorus_limacinus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_hygrocybe_coccinea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_hydnotrya_tulasnei
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_hydrilla_verticillata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_hildenbrandtia_rivularis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_gymnocolea_inflata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_hypotrachyna_revoluta
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_conioselinum_tataricum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_laserpitium_latifolium
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_gentiana_cruciata
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_gentianella_amarella
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_peucedanum_cervaria
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_vicia_pisiformis
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_vicia_dumetorum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_leucoagaricus_nympharum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_grifola_frondosa
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_botrychium_multifidum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_botrychium_simplex
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_botrychium_anthemoides
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_botrychium_matricariifolium
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_linosyris_vulgaris
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_gagea_spathacea
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_dentipellis_fragilis
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_dicranum_viride
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_dichelyma_falcatum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_epipactis_atrorubens
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_genista_germanica
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_quercus_petraea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_angelica_palustris
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_sparganium_gramineum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_sparganium_glomeratum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_delphinium_elatum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_ajuga_pyramidalis
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_pinguicula_vulgaris
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_orobanche_reticulata
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_stellaria_crassifolia
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_hypericum_hirsutum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_hypericum_montanum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_hypericum_tetrapterum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_geastrum_campestre
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_dracocephalum_ruyschiana
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_dentaria_bulbifera
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_salix_lapponum
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_salix_myrtilloides
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_melittis_sarmatica
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_calicium_adspersum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_rugosomyces_ionides
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_calvatia_gigantea
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_saxifraga_hirculus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_saxifraga_granulata
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_campylopus_flexuosus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_iris_aphylla
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_iris_sibirica
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_caulinia_flexilis
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_caulinia_minor
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cotoneaster_melanocarpus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_clavariadelphus_pistillaris
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cladonia_caespiticia
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cladonia_foliacea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cladonia_amaurocraea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cladophora_aegagropila
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_trifolium_rubens
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_trifolium_spryginii
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cimicifuga_europaea
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_oxyccocus_microcarpus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_scorzonera_glabra
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_scorzonera_purpurea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_gymnadenia_conopsea
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_campanula_latifolia
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_phyteuma_nigrum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_asplenium_adiantum_nigrum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_bromopsis_benekenii
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_urtica_kioviensis
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_senecio_aquaticus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_senecio_fluviatilis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_senecio_rivularis
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_nuphar_pumila
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_nymphaea_alba
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_trollius_europaeus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_corallorhiza_trifida
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_potentilla_alba
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_potentilla_rupestris
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_thesium_ebracteatum
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_lepista_sordida
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_leptogium_lichenoides
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_leptogium_subtile
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lycopodiella_inundata
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_lilium_martagon
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_lindernia_procumbens
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_linnaea_borealis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cantharellus_cinereus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_lobaria_pulmonaria
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_lobelia_dortmanna
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_clematis_recta
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_liparis_loeselii
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lophozia_ascendens
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_allium_ursinum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_allium_schoenoprasum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lunaria_rediviva
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_platanthera_chlorantha
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_glyceria_lithuanica
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pulmonaria_mollis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_pulmonaria_angustifolia
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_meesia_triquetra
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_melanelia_sorediata
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_menegazzia_terebrata
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_moehringia_lateriflora
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_moerckia_hibernica
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cladium_mariscus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_polypodium_vulgare
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_polystichum_braunii
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_polystichum_aculeatum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_sempervivum_ruthenicum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_euphorbia_villosa
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_rubus_chamaemorus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pedicularis_kaufmannii
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_pedicularis_sylvatica
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pedicularis_sceptrum_carolinum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_malaxis_monophyllos
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_epipogium_aphyllum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_najas_major
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_najas_marina
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_neckera_pennata
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_neottianthe_cucullata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_nitella_gracilis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_nitellopsis_obtusa
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_nostoc_pruniforme
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_festuca_altissima
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_moneses_uniflora
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_ojibwaya_perpuchra
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_viscum_austriacum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_orthotrichum_lyellii
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_carex_heleonastes
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_carex_buxbaumii
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_carex_tomentosa
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_carex_capillaris
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_carex_davalliana
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_carex_paupercula
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_carex_rhizina
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_carex_pauciflora
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_carex_supina
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_carex_ornithopoda
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_carex_umbrosa
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_carex_hostiana
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_oxytropis_pilosa
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_ophrys_insectifera
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_dactylorhiza_ochroleuca
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_dactylorhiza_majalis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_paraleucobryum_longifolium
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_parmeliopsis_hyperopta
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_parmotrema_stuppeum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cortinarius_cagei
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cortinarius_elegantissimus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cortinarius_rheubarbarinus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_pelekium_minutulum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_peltigera_horizontalis
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_peltigera_aphthosa
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_peltigera_lepidophora
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pycnoporus_cinnabarinus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pinnularia_polyonca
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_abies_alba
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_plagiothecium_undulatum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_hedera_helix
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_elatine_hydropiper
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_galium_tinctorium
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_galium_triflorum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_polyporus_umbellatus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_coeloglossum_viride
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_isotes_lacustris
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_porella_platyphylla
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_porphyridium_purpureum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_littorella_uniflora
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_pulsatilla_pratensis
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_pulsatilla_patens
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_pseudobryum_cinclidioides
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_pseudocalliergon_lycopodioides
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pseudocalliergon_trifarium
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_pterigynandrum_filiforme
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cystopteris_sudetica
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_punctelia_subrudecta
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cenolophium_denudatum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_baeothryon_alpinum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_eriophorum_gracile
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cephalanthera_longifolia
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cephalanthera_rubra
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_isopyrum_thalictroides
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_ramalina_thrausta
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pleurospermum_austriacum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_arctium_nemorosum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_rhizocarpon_geographicum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_rhynchostegium_murale
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_riccia_beyrichiana
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_riccia_canaliculata
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_rhododendron_luteum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_pyrethrum_corymbosum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_drosera_intermedia
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_salvinia_natans
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_swertia_perennis
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_sistotrema_raduloides
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_scabiosa_columbaria
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_scapania_apiculata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_crepis_mollis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_galatella_rossica
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_sparassis_crispa
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_sparassis_laminosa
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_spathularia_flavida
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_stenopterobia_curvula
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_stenopterobia_delicatissima
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_stephensia_bombycina
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_sphagnum_lindbergii
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_sphagnum_molle
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_schistochilopsis_laxa
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_scytinostroma_odoratum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_listera_cordata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_listera_ovata
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_tortella_tortuosa
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_tofieldia_calyculata
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_trisetum_sibiricum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_tuber_borchii
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_tuber_aestivum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_umbilicaria_deusta
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_usnea_ceratina
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_usnea_florida
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_viola_montana
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_viola_uliginosa
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_fistulina_hepatica
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_auriculariopsis_albomellea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_fomitopsis_rosea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_fragilaria_arcus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_fragilaria_reicheltii
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_hammarbya_paludosa
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chara_tomentosa
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_chara_rudis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_chara_fragilis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_chara_polyacantha
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_chara_filiformis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_chara_aspera
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_equisetum_telmateia
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_chaenotheca_chlorella
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chaenotheca_gracilenta
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_corydalis_cava
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_corydalis_intermedia
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chrysolykos_planktonicus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_chrysolykos_angulatus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cetrelia_cetrarioides
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cephaloziella_elachista
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cephalozia_catenulata
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cymbella_ancyli
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cinclidium_stygium
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_cinclidotus_danubicus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_cinna_latifolia
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_veratrum_lobelianum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_prunella_grandiflora
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_lathyrus_laevigatus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_lathyrus_pisiformis
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lathyrus_linifolius
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_osmunda_regalis
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_salvia_pratensis
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_batrachium_kaufmannii
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_gladiolus_imbricatus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_hydrocotyle_vulgaris
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_evernia_divaricata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_orchis_morio
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_orchis_coriophora
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_orchis_mascula
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_orchis_ustulata
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_orchis_militaris
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_hordelymus_europaeus
+=> nrel_conservation_status:
+	concept_endangered;;
+

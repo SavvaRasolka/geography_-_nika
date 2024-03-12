@@ -1,0 +1,8 @@
+concept_vulnerable
+<- sc_node_class;
+=> nrel_main_idtf:
+	[Находятся в уязвимом положении] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Vulnerable species] (* <- lang_en;; *);
+=> nrel_note:
+	[Охранный статус, присваиваемый биологическим видам, которые находятся под риском стать вымирающими.] (* <- lang_ru;; *);;

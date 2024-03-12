@@ -1,0 +1,808 @@
+concept_hirudo_medicinalis
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_burhinus_oedicnemus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_anoplius_samariensis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_parnassius_mnemosine
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_salmo_salar
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_meles_meles
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lopinga_achine
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_lasiommata_petropolitana
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_oeneis_jutta
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_pseudanodonta_complanata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lagopus_lagopus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_parus_cyanus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_aythya_nyroca
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_dendrocopos_leucotos
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_aquila_chrysaetos
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_pallassiola_quadrispinosa
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_asio_flammeus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_emys_orbicularis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_botaurus_stellaris
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_limosa_limosa
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_numenius_arquata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_mergus_merganser
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_aquila_clanga
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_tringa_nebularia
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_strix_nebulosa
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_boros_schneideri
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_proserpinus_proserpina
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_glomeris_connexa
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_potosia_aeruginosa
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_liocola_marmorata
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_protaecia_fieberi
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_cordulegaster_boltonii
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_ursus_arctos
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_acrocephalus_paludicola
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_gerris_sphagnetorum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_glaucidium_passerinum
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_osmoderma_coriarium
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_gnorimus_variabilis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_charadrius_hiaticula
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lymnocryptes_minimus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_glaucopsyche_alexis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_maculinea_alcon
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_polyommatus_dorylas
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_phengaris_teleius
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_phengaris_nausithous
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_polyommatus_eroides
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_mustela_erminea
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_triturus_cristatus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_anser_erythropus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_ophiogomphus_cecilia
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_falco_columbarius
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_mergus_serrator
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_strix_uralensis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_limnocalanus_macrurus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_anax_imperator
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_athene_noctua
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_minois_dryas
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_gallinago_media
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_osmerus_eperlanus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_mustela_lutreola
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_lynx_lynx
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_barbastella_barbastellus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_bison_bonasus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_thymallus_thymallus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_colias_myrmidone
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_colias_palaeno
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_carabus_nitens
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_carabus_excellens
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_carabus_clathratus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_carabus_menetriesi
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_carabus_marginalis
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_carabus_intricatus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_carabus_violaceus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_carabus_coriaceus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_lucanus_cervus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chrysochraon_dispar
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_picus_viridis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_zerynthia_polyxena
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_circaetus_gallicus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pluvialis_apricaria
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_merops_apiaster
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_rhantus_incognitos
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_bufo_calamita
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_nycticorax_nycticorax
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_falco_vespertinus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_brachytron_pratense
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_aeschna_viridis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_crex_crex
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_spermophilus_suslicus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_milvus_milvus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_calosoma_inquisitor
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_haematopus_ostralegus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_salmo_trutta
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_mergellus_albellus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_sympecna_paedisca
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_nyctalus_leisleri
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_ixobrychus_minutus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_sterna_albifrons
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_larus_minutus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_porzana_parva
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_aquila_pomarina
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_ammobiota_hebe
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_rhyparioides_metelkana
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_arctia_villica
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_pericallia_matronula
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_coronella_austriaca
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_diachrysia_zosimi
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_conocephalus_dorsalis
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_conocephalus_discolor
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_lycaena_helle
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_xenus_cinereus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_ficedula_albicollis
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_nehalennia_speciosa
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_myotis_brandti
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_myotis_nattereri
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_pteromys_volans
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_falco_tinnunculus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_alcedo_atthis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_barbus_barbus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cricetus_cricetus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_eurytemora_lacustris
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_phoxinus_percnurus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_catocala_pacta
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_hieraaetus_pennatus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_muscardinus_avellanarius
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_haliaeetus_albicilla
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_parnopes_grandior
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_dolomedes_plantarius
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_clossiana_thore
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_clossiana_freja
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_clossiana_frigga
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_unio_crassus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_neptis_rivularis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_gnorimus_nobilis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_dytiscus_latissimus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_cucujus_cinnaberinus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_graphoderus_bilineatus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_prosopistoma_foliaceum
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_anthus_campestris
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_circus_cyaneus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_tringa_stagnatilis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_miliaria_calandra
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_myotis_dasycneme
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_dasypoda_argentata
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_xylocopa_valga
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chariaspilates_formosaria
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_gagiodes_sagittata
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_mysis_relicta
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_lampetra_fluviatilis
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_rhysodes_sulcatus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_ceruchus_chrysomelinus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_pontoporea_affinis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_salmo_trutta
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_vimba_vimba
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_emberiza_hortulana
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_eliomys_quercinus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_falco_peregrinus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_hipparchia_statilinus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_eptesicus_nilssoni
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_coenonympha_oedippus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_podiceps_grisegena
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_grus_grus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_plecotus_austriacus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_larus_canus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_coracias_garrulus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_tyto_alba
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_megascolia_maculate
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_pandion_haliaetus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chlaenius_sulcicollis
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chlaenius_costulatus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_chlaenius_quadrisulcatus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_arytrura_musculus
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_glis_glis
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_otus_scops
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_numenius_phaeopus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_emus_hirtus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_acipenser_ruthenus
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_coenagrion_armatum
+=> nrel_conservation_status:
+	concept_endangered;;
+
+concept_sphex_funerarius
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_picoides_tridactylus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_philomachus_pugnax
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_myotis_mystacinus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_panurus_biarmicus
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_cerambyx_cerdo
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_purpuricenus_kaehleri
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_tragosoma_depsarium
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_ergater_faber
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_bubo_bubo
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_galerida_cristata
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_falco_subbuteo
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_gavia_arctica
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_lanius_minor
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_erebia_aethiops
+=> nrel_conservation_status:
+	concept_critically_endangered;;
+
+concept_ciconia_nigra
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_milvus_migrans
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_euphydryas_aurinia
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_euphydryas_maturna
+=> nrel_conservation_status:
+	concept_near_threatened;;
+
+concept_anas_acuta
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_astacus_astacus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_bombus_muscorum
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_bombus_schrenckii
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
+concept_bombus_distinguendus
+=> nrel_conservation_status:
+	concept_vulnerable;;
+
