@@ -60,3 +60,119 @@ vitebsk_region => nrel_contains_animal: concept_triturus_cristatus;;
 gomel_region => nrel_contains_animal: concept_triturus_cristatus;;
 grodno_region => nrel_contains_animal: concept_triturus_cristatus;;
 mogilev_region => nrel_contains_animal: concept_triturus_cristatus;;
+
+brest_region => nrel_contains_animal: concept_ammobiota_hebe;;
+
+brest_region => nrel_contains_animal: concept_aquila_pomarina;;
+gomel_region => nrel_contains_animal: concept_aquila_pomarina;;
+
+polesie_state_radiation_ecological_reserve => nrel_contains_animal: concept_arctia_villica;;
+
+pripyat_national_park => nrel_contains_animal: concept_boletopsis_leucomelaena;;
+
+minsk_region => nrel_contains_animal: concept_calosoma_inquisitor;;
+brest_region => nrel_contains_animal: concept_calosoma_inquisitor;;
+vitebsk_region => nrel_contains_animal: concept_calosoma_inquisitor;;
+gomel_region => nrel_contains_animal: concept_calosoma_inquisitor;;
+grodno_region => nrel_contains_animal: concept_calosoma_inquisitor;;
+mogilev_region => nrel_contains_animal: concept_calosoma_inquisitor;;
+
+minsk_region => nrel_contains_animal: concept_circus_cyaneus;;
+brest_region => nrel_contains_animal: concept_circus_cyaneus;;
+vitebsk_region => nrel_contains_animal: concept_circus_cyaneus;;
+gomel_region => nrel_contains_animal: concept_circus_cyaneus;;
+grodno_region => nrel_contains_animal: concept_circus_cyaneus;;
+mogilev_region => nrel_contains_animal: concept_circus_cyaneus;;
+
+minsk_region => nrel_contains_animal: concept_diachrysia_zosimi;;
+brest_region => nrel_contains_animal: concept_diachrysia_zosimi;;
+vitebsk_region => nrel_contains_animal: concept_diachrysia_zosimi;;
+gomel_region => nrel_contains_animal: concept_diachrysia_zosimi;;
+grodno_region => nrel_contains_animal: concept_diachrysia_zosimi;;
+mogilev_region => nrel_contains_animal: concept_diachrysia_zosimi;;
+
+minsk_region => nrel_contains_animal: concept_dytiscus_latissimus;;
+brest_region => nrel_contains_animal: concept_dytiscus_latissimus;;
+vitebsk_region => nrel_contains_animal: concept_dytiscus_latissimus;;
+gomel_region => nrel_contains_animal: concept_dytiscus_latissimus;;
+grodno_region => nrel_contains_animal: concept_dytiscus_latissimus;;
+mogilev_region => nrel_contains_animal: concept_dytiscus_latissimus;;
+
+minsk_region => nrel_contains_animal: concept_eurytemora_lacustris;;
+brest_region => nrel_contains_animal: concept_eurytemora_lacustris;;
+vitebsk_region => nrel_contains_animal: concept_eurytemora_lacustris;;
+gomel_region => nrel_contains_animal: concept_eurytemora_lacustris;;
+grodno_region => nrel_contains_animal: concept_eurytemora_lacustris;;
+mogilev_region => nrel_contains_animal: concept_eurytemora_lacustris;;
+
+pripyat_national_park => nrel_contains_animal: concept_haliaeetus_albicilla;;
+
+brest_region => nrel_contains_animal: concept_hematopus_ostralegus;;
+
+lukovo => nrel_contains_animal: concept_lymnocryptes_minimus;;
+
+narochansky_national_park => nrel_contains_animal: concept_hieraaetus_pennatus;;
+
+pripyat_national_park => nrel_contains_animal: concept_ixobrychus_minutus;;
+
+grodno_region => nrel_contains_animal: concept_larus_minutus;;
+
+pripyat_national_park => nrel_contains_animal: concept_lycaena_helle;;
+
+pripyat_national_park => nrel_contains_animal: concept_mergellus_albellus;;
+
+pripyat_national_park => nrel_contains_animal: concept_milvus_milvus;;
+
+minsk_region => nrel_contains_animal: concept_muscardinus_avellanarius;;
+brest_region => nrel_contains_animal: concept_muscardinus_avellanarius;;
+vitebsk_region => nrel_contains_animal: concept_muscardinus_avellanarius;;
+gomel_region => nrel_contains_animal: concept_muscardinus_avellanarius;;
+grodno_region => nrel_contains_animal: concept_muscardinus_avellanarius;;
+mogilev_region => nrel_contains_animal: concept_muscardinus_avellanarius;;
+
+
+
+narochansky_national_park => nrel_contains_animal: concept_myotis_brandti;;
+narochansky_national_park => nrel_contains_animal: concept_myotis_brandti;;
+
+minsk_region => nrel_contains_animal: concept_nehalennia_speciosa;;
+brest_region => nrel_contains_animal: concept_nehalennia_speciosa;;
+vitebsk_region => nrel_contains_animal: concept_nehalennia_speciosa;;
+gomel_region => nrel_contains_animal: concept_nehalennia_speciosa;;
+grodno_region => nrel_contains_animal: concept_nehalennia_speciosa;;
+mogilev_region => nrel_contains_animal: concept_nehalennia_speciosa;;
+
+
+brest_region => nrel_contains_animal: concept_nyctalus_leisleri;;
+
+
+minsk_region => nrel_contains_animal: concept_phoxinus_percnurus;;
+brest_region => nrel_contains_animal: concept_phoxinus_percnurus;;
+vitebsk_region => nrel_contains_animal: concept_phoxinus_percnurus;;
+gomel_region => nrel_contains_animal: concept_phoxinus_percnurus;;
+
+vitebsk_region => nrel_contains_animal: concept_porzana_parva;;
+vitebsk_region => nrel_contains_animal: concept_porzana_parva;;
+
+
+minsk_region => nrel_contains_animal: concept_pteromys_volans;;
+brest_region => nrel_contains_animal: concept_pteromys_volans;;
+gomel_region => nrel_contains_animal: concept_pteromys_volans;;
+
+
+minsk_region => nrel_contains_animal: concept_rhyparioides_metelkana;;
+mogilev_region => nrel_contains_animal: concept_rhyparioides_metelkana;;
+
+
+polesie_state_radiation_ecological_reserve => nrel_contains_animal: concept_salmo_trutta;;
+polesie_state_radiation_ecological_reserve => nrel_contains_animal: concept_sterna_albifrons;;
+
+
+minsk_region => nrel_contains_animal: concept_sympecna_paedisca;;
+brest_region => nrel_contains_animal: concept_sympecna_paedisca;;
+mogilev_region => nrel_contains_animal: concept_sympecna_paedisca;;
+
+
+vitebsk_region => nrel_contains_animal: concept_xenus_cinereus;;
+gomel_region => nrel_contains_animal: concept_xenus_cinereus;;
+mogilev_region => nrel_contains_animal: concept_xenus_cinereus;;
