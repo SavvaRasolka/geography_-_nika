@@ -1,0 +1,27 @@
+concept_birch_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Березовые]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Бярозавыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5#:~:text=%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20(%D0%BB%D0%B0%D1%82.,%2C%20%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%2C%20%D0%9B%D0%B5%D1%89%D0%B8%D0%BD%D0%B0%20%D0%B8%20%D0%93%D1%80%D0%B0%D0%B1.">Семейство Березовые</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_birch_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Cемейство растений порядка Букоцветные, по современной классификации APG IV на декабрь 2023 года включающее в себя 210 видов из шести родов] (* <- lang_ru;; *);;

@@ -1,0 +1,27 @@
+concept_barberry_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Барбарисовые]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Барбарысавыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B5#:~:text=%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B8%CC%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20(%D0%BB%D0%B0%D1%82.,19%20%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%B8%20755%20%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2.&text=%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B8%D1%81%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9.,%D0%A2%D0%B8%D0%BF%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B2%D0%B8%D0%B4%2C%20%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%80%D0%BE%D0%B4%D0%B0.">Семейство Барбарисовые</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_barberry_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Семейство двудольных цветковых растений, входящее в порядок Лютикоцветные, состоящее из 19 родов и 755 видов. Наиболее крупный род семейства — Барбарис, состоящий из около 580 видов] (* <- lang_ru;; *);;

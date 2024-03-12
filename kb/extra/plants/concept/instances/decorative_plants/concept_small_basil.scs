@@ -1,0 +1,28 @@
+concept_small_basil
+<- concept_decorative_plant;
+=> nrel_plant_kind: concept_ranunculaceae_kind;
+=> nrel_main_idtf:
+    [Василистник малый]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Васілістнік малы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%BC%D0%B0%D0%BB%D1%8B%D0%B9">Василистник малый</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/decorative_plants_images/concept_small_basil.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Лучше всего произрастает на дренированных сухих или умеренно влажных, достаточно богатых почвах нейтральной или слабо кислой реакции, засухоустойчивое и морозостойкое растение] (* <- lang_ru;; *);;

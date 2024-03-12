@@ -1,0 +1,28 @@
+concept_rye
+<- concept_food_plant;
+=> nrel_plant_kind: concept_bluegrass_kind;
+=> nrel_main_idtf:
+    [Рожь посевная]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Жыта пасяўное]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D1%8C">Рожь посевная</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/food_plants_images/concept_rye.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Рожь посевна́я, или рожь культу́рная — однолетнее или двулетнее травянистое растение, вид рода рожь семейства злаки, или мятликовые. Рожь посевная является культурным растением, выращивают её в основном в Северном полушарии] (* <- lang_ru;; *);;

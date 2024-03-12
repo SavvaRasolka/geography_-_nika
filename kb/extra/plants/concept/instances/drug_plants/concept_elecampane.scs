@@ -1,0 +1,28 @@
+concept_elecampane
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_asteraceae_kind;
+=> nrel_main_idtf:
+    [Девясил высокий]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Дзівасіл высокі]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B2%D1%8F%D1%81%D0%B8%D0%BB_%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%B8%D0%B9">Девясил высокий</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_elecampane.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Цветёт в июле—сентябре. Плоды созревают в августе—октябре. . Растёт в лиственных и сосновых лесах и кустарниковых зарослях, в лесостепях и в горных лесах (на высоте до 2000 м), на лугах, полянах, по берегам рек, озёр, горных ручьев. ] (* <- lang_ru;; *);;

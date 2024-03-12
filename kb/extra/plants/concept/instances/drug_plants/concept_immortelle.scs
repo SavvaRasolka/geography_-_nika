@@ -1,0 +1,28 @@
+concept_immortelle
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_asteraceae_kind;
+=> nrel_main_idtf:
+    [Цмин песчаный]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Цмен пясчаны]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%BC%D0%B8%D0%BD_%D0%BF%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D1%8B%D0%B9">Цмин песчаный</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_immortelle.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Цмин обладает антибактериальной активностью, которую связывают с наличием смоляных кислот. Галеновые препараты растения улучшают жёлчеотделение, стимулирует синтез жёлчных кислот из холестерина, повышают содержание холатов и билирубина в жёлчи.Встречается на сухих песчаных, а также супесчаных и каменистых почвах, солончаках, полях, по склонам холмов, в светлых лесах (особенно сосновых), в степях и полупустынях, на остепненных лугах, меловых обнажениях и дюнах. ] (* <- lang_ru;; *);;

@@ -1,0 +1,28 @@
+concept_buttercup_caustic
+<- concept_decorative_plant;
+=> nrel_plant_kind: concept_ranunculaceae_kind;
+=> nrel_main_idtf:
+    [Лютик едкий]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Люцік з'едлівы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D1%82%D0%B8%D0%BA_%D0%B5%D0%B4%D0%BA%D0%B8%D0%B9">Лютик едкий</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/decorative_plants_images/concept_buttercup_caustic.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Лютик едкий — многолетнее травянистое растение, достигает в высоту 20—50 см.] (* <- lang_ru;; *);;

@@ -1,0 +1,28 @@
+concept_black_locust
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_fabaceae_kind;
+=> nrel_main_idtf:
+    [Робиния ложноакациевая]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Белая акацыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B8%D1%8F_%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D0%B0%D0%BA%D0%B0%D1%86%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F">Робиния ложноакациевая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_black_locust.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Препараты робинии используют как спазмолитическое, мочегонное, жаропонижающее, гипотензивное и легкое слабительное средство. Растёт быстро, особенно до 10 лет, ежегодный прирост в высоту 60—80 см, в ширину 20—30 см. Развивает глубокую и мощную корневую систему; даёт поросль от пня и корневые отпрыски. Цветёт уже в шестилетнем возрасте. ] (* <- lang_ru;; *);;

@@ -1,0 +1,28 @@
+concept_vaccinium_marshy
+<- concept_food_plant;
+=> nrel_plant_kind: concept_ericaceae_kind;
+=> nrel_main_idtf:
+    [Вакциниум топяной]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Вакцыніум тваністы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B8%D1%83%D0%BC#:~:text=%D0%A1%D0%A8%D0%90%20%D0%B8%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B5.-,Vaccinium%20uliginosum%20L.,%D0%BE%D1%82%20%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%BA%D0%B8%2C%20%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D0%B5%D0%B5%D1%82%20%D0%BF%D0%BE%D1%87%D1%82%D0%B8%20%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D1%83.">Вакциниум топяной</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/food_plants_images/concept_vaccinium_marshy.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Голубика, или Голубика обыкновенная, или Голубика болотная, или Голубика топяная, или Голубика низкорослая. Морозостойкий листопадный кустарник высотой до одного метра со стеблем, который, в отличие от черники, древеснеет почти доверху] (* <- lang_ru;; *);;

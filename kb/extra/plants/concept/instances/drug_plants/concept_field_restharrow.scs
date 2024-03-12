@@ -1,0 +1,28 @@
+concept_field_restharrow
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_fabaceae_kind;
+=> nrel_main_idtf:
+    [Стальник полевой]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Стальнік палявы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://be.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%96%D0%BA_%D0%BF%D0%B0%D0%BB%D1%8F%D0%B2%D1%8B">Стальник полевой</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_field_restharrow.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[В народной медицине отвар корней служит мочегонным и потогонным средством безвредным для почек. Входит в европейские фармакопеи в качестве деятельного мочегонного средства. Размножается семенами. Перед посевом для повышения всхожести его стратифицируют и перетирают с песком.Высевают стальник рано весной, как только позволит состояние почвы. Уход за посевами начинается сразу же после появления всходов. В фазе 6-8 листочков проводят букетировку. В течение лета почву рыхлят 3-4 раза, удаляя сорняки.  ] (* <- lang_ru;; *);;

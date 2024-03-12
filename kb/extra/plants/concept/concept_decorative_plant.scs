@@ -1,0 +1,8 @@
+concept_decorative_plant
+<- sc_node_class;
+=> nrel_main_idtf:
+	[декоративное растение] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[decorative plant] (* <- lang_en;; *);
+=> nrel_note:
+	[Обширная группа травянистых и древесно-кустарниковых растений, применяемых для внутреннего и внешнего озеленения] (* <- lang_ru;; *);;

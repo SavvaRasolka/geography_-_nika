@@ -1,0 +1,28 @@
+concept_horseradish
+<- concept_food_plant;
+=> nrel_plant_kind: concept_brassicas_kind;
+=> nrel_main_idtf:
+    [Хрен обыкновенный]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Хрэн звычайны]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B5%D0%BD">Хрен обыкновенный</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/food_plants_images/concept_horseradish.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Хрен обыкнове́нный, или Хрен дереве́нский, — многолетнее травянистое растение, вид рода Хрен семейства Капустные. Популярное культурное растение; листья и корни используются в кулинарии и медицине] (* <- lang_ru;; *);;

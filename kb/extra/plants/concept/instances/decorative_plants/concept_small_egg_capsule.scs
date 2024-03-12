@@ -1,0 +1,28 @@
+concept_small_egg_capsule
+<- concept_decorative_plant;
+=> nrel_plant_kind: concept_water_lilies_kind;
+=> nrel_main_idtf:
+    [Кубышка малая]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Кубачка малая]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D1%8B%D1%88%D0%BA%D0%B0_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F">Кубышка малая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/decorative_plants_images/concept_small_egg_capsule.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Вид многолетних травянистых растений рода Кубышка (Nuphar) семейства Кувшинковые (Nymphaeaceae). Пластинки плавающих листьев до 17 см длиной, снизу коротковолосистые, черешки в верхней части почти плоские. Ширина листовой пластинки 6,3—10 см. Число главных жилок 9—14.] (* <- lang_ru;; *);;

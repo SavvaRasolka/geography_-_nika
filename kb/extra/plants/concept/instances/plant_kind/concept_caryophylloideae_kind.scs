@@ -1,0 +1,28 @@
+concept_caryophylloideae_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Гвоздичные]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Гваздзіковыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_(%D0%BF%D0%BE%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE)">Семейство Гвоздичные</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_caryophylloideae_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Многие виды выращиваются в качестве декоративных растений. Характерный признак подсемейства — более или менее выраженное срастание чашелистиков в основании, в то время как у других семейств они свободны. ] (* <- lang_ru;; *);;
+	

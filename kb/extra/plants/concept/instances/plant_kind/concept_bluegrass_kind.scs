@@ -1,0 +1,27 @@
+concept_bluegrass_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Мятликовые]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Мятлікавыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BB%D0%B0%D0%BA%D0%B8">Семейство Мятликовые</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_bluegrass_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Семейство однодольных растений, к которому относятся такие широко используемые в сельском хозяйстве растения, как пшеница, рожь, овёс, рис, кукуруза, ячмень, просо, бамбук, сахарный тростник] (* <- lang_ru;; *);;

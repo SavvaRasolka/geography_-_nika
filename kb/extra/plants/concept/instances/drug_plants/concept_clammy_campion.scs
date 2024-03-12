@@ -1,0 +1,28 @@
+concept_clammy_campion
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_caryophylloideae_kind;
+=> nrel_main_idtf:
+    [Смолка клейкая]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Смолка ліпкая]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0%D1%8F">Смолка клейкая</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_clammy_campion.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[По отношению к увлажнению относится к ксеромезофитам, полурозеточным стержнекорневым гемикриптофитам, что позволяет ей легко выдерживать несильную засуху в летний период] (* <- lang_ru;; *);;

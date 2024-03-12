@@ -1,0 +1,28 @@
+concept_glandular
+<- concept_drug_plant;
+=> nrel_plant_kind: concept_asteraceae_kind;
+=> nrel_main_idtf:
+    [Мордовник шароголовый]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Мардоўнік шараголовы]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D1%88%D0%B0%D1%80%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9">Мордовник шароголовый</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/drug_plants_images/concept_glandular.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Введён в культуру как лекарственное растение: размножается семенами, в первый год образуется розетка, на втором году зацветает. После плодоношения растения отмирают, но иногда из почек возобновления на корневой шейке образуются новые розетки. В сухих местообитаниях всегда ведет себя как монокарпик.  Обычно растёт по опушкам, в кустарниках, на лугах, иногда на каменистых и щебенистых склонах, известняковых обнажениях, у жилья] (* <- lang_ru;; *);;

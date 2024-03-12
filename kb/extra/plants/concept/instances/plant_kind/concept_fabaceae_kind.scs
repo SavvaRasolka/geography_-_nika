@@ -1,0 +1,28 @@
+concept_fabaceae_kind
+<- concept_plant_kind;
+=> nrel_main_idtf:
+    [Семейство Бобовые]
+      (* <- lang_ru;; <- name_ru;; *);
+    [Сямейства Бабовыя]
+      (* <- name;; *);
+=> nrel_wiki_link: 
+  [
+    <body>
+      <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D0%BE%D0%B2%D1%8B%D0%B5">Семейство Бобовые</a>
+    </body>
+  ] 
+    (* => nrel_format: format_html;; *);
+<- rrel_key_sc_element:
+	... 
+	(*
+	<- illustration;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			"file://../images/plant_kind_images/concept_fabaceae_kind.jpg" (* => nrel_format: format_jpg;; *);; 
+		*);;
+	*);
+=> nrel_note:
+	[Семейство двудольных растений, включает 24 500 видов, объединённых в 800 родов. Это видовое богатство особенно сосредоточено в подсемействах Мимозовые и Мотыльковые. Важный отличительный внешний признак — сухой, обычно многосемянный, раскрывающийся двумя створками одногнёздный плод с расположенными в ряд семенами — по-научному называется бобом. ] (* <- lang_ru;; *);;
+	
