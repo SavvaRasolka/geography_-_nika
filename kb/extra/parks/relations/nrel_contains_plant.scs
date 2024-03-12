@@ -1,9 +1,149 @@
-nrel_contains_plant
-<- sc_node_norole_relation;
-<- relation;
+nrel_contains_plant <- sc_node_norole_relation;
+nrel_contains_plant <- relation;
 => nrel_main_idtf:
-	[включает растение*] (* <- lang_ru;; *);
+    [содержит растение*] (* <- lang_ru;; *);
 => nrel_main_idtf:
-	[contains plant*] (* <- lang_en;; *);;
+    [contains plant*] (* <- lang_en;; *);
 
-belovezhskaya_pushcha_national_park => nrel_contains_plant: plant;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_anemone_oak_forest;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_blue_eye_septentrionale;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_borodnik_broodnik;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_buttercup_caustic;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_caustic_sedum;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_curly_mallow;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_gladiolus_imbricata;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_great_sedum;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_hibiscus_trifoliata;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_larkspur_high;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_leafless_iris;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_marsh_marigold;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_moorish_mallow;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_musk_mallow;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_roofing_rejuvenated;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_ruprecht_sedum;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_sedum_purple;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_siberian_iris;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_small_basil;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_small_egg_capsule;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_water_lily_pure_white;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_water_lily_tetrahedral;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_white_water_lily;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_yellow_egg_capsule;;
+belovezhskaya_pushcha_national_park => nrel_contains_plant: concept_yellow_iris;;
+
+
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_arnica_montana;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_astragalus_glycyphyllos;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_bidens_tripartia;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_bistort;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_black_locust;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_butterbur;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_clammy_campion;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_common_chicory;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_crownvetch;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_digitalis_grandiflora;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_digitalis_lanata;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_digitalis_purpurea;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_elecampane;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_field_restharrow;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_glandular;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_immortelle;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_large_pink;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_licorice;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_maiden_pink;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_matricaria_chamomilla;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_melilotus_albus;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_rumex;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_soapweed;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_sunroot;;
+berezinsky_biosphere_reserve => nrel_contains_plant: concept_tansy;;
+
+castle_forest => nrel_contains_plant: concept_alpine_currant;;
+
+chirkovichi => nrel_contains_plant: concept_blueberry;;
+chirkovichi => nrel_contains_plant: concept_common_barberry;;
+
+dokudovsky => nrel_contains_plant: concept_common_corn;;
+
+glebkovka => nrel_contains_plant: concept_common_hazel;;
+
+miranka => nrel_contains_plant: concept_common_lingonberry;;
+miranka => nrel_contains_plant: concept_common_pear;;
+
+polesie_state_radiation_ecological_reserve => nrel_contains_plant: concept_cumin;;
+
+pripyat_national_park => nrel_contains_plant: concept_english_oak;;
+
+slonimsky => nrel_contains_plant: concept_european_gooseberry;;
+slonimsky => nrel_contains_plant: concept_horseradish;;
+
+sosno => nrel_contains_plant: concept_lovage_officinalis;;
+
+wildlife_sanctuary_vygonoshchanskoe => nrel_contains_plant: concept_peas;;
+wildlife_sanctuary_vygonoshchanskoe => nrel_contains_plant: concept_rosehip_may;;
+
+wildlife_sanctuary_gayno_brodnya => nrel_contains_plant: concept_rye;;
+wildlife_sanctuary_gayno_brodnya => nrel_contains_plant: concept_small_ruited_cranberry;;
+
+wildlife_sanctuary_dolgoye => nrel_contains_plant: concept_swamp_cranberry;;
+
+wildlife_sanctuary_drozhbitka_svina => nrel_contains_plant: concept_vaccinium_marshy;;
+
+wildlife_sanctuary_elnya => nrel_contains_plant: concept_viburnum_common;;
+
+wildlife_sanctuary_kozyanskiy => nrel_contains_plant: concept_wild_strawberry;;
+
+wildlife_sanctuary_korytinskiy_moh => nrel_contains_plant: concept_arnica_montana;;
+
+wildlife_sanctuary_naliboki => nrel_contains_plant: concept_astragalus_glycyphyllos;;
+
+wildlife_sanctuary_ozery => nrel_contains_plant: concept_bidens_tripartia;;
+
+wildlife_sanctuary_osveiskii => nrel_contains_plant: concept_bistort;;
+
+svityazansky => nrel_contains_plant: concept_black_locust;;
+
+selyava => nrel_contains_plant: concept_butterbur;;
+selyava => nrel_contains_plant: concept_clammy_campion;;
+
+sinsha => nrel_contains_plant: concept_common_chicory;;
+sinsha => nrel_contains_plant: concept_crownvetch;;
+sinsha => nrel_contains_plant: concept_digitalis_grandiflora;;
+sinsha => nrel_contains_plant: concept_digitalis_lanata;;
+
+
+
+wildlife_sanctuary_sporovskii => nrel_contains_plant: concept_digitalis_purpurea;;
+
+narochansky_national_park => nrel_contains_plant: concept_elecampane;;
+narochansky_national_park => nrel_contains_plant: concept_field_restharrow;;
+narochansky_national_park => nrel_contains_plant: concept_glandular;;
+narochansky_national_park => nrel_contains_plant: concept_immortelle;;
+narochansky_national_park => nrel_contains_plant: concept_large_pink;;
+narochansky_national_park => nrel_contains_plant: concept_licorice;;
+narochansky_national_park => nrel_contains_plant: concept_maiden_pink;;
+narochansky_national_park => nrel_contains_plant: concept_matricaria_chamomilla;;
+narochansky_national_park => nrel_contains_plant: concept_melilotus_albus;;
+narochansky_national_park => nrel_contains_plant: concept_rumex;;
+narochansky_national_park => nrel_contains_plant: concept_soapweed;;
+narochansky_national_park => nrel_contains_plant: concept_sunroot;;
+narochansky_national_park => nrel_contains_plant: concept_tansy;;
+narochansky_national_park => nrel_contains_plant: concept_alpine_currant;;
+narochansky_national_park => nrel_contains_plant: concept_blueberry;;
+narochansky_national_park => nrel_contains_plant: concept_common_barberry;;
+
+wildlife_sanctuary_shvakshty => nrel_contains_plant: concept_cumin;;
+wildlife_sanctuary_shvakshty => nrel_contains_plant: concept_currant_cluster;;
+
+braslav_lakes_national_park => nrel_contains_plant: concept_english_oak;;
+braslav_lakes_national_park => nrel_contains_plant: concept_european_gooseberry;;
+braslav_lakes_national_park => nrel_contains_plant: concept_horseradish;;
+braslav_lakes_national_park => nrel_contains_plant: concept_lovage_officinalis;;
+braslav_lakes_national_park => nrel_contains_plant: concept_peas;;
+braslav_lakes_national_park => nrel_contains_plant: concept_rosehip_may;;
+braslav_lakes_national_park => nrel_contains_plant: concept_rye;;
+braslav_lakes_national_park => nrel_contains_plant: concept_small_ruited_cranberry;;
+braslav_lakes_national_park => nrel_contains_plant: concept_swamp_cranberry;;
+braslav_lakes_national_park => nrel_contains_plant: concept_vaccinium_marshy;;
+braslav_lakes_national_park => nrel_contains_plant: concept_viburnum_common;;
+braslav_lakes_national_park => nrel_contains_plant: concept_wild_strawberry;;
